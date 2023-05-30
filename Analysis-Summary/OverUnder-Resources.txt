@@ -1,0 +1,31 @@
+Over/Under
+
+The most common type of over/under bet is placed on the combined score of the two teams playing in the game.
+The concept of betting on totals, or better known as over/under, in NFL betting comprises of wagers being placed on whether the total amount of points scored within a game will be higher or lower than a pre-determined number set by the corresponding sportsbook being used. Similarly to the spread, the Over/Under can aid in predicting the outcome of a game. 
+In the event that a game exceeds regular game time play, overtime will be included. If the outcome of the total points for the game falls exactly on the quotted line/pre-determined value, the total is then declared as a "push", in which all wagers are returned to the bettors.
+
+
+======================================
+
+Resources found online that were used throughout this assignment:
+
+1) Real-time sports data API
+ 
+As one of the resources, "https://sportsdata.io/developers/api-documentation/nfl#" was used to extract data using an API key. Which provided access to NFL metadata, live odds feeds, predictions, settelements and results, splits, matchups, trends, active sportsbooks and many more that can be sorted and categorized by team, game date, game season (pre,regular&post), market ID, market type, event, player stats, team stats and many more.
+
+2) nflgame v.1.2.20
+
+An API used to retrieve and read NFL Game Center Json data was nflgame "https://pypi.org/project/nflgame/".
+This python extension works by parsing the same JSON data that powers NFL.com's live GameCenter, which means it can be used to report game statistics while a game is being played.
+
+3) NFL Teams
+
+An exisiting .csv file dataset for NFL Teams was found on "https://www.kaggle.com/datasets/tobycrabtree/nfl-scores-and-betting-data". This dataset consisted of all 32 NFL team names, ID's, conferences and divisions.
+
+4) Game Score History
+
+An existing .csv file dataset was found on www.kaggle.com, owned by SpreadSpoke. This dataset consisted of NFL football games since the 1966 season with game results and descriptive info including if a playoff game, played at a neutral site, and weather information if available. 
+
+5) NFL Stadiums
+
+An exisiting .csv file dataset was found on www.kaggle.com. This dataset consisted of NFL Stadium information, past and present. 
