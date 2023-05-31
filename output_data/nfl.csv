@@ -6,18 +6,18 @@
 10813,9/8/2013,2013,1,False,CLE,10,23,MIA,CLE,-2.5,40.5,FirstEnergy Stadium,False,72.0,16.0,80.0,
 10814,9/8/2013,2013,1,False,DAL,36,31,NYG,DAL,-3.5,50,Cowboys Stadium,False,72.0,0.0,,indoor
 10815,9/8/2013,2013,1,False,DET,34,24,MIN,DET,-4.5,47.5,Ford Field,False,72.0,0.0,,indoor
-10816,9/8/2013,2013,1,False,IND,21,17,OAK,IND,-11.5,45.5,Lucas Oil Stadium,False,72.0,0.0,,indoor
+10816,9/8/2013,2013,1,False,IND,21,17,LVR,IND,-11.5,45.5,Lucas Oil Stadium,False,72.0,0.0,,indoor
 10817,9/8/2013,2013,1,False,JAX,2,28,KC,KC,-4.5,43,EverBank Field,False,87.0,10.0,55.0,
 10818,9/8/2013,2013,1,False,NO,23,17,ATL,NO,-3.5,56,Louisiana Superdome,False,72.0,0.0,,indoor
 10819,9/8/2013,2013,1,False,NYJ,18,17,TB,TB,-6.0,39,MetLife Stadium,False,82.0,9.0,50.0,
 10820,9/8/2013,2013,1,False,PIT,9,16,TEN,PIT,-6.0,42,Heinz Field,False,74.0,9.0,76.0,
 10821,9/8/2013,2013,1,False,SF,34,28,GB,SF,-5.0,48.5,Candlestick Park,False,69.0,6.0,67.0,
-10822,9/8/2013,2013,1,False,STL,27,24,ARI,LAR,-3.5,41.5,Edward Jones Dome,False,72.0,0.0,,indoor
+10822,9/8/2013,2013,1,False,LAR,27,24,ARI,LAR,-3.5,41.5,Edward Jones Dome,False,72.0,0.0,,indoor
 10823,9/9/2013,2013,1,False,LAC,28,31,HOU,HOU,-6.5,45.5,Qualcomm Stadium,False,70.0,3.0,73.0,
 10824,9/9/2013,2013,1,False,WAS,27,33,PHI,WAS,-4.5,53.5,FedEx Field,False,80.0,9.0,52.0,
 10825,9/12/2013,2013,2,False,NE,13,10,NYJ,NE,-11.5,43.5,Gillette Stadium,False,72.0,8.0,89.0,rain | fog
 10826,9/15/2013,2013,2,False,ARI,25,21,DET,DET,-2.0,48.5,University of Phoenix Stadium,False,72.0,0.0,,indoor
-10827,9/15/2013,2013,2,False,ATL,31,24,STL,ATL,-5.5,47.5,Georgia Dome,False,72.0,0.0,,indoor
+10827,9/15/2013,2013,2,False,ATL,31,24,LAR,ATL,-5.5,47.5,Georgia Dome,False,72.0,0.0,,indoor
 10828,9/15/2013,2013,2,False,BAL,14,6,CLE,BAL,-7.0,44,M&T Bank Stadium,False,78.0,6.0,37.0,
 10829,9/15/2013,2013,2,False,BUF,24,23,CAR,CAR,-3.5,43.5,Ralph Wilson Stadium,False,66.0,10.0,59.0,
 10830,9/15/2013,2013,2,False,CHI,31,30,MIN,CHI,-6.5,42,Soldier Field,False,62.0,6.0,76.0,rain
@@ -26,7 +26,7 @@
 10833,9/15/2013,2013,2,False,IND,20,24,MIA,IND,-3.0,44,Lucas Oil Stadium,False,72.0,0.0,,indoor
 10834,9/15/2013,2013,2,False,KC,17,16,DAL,KC,-3.0,46,Arrowhead Stadium,False,79.0,6.0,69.0,
 10835,9/15/2013,2013,2,False,NYG,23,41,DEN,DEN,-4.0,55.5,MetLife Stadium,False,70.0,3.0,33.0,
-10836,9/15/2013,2013,2,False,OAK,19,9,JAX,LVR,-5.0,40,Oakland Coliseum,False,76.0,9.0,52.0,
+10836,9/15/2013,2013,2,False,LVR,19,9,JAX,LVR,-5.0,40,Oakland Coliseum,False,76.0,9.0,52.0,
 10837,9/15/2013,2013,2,False,PHI,30,33,LAC,PHI,-7.5,54,Lincoln Financial Field,False,72.0,7.0,40.0,
 10838,9/15/2013,2013,2,False,SEA,29,3,SF,SEA,-2.5,44.5,CenturyLink Field,False,64.0,6.0,81.0,rain
 10839,9/15/2013,2013,2,False,TB,14,16,NO,NO,-4.0,48.5,Raymond James Stadium,False,93.0,8.0,47.0,
@@ -35,7 +35,7 @@
 10842,9/22/2013,2013,3,False,BAL,30,9,HOU,HOU,-1.0,44.5,M&T Bank Stadium,False,73.0,9.0,44.0,
 10843,9/22/2013,2013,3,False,CAR,38,0,NYG,NYG,-3.0,47,Bank of America Stadium,False,77.0,15.0,52.0,
 10844,9/22/2013,2013,3,False,CIN,34,30,GB,GB,-3.0,50.5,Paul Brown Stadium,False,67.0,7.0,52.0,
-10845,9/22/2013,2013,3,False,DAL,31,7,STL,DAL,-3.5,47,Cowboys Stadium,False,72.0,0.0,,indoor
+10845,9/22/2013,2013,3,False,DAL,31,7,LAR,DAL,-3.5,47,Cowboys Stadium,False,72.0,0.0,,indoor
 10846,9/22/2013,2013,3,False,MIA,27,23,ATL,MIA,-2.5,46,Sun Life Stadium,False,89.0,8.0,58.0,
 10847,9/22/2013,2013,3,False,MIN,27,31,CLE,MIN,-7.0,40.5,Mall of America Field,False,72.0,0.0,,indoor
 10848,9/22/2013,2013,3,False,NE,23,3,TB,NE,-7.5,45,Gillette Stadium,False,72.0,9.0,72.0,
@@ -46,8 +46,8 @@
 10853,9/22/2013,2013,3,False,SEA,45,17,JAX,SEA,-20.0,39.5,CenturyLink Field,False,61.0,17.0,87.0,
 10854,9/22/2013,2013,3,False,TEN,20,17,LAC,TEN,-3.0,43.5,Nissan Stadium,False,76.0,7.0,46.0,
 10855,9/22/2013,2013,3,False,WAS,20,27,DET,DET,-1.0,49.5,FedEx Field,False,72.0,8.0,51.0,
-10856,9/23/2013,2013,3,False,DEN,37,21,OAK,DEN,-16.5,50,Sports Authority Field at Mile High,False,64.0,16.0,28.0,
-10857,9/26/2013,2013,4,False,STL,11,35,SF,SF,-4.0,43.5,Edward Jones Dome,False,72.0,0.0,,indoor
+10856,9/23/2013,2013,3,False,DEN,37,21,LVR,DEN,-16.5,50,Sports Authority Field at Mile High,False,64.0,16.0,28.0,
+10857,9/26/2013,2013,4,False,LAR,11,35,SF,SF,-4.0,43.5,Edward Jones Dome,False,72.0,0.0,,indoor
 10858,9/29/2013,2013,4,False,ATL,23,30,NE,ATL,-3.0,50,Georgia Dome,False,72.0,0.0,,indoor
 10859,9/29/2013,2013,4,False,BUF,23,20,BAL,BAL,-4.0,45,Ralph Wilson Stadium,False,74.0,8.0,57.0,
 10860,9/29/2013,2013,4,False,CLE,17,6,CIN,CIN,-4.5,42.5,FirstEnergy Stadium,False,73.0,9.0,67.0,
@@ -57,7 +57,7 @@
 10864,9/29/2013,2013,4,False,JAX,3,37,IND,IND,-9.5,42.5,EverBank Field,False,80.0,12.0,65.0,
 10865,9/29/2013,2013,4,False,KC,31,7,NYG,KC,-4.5,44,Arrowhead Stadium,False,73.0,5.0,65.0,
 10866,9/29/2013,2013,4,False,MIN,34,27,PIT,PIT,-3.0,41.5,Wembley Stadium,True,54.0,11.0,86.0,
-10867,9/29/2013,2013,4,False,OAK,14,24,WAS,WAS,-4.0,46,Oakland Coliseum,False,77.0,5.0,52.0,
+10867,9/29/2013,2013,4,False,LVR,14,24,WAS,WAS,-4.0,46,Oakland Coliseum,False,77.0,5.0,52.0,
 10868,9/29/2013,2013,4,False,LAC,30,21,DAL,DAL,-1.5,48,Qualcomm Stadium,False,80.0,7.0,27.0,
 10869,9/29/2013,2013,4,False,TB,10,13,ARI,TB,-2.5,40,Raymond James Stadium,False,84.0,7.0,55.0,
 10870,9/29/2013,2013,4,False,TEN,38,13,NYJ,TEN,-3.5,40.5,Nissan Stadium,False,74.0,4.0,51.0,rain
@@ -71,9 +71,9 @@
 10878,10/6/2013,2013,5,False,IND,34,28,SEA,SEA,-3.0,44,Lucas Oil Stadium,False,72.0,0.0,,indoor
 10879,10/6/2013,2013,5,False,MIA,23,26,BAL,MIA,-2.5,43,Sun Life Stadium,False,87.0,6.0,56.0,
 10880,10/6/2013,2013,5,False,NYG,21,36,PHI,NYG,-1.5,54,MetLife Stadium,False,69.0,9.0,100.0,fog
-10881,10/6/2013,2013,5,False,OAK,27,17,LAC,LAC,-5.0,47,Oakland Coliseum,False,70.0,2.0,,
+10881,10/6/2013,2013,5,False,LVR,27,17,LAC,LAC,-5.0,47,Oakland Coliseum,False,70.0,2.0,,
 10882,10/6/2013,2013,5,False,SF,34,3,HOU,SF,-4.5,44,Candlestick Park,False,76.0,9.0,40.0,
-10883,10/6/2013,2013,5,False,STL,34,20,JAX,LAR,-11.0,41,Edward Jones Dome,False,72.0,0.0,,indoor
+10883,10/6/2013,2013,5,False,LAR,34,20,JAX,LAR,-11.0,41,Edward Jones Dome,False,72.0,0.0,,indoor
 10884,10/6/2013,2013,5,False,TEN,17,26,KC,KC,-3.0,38.5,Nissan Stadium,False,74.0,6.0,83.0,rain
 10885,10/7/2013,2013,5,False,ATL,28,30,NYJ,ATL,-10.5,45,Georgia Dome,False,72.0,0.0,,indoor
 10886,10/10/2013,2013,6,False,CHI,27,21,NYG,CHI,-8.5,48,Soldier Field,False,63.0,6.0,74.0,
@@ -82,8 +82,8 @@
 10889,10/13/2013,2013,6,False,CLE,17,31,DET,DET,-2.5,43.5,FirstEnergy Stadium,False,67.0,8.0,78.0,
 10890,10/13/2013,2013,6,False,DAL,31,16,WAS,DAL,-5.5,51.5,Cowboys Stadium,False,72.0,0.0,,indoor
 10891,10/13/2013,2013,6,False,DEN,35,19,JAX,DEN,-26.5,52,Sports Authority Field at Mile High,False,59.0,7.0,53.0,
-10892,10/13/2013,2013,6,False,HOU,13,38,STL,HOU,-9.0,42.5,Reliant Stadium,False,76.0,5.0,94.0,retractable (open roof)
-10893,10/13/2013,2013,6,False,KC,24,7,OAK,KC,-7.5,41.5,Arrowhead Stadium,False,70.0,7.0,41.0,
+10892,10/13/2013,2013,6,False,HOU,13,38,LAR,HOU,-9.0,42.5,Reliant Stadium,False,76.0,5.0,94.0,retractable (open roof)
+10893,10/13/2013,2013,6,False,KC,24,7,LVR,KC,-7.5,41.5,Arrowhead Stadium,False,70.0,7.0,41.0,
 10894,10/13/2013,2013,6,False,MIN,10,35,CAR,MIN,-2.5,44.5,Mall of America Field,False,72.0,0.0,,indoor
 10895,10/13/2013,2013,6,False,NE,30,27,NO,NE,-2.5,50,Gillette Stadium,False,59.0,7.0,57.0,
 10896,10/13/2013,2013,6,False,NYJ,6,19,PIT,PIT,-1.5,41,MetLife Stadium,False,65.0,10.0,68.0,
@@ -93,7 +93,7 @@
 10900,10/14/2013,2013,6,False,LAC,19,9,IND,PICK,0.0,50.5,Qualcomm Stadium,False,69.0,3.0,69.0,
 10901,10/17/2013,2013,7,False,ARI,22,34,SEA,SEA,-4.5,41.5,University of Phoenix Stadium,False,72.0,0.0,,indoor
 10902,10/20/2013,2013,7,False,ATL,31,23,TB,ATL,-6.5,43,Georgia Dome,False,72.0,0.0,,indoor
-10903,10/20/2013,2013,7,False,CAR,30,15,STL,CAR,-7.0,42,Bank of America Stadium,False,68.0,4.0,42.0,
+10903,10/20/2013,2013,7,False,CAR,30,15,LAR,CAR,-7.0,42,Bank of America Stadium,False,68.0,4.0,42.0,
 10904,10/20/2013,2013,7,False,DET,24,27,CIN,DET,-1.5,46,Ford Field,False,72.0,0.0,,indoor
 10905,10/20/2013,2013,7,False,GB,31,13,CLE,GB,-9.5,45,Lambeau Field,False,46.0,8.0,65.0,
 10906,10/20/2013,2013,7,False,IND,39,33,DEN,DEN,-6.0,55.5,Lucas Oil Stadium,False,72.0,0.0,,indoor
@@ -116,9 +116,9 @@
 10923,10/27/2013,2013,8,False,MIN,31,44,GB,GB,-7.5,47,Mall of America Field,False,72.0,0.0,,indoor
 10924,10/27/2013,2013,8,False,NE,27,17,MIA,NE,-5.5,45,Gillette Stadium,False,53.0,14.0,45.0,
 10925,10/27/2013,2013,8,False,NO,35,17,BUF,NO,-10.5,48,Louisiana Superdome,False,72.0,0.0,,indoor
-10926,10/27/2013,2013,8,False,OAK,21,18,PIT,PIT,-2.5,40.5,Oakland Coliseum,False,59.0,17.0,81.0,
+10926,10/27/2013,2013,8,False,LVR,21,18,PIT,PIT,-2.5,40.5,Oakland Coliseum,False,59.0,17.0,81.0,
 10927,10/27/2013,2013,8,False,PHI,7,15,NYG,PHI,-5.5,49.5,Lincoln Financial Field,False,58.0,13.0,40.0,
-10928,10/28/2013,2013,8,False,STL,9,14,SEA,SEA,-13.0,43.5,Edward Jones Dome,False,72.0,0.0,,indoor
+10928,10/28/2013,2013,8,False,LAR,9,14,SEA,SEA,-13.0,43.5,Edward Jones Dome,False,72.0,0.0,,indoor
 10929,10/31/2013,2013,9,False,MIA,22,20,CIN,CIN,-3.0,42,Sun Life Stadium,False,79.0,8.0,76.0,
 10930,11/3/2013,2013,9,False,BUF,13,23,KC,KC,-4.5,41,Ralph Wilson Stadium,False,38.0,7.0,58.0,
 10931,11/3/2013,2013,9,False,CAR,34,10,ATL,CAR,-8.0,47,Bank of America Stadium,False,62.0,12.0,41.0,
@@ -127,9 +127,9 @@
 10934,11/3/2013,2013,9,False,HOU,24,27,IND,IND,-1.0,44,Reliant Stadium,False,60.0,8.0,78.0,retractable (open roof)
 10935,11/3/2013,2013,9,False,NE,55,31,PIT,NE,-5.5,43,Gillette Stadium,False,44.0,6.0,44.0,
 10936,11/3/2013,2013,9,False,NYJ,26,20,NO,NO,-5.5,46,MetLife Stadium,False,53.0,8.0,53.0,
-10937,11/3/2013,2013,9,False,OAK,20,49,PHI,LVR,-1.0,45.5,Oakland Coliseum,False,62.0,6.0,30.0,
+10937,11/3/2013,2013,9,False,LVR,20,49,PHI,LVR,-1.0,45.5,Oakland Coliseum,False,62.0,6.0,30.0,
 10938,11/3/2013,2013,9,False,SEA,27,24,TB,SEA,-14.5,40.5,CenturyLink Field,False,52.0,4.0,68.0,
-10939,11/3/2013,2013,9,False,STL,21,28,TEN,TEN,-3.0,40.5,Edward Jones Dome,False,72.0,0.0,,indoor
+10939,11/3/2013,2013,9,False,LAR,21,28,TEN,TEN,-3.0,40.5,Edward Jones Dome,False,72.0,0.0,,indoor
 10940,11/3/2013,2013,9,False,WAS,30,24,LAC,PICK,0.0,48.5,FedEx Field,False,57.0,20.0,41.0,
 10941,11/4/2013,2013,9,False,GB,20,27,CHI,GB,-9.5,50.5,Lambeau Field,False,49.0,6.0,77.0,
 10942,11/7/2013,2013,10,False,MIN,34,27,WAS,WAS,-1.0,48,Mall of America Field,False,72.0,0.0,,indoor
@@ -138,9 +138,9 @@
 10945,11/10/2013,2013,10,False,BAL,20,17,CIN,BAL,-2.0,43.5,M&T Bank Stadium,False,62.0,17.0,36.0,
 10946,11/10/2013,2013,10,False,CHI,19,21,DET,DET,-1.5,52,Soldier Field,False,47.0,6.0,51.0,
 10947,11/10/2013,2013,10,False,GB,13,27,PHI,PHI,-1.0,47,Lambeau Field,False,46.0,9.0,48.0,
-10948,11/10/2013,2013,10,False,IND,8,38,STL,IND,-7.0,43,Lucas Oil Stadium,False,72.0,0.0,,indoor
+10948,11/10/2013,2013,10,False,IND,8,38,LAR,IND,-7.0,43,Lucas Oil Stadium,False,72.0,0.0,,indoor
 10949,11/10/2013,2013,10,False,NO,49,17,DAL,NO,-5.5,53.5,Louisiana Superdome,False,72.0,0.0,,indoor
-10950,11/10/2013,2013,10,False,NYG,24,20,OAK,NYG,-7.0,41,MetLife Stadium,False,53.0,14.0,71.0,rain
+10950,11/10/2013,2013,10,False,NYG,24,20,LVR,NYG,-7.0,41,MetLife Stadium,False,53.0,14.0,71.0,rain
 10951,11/10/2013,2013,10,False,PIT,23,10,BUF,PIT,-2.5,43,Heinz Field,False,46.0,21.0,56.0,
 10952,11/10/2013,2013,10,False,LAC,20,28,DEN,DEN,-7.0,57,Qualcomm Stadium,False,78.0,6.0,14.0,
 10953,11/10/2013,2013,10,False,SF,9,10,CAR,SF,-5.5,42.5,Candlestick Park,False,62.0,6.0,65.0,
@@ -151,7 +151,7 @@
 10958,11/17/2013,2013,11,False,CHI,23,20,BAL,CHI,-3.5,41,Soldier Field,False,68.0,24.0,82.0,
 10959,11/17/2013,2013,11,False,CIN,41,20,CLE,CIN,-4.5,40,Paul Brown Stadium,False,64.0,7.0,92.0,
 10960,11/17/2013,2013,11,False,DEN,27,17,KC,DEN,-7.5,49,Sports Authority Field at Mile High,False,43.0,6.0,34.0,
-10961,11/17/2013,2013,11,False,HOU,23,28,OAK,HOU,-10.5,40.5,Reliant Stadium,False,85.0,3.0,75.0,retractable (open roof)
+10961,11/17/2013,2013,11,False,HOU,23,28,LVR,HOU,-10.5,40.5,Reliant Stadium,False,85.0,3.0,75.0,retractable (open roof)
 10962,11/17/2013,2013,11,False,JAX,14,27,ARI,ARI,-9.0,40.5,EverBank Field,False,79.0,8.0,,
 10963,11/17/2013,2013,11,False,MIA,20,16,LAC,LAC,-3.0,44.5,Sun Life Stadium,False,81.0,8.0,67.0,
 10964,11/17/2013,2013,11,False,NO,23,20,SF,NO,-3.5,49.5,Louisiana Superdome,False,72.0,0.0,,indoor
@@ -172,11 +172,11 @@
 10979,11/24/2013,2013,12,False,MIA,16,20,CAR,CAR,-4.0,40.5,Sun Life Stadium,False,82.0,17.0,55.0,rain
 10980,11/24/2013,2013,12,False,NE,34,31,DEN,DEN,-2.5,53,Gillette Stadium,False,23.0,22.0,29.0,
 10981,11/24/2013,2013,12,False,NYG,21,24,DAL,NYG,-2.5,44,MetLife Stadium,False,26.0,7.0,40.0,
-10982,11/24/2013,2013,12,False,OAK,19,23,TEN,TEN,-2.0,42,Oakland Coliseum,False,59.0,5.0,56.0,
-10983,11/24/2013,2013,12,False,STL,42,21,CHI,LAR,-1.5,45,Edward Jones Dome,False,72.0,0.0,,indoor
+10982,11/24/2013,2013,12,False,LVR,19,23,TEN,TEN,-2.0,42,Oakland Coliseum,False,59.0,5.0,56.0,
+10983,11/24/2013,2013,12,False,LAR,42,21,CHI,LAR,-1.5,45,Edward Jones Dome,False,72.0,0.0,,indoor
 10984,11/25/2013,2013,12,False,WAS,6,27,SF,SF,-5.0,47,FedEx Field,False,35.0,8.0,37.0,
 10985,11/28/2013,2013,13,False,BAL,22,20,PIT,BAL,-3.0,40.5,M&T Bank Stadium,False,37.0,2.0,39.0,
-10986,11/28/2013,2013,13,False,DAL,31,24,OAK,DAL,-8.0,48,Cowboys Stadium,False,72.0,0.0,,indoor
+10986,11/28/2013,2013,13,False,DAL,31,24,LVR,DAL,-8.0,48,Cowboys Stadium,False,72.0,0.0,,indoor
 10987,11/28/2013,2013,13,False,DET,40,10,GB,DET,-6.0,48.5,Ford Field,False,72.0,0.0,,indoor
 10988,12/1/2013,2013,13,False,BUF,31,34,ATL,BUF,-4.5,48.5,Rogers Centre,True,72.0,0.0,,indoor
 10989,12/1/2013,2013,13,False,CAR,27,6,TB,CAR,-6.5,40.5,Bank of America Stadium,False,57.0,5.0,55.0,
@@ -188,18 +188,18 @@
 10995,12/1/2013,2013,13,False,NYJ,3,23,MIA,NYJ,-2.0,40.5,MetLife Stadium,False,49.0,5.0,59.0,
 10996,12/1/2013,2013,13,False,PHI,24,21,ARI,PHI,-3.5,48.5,Lincoln Financial Field,False,47.0,5.0,53.0,
 10997,12/1/2013,2013,13,False,LAC,10,17,CIN,CIN,-1.5,48.5,Qualcomm Stadium,False,77.0,5.0,26.0,
-10998,12/1/2013,2013,13,False,SF,23,13,STL,SF,-7.5,40,Candlestick Park,False,66.0,6.0,72.0,fog
+10998,12/1/2013,2013,13,False,SF,23,13,LAR,SF,-7.5,40,Candlestick Park,False,66.0,6.0,72.0,fog
 10999,12/1/2013,2013,13,False,WAS,17,24,NYG,WAS,-1.0,44.5,FedEx Field,False,43.0,3.0,72.0,
 11000,12/2/2013,2013,13,False,SEA,34,7,NO,SEA,-5.0,47.5,CenturyLink Field,False,42.0,6.0,62.0,
 11001,12/5/2013,2013,14,False,JAX,27,20,HOU,HOU,-3.5,43,EverBank Field,False,72.0,7.0,73.0,
-11002,12/8/2013,2013,14,False,ARI,30,10,STL,ARI,-4.5,41,University of Phoenix Stadium,False,72.0,0.0,,indoor
+11002,12/8/2013,2013,14,False,ARI,30,10,LAR,ARI,-4.5,41,University of Phoenix Stadium,False,72.0,0.0,,indoor
 11003,12/8/2013,2013,14,False,BAL,29,26,MIN,BAL,-6.0,41.5,M&T Bank Stadium,False,33.0,7.0,67.0,snow | Freezing rain
 11004,12/8/2013,2013,14,False,CIN,42,28,IND,CIN,-7.0,43.5,Paul Brown Stadium,False,28.0,7.0,85.0,
 11005,12/8/2013,2013,14,False,DEN,51,28,TEN,DEN,-13.5,49.5,Sports Authority Field at Mile High,False,19.0,7.0,63.0,
 11006,12/8/2013,2013,14,False,GB,22,21,ATL,GB,-3.5,45,Lambeau Field,False,9.0,9.0,80.0,snow
 11007,12/8/2013,2013,14,False,NE,27,26,CLE,NE,-9.5,47.5,Gillette Stadium,False,31.0,5.0,46.0,
 11008,12/8/2013,2013,14,False,NO,31,13,CAR,NO,-3.0,46.5,Louisiana Superdome,False,72.0,0.0,,indoor
-11009,12/8/2013,2013,14,False,NYJ,37,27,OAK,NYJ,-3.0,39.5,MetLife Stadium,False,34.0,6.0,51.0,
+11009,12/8/2013,2013,14,False,NYJ,37,27,LVR,NYJ,-3.0,39.5,MetLife Stadium,False,34.0,6.0,51.0,
 11010,12/8/2013,2013,14,False,PHI,34,20,DET,PHI,-2.0,53.5,Lincoln Financial Field,False,27.0,7.0,56.0,snow | fog
 11011,12/8/2013,2013,14,False,PIT,28,34,MIA,PIT,-3.0,41,Heinz Field,False,26.0,9.0,73.0,snow | fog
 11012,12/8/2013,2013,14,False,LAC,37,14,NYG,LAC,-4.0,46.5,Qualcomm Stadium,False,53.0,8.0,53.0,
@@ -217,9 +217,9 @@
 11024,12/15/2013,2013,15,False,MIA,24,20,NE,MIA,-2.5,46.5,Sun Life Stadium,False,85.0,14.0,70.0,
 11025,12/15/2013,2013,15,False,MIN,48,30,PHI,PHI,-7.0,53,Mall of America Field,False,72.0,0.0,,indoor
 11026,12/15/2013,2013,15,False,NYG,0,23,SEA,SEA,-9.5,43,MetLife Stadium,False,40.0,7.0,88.0,
-11027,12/15/2013,2013,15,False,OAK,31,56,KC,KC,-6.0,44.5,Oakland Coliseum,False,64.0,6.0,39.0,
+11027,12/15/2013,2013,15,False,LVR,31,56,KC,KC,-6.0,44.5,Oakland Coliseum,False,64.0,6.0,39.0,
 11028,12/15/2013,2013,15,False,PIT,30,20,CIN,CIN,-1.5,43,Heinz Field,False,27.0,20.0,66.0,
-11029,12/15/2013,2013,15,False,STL,27,16,NO,NO,-7.0,48,Edward Jones Dome,False,72.0,0.0,,indoor
+11029,12/15/2013,2013,15,False,LAR,27,16,NO,NO,-7.0,48,Edward Jones Dome,False,72.0,0.0,,indoor
 11030,12/15/2013,2013,15,False,TB,14,33,SF,SF,-4.5,41,Raymond James Stadium,False,70.0,7.0,64.0,
 11031,12/15/2013,2013,15,False,TEN,34,37,ARI,ARI,-3.0,42.5,Nissan Stadium,False,37.0,5.0,64.0,
 11032,12/16/2013,2013,15,False,DET,16,18,BAL,DET,-5.5,49,Ford Field,False,72.0,0.0,,indoor
@@ -234,9 +234,9 @@
 11041,12/22/2013,2013,16,False,KC,7,23,IND,KC,-7.0,46.5,Arrowhead Stadium,False,25.0,8.0,84.0,
 11042,12/22/2013,2013,16,False,NYJ,24,13,CLE,NYJ,-1.5,42,MetLife Stadium,False,70.0,12.0,65.0,
 11043,12/22/2013,2013,16,False,PHI,54,11,CHI,PHI,-3.0,55,Lincoln Financial Field,False,62.0,5.0,82.0,
-11044,12/22/2013,2013,16,False,LAC,26,13,OAK,LAC,-9.0,51,Qualcomm Stadium,False,69.0,7.0,45.0,
+11044,12/22/2013,2013,16,False,LAC,26,13,LVR,LAC,-9.0,51,Qualcomm Stadium,False,69.0,7.0,45.0,
 11045,12/22/2013,2013,16,False,SEA,10,17,ARI,SEA,-9.0,43,CenturyLink Field,False,50.0,6.0,94.0,fog
-11046,12/22/2013,2013,16,False,STL,23,13,TB,LAR,-3.5,43,Edward Jones Dome,False,72.0,0.0,,indoor
+11046,12/22/2013,2013,16,False,LAR,23,13,TB,LAR,-3.5,43,Edward Jones Dome,False,72.0,0.0,,indoor
 11047,12/22/2013,2013,16,False,WAS,23,24,DAL,DAL,-2.5,52,FedEx Field,False,65.0,9.0,92.0,
 11048,12/23/2013,2013,16,False,SF,34,24,ATL,SF,-14.5,46,Candlestick Park,False,60.0,0.0,49.0,
 11049,12/29/2013,2013,17,False,ARI,20,23,SF,ARI,-3.0,41,University of Phoenix Stadium,False,72.0,0.0,,indoor
@@ -250,10 +250,10 @@
 11057,12/29/2013,2013,17,False,NE,34,20,BUF,NE,-7.0,46,Gillette Stadium,False,41.0,8.0,100.0,rain | fog
 11058,12/29/2013,2013,17,False,NO,42,17,TB,NO,-10.5,46.5,Louisiana Superdome,False,72.0,0.0,,indoor
 11059,12/29/2013,2013,17,False,NYG,20,6,WAS,NYG,-3.5,44.5,MetLife Stadium,False,42.0,5.0,100.0,rain | fog
-11060,12/29/2013,2013,17,False,OAK,14,34,DEN,DEN,-10.0,53.5,Oakland Coliseum,False,71.0,8.0,16.0,
+11060,12/29/2013,2013,17,False,LVR,14,34,DEN,DEN,-10.0,53.5,Oakland Coliseum,False,71.0,8.0,16.0,
 11061,12/29/2013,2013,17,False,PIT,20,7,CLE,PIT,-9.5,44.5,Heinz Field,False,41.0,7.0,93.0,rain | fog
 11062,12/29/2013,2013,17,False,LAC,27,24,KC,LAC,-14.5,45,Qualcomm Stadium,False,73.0,2.0,14.0,
-11063,12/29/2013,2013,17,False,SEA,27,9,STL,SEA,-12.5,41,CenturyLink Field,False,44.0,5.0,93.0,
+11063,12/29/2013,2013,17,False,SEA,27,9,LAR,SEA,-12.5,41,CenturyLink Field,False,44.0,5.0,93.0,
 11064,12/29/2013,2013,17,False,TEN,16,10,HOU,TEN,-6.5,44.5,Nissan Stadium,False,53.0,4.0,61.0,
 11065,1/4/2014,2013,Wildcard,True,IND,45,44,KC,KC,-2.5,46.5,Lucas Oil Stadium,False,72.0,0.0,,indoor
 11066,1/4/2014,2013,Wildcard,True,PHI,24,26,NO,PHI,-3.0,53,Lincoln Financial Field,False,,,,
@@ -275,10 +275,10 @@
 11082,9/7/2014,2014,1,False,HOU,17,6,WAS,HOU,-3.0,44.5,Reliant Stadium,False,82.0,12.0,,retractable (open roof)
 11083,9/7/2014,2014,1,False,KC,10,26,TEN,KC,-3.0,44,Arrowhead Stadium,False,77.0,5.0,,
 11084,9/7/2014,2014,1,False,MIA,33,20,NE,NE,-3.5,46.5,Sun Life Stadium,False,89.0,13.0,,
-11085,9/7/2014,2014,1,False,NYJ,19,14,OAK,NYJ,-6.5,40.5,MetLife Stadium,False,80.0,3.0,,
+11085,9/7/2014,2014,1,False,NYJ,19,14,LVR,NYJ,-6.5,40.5,MetLife Stadium,False,80.0,3.0,,
 11086,9/7/2014,2014,1,False,PHI,34,17,JAX,PHI,-10.0,51.5,Lincoln Financial Field,False,80.0,6.0,,
 11087,9/7/2014,2014,1,False,PIT,30,27,CLE,PIT,-5.5,41,Heinz Field,False,72.0,6.0,,
-11088,9/7/2014,2014,1,False,STL,6,34,MIN,LAR,-3.0,43,Edward Jones Dome,False,72.0,0.0,,indoor
+11088,9/7/2014,2014,1,False,LAR,6,34,MIN,LAR,-3.0,43,Edward Jones Dome,False,72.0,0.0,,indoor
 11089,9/7/2014,2014,1,False,TB,14,20,CAR,TB,-5.5,37.5,Raymond James Stadium,False,79.0,7.0,,
 11090,9/8/2014,2014,1,False,ARI,18,17,LAC,ARI,-3.0,47,University of Phoenix Stadium,False,72.0,0.0,,indoor
 11091,9/8/2014,2014,1,False,DET,35,14,NYG,DET,-6.5,47,Ford Field,False,72.0,0.0,,indoor
@@ -291,10 +291,10 @@
 11098,9/14/2014,2014,2,False,GB,31,24,NYJ,GB,-7.0,46.5,Lambeau Field,False,63.0,11.0,,
 11099,9/14/2014,2014,2,False,MIN,7,30,NE,NE,-3.5,49,TCF Bank Stadium,False,65.0,11.0,,
 11100,9/14/2014,2014,2,False,NYG,14,25,ARI,NYG,-1.0,41.5,MetLife Stadium,False,71.0,5.0,,
-11101,9/14/2014,2014,2,False,OAK,14,30,HOU,HOU,-3.0,42,Oakland Coliseum,False,73.0,10.0,,
+11101,9/14/2014,2014,2,False,LVR,14,30,HOU,HOU,-3.0,42,Oakland Coliseum,False,73.0,10.0,,
 11102,9/14/2014,2014,2,False,LAC,30,21,SEA,SEA,-4.5,45,Qualcomm Stadium,False,85.0,6.0,,
 11103,9/14/2014,2014,2,False,SF,20,28,CHI,SF,-7.0,47.5,Levi's Stadium,False,73.0,9.0,,
-11104,9/14/2014,2014,2,False,TB,17,19,STL,TB,-4.0,37.5,Raymond James Stadium,False,78.0,0.0,,
+11104,9/14/2014,2014,2,False,TB,17,19,LAR,TB,-4.0,37.5,Raymond James Stadium,False,78.0,0.0,,
 11105,9/14/2014,2014,2,False,TEN,10,26,DAL,TEN,-3.0,49.5,Nissan Stadium,False,77.0,6.0,,
 11106,9/14/2014,2014,2,False,WAS,41,10,JAX,WAS,-5.0,43,FedEx Field,False,67.0,4.0,,
 11107,9/15/2014,2014,2,False,IND,27,30,PHI,IND,-3.0,54,Lucas Oil Stadium,False,72.0,0.0,,indoor
@@ -307,12 +307,12 @@
 11114,9/21/2014,2014,3,False,DET,19,7,GB,DET,-1.5,52,Ford Field,False,72.0,0.0,,indoor
 11115,9/21/2014,2014,3,False,JAX,17,44,IND,IND,-6.0,45,EverBank Field,False,85.0,5.0,,
 11116,9/21/2014,2014,3,False,MIA,15,34,KC,MIA,-6.0,42.5,Sun Life Stadium,False,84.0,8.0,,
-11117,9/21/2014,2014,3,False,NE,16,9,OAK,NE,-14.0,47,Gillette Stadium,False,78.0,7.0,,
+11117,9/21/2014,2014,3,False,NE,16,9,LVR,NE,-14.0,47,Gillette Stadium,False,78.0,7.0,,
 11118,9/21/2014,2014,3,False,NO,20,9,MIN,NO,-10.0,49.5,Louisiana Superdome,False,72.0,0.0,,indoor
 11119,9/21/2014,2014,3,False,NYG,30,17,HOU,NYG,-1.0,41.5,MetLife Stadium,False,76.0,0.0,,fog
 11120,9/21/2014,2014,3,False,PHI,37,34,WAS,PHI,-4.0,50,Lincoln Financial Field,False,76.0,4.0,,
 11121,9/21/2014,2014,3,False,SEA,26,20,DEN,SEA,-4.0,48,CenturyLink Field,False,83.0,6.0,,
-11122,9/21/2014,2014,3,False,STL,31,34,DAL,DAL,-1.5,45,Edward Jones Dome,False,72.0,0.0,,indoor
+11122,9/21/2014,2014,3,False,LAR,31,34,DAL,DAL,-1.5,45,Edward Jones Dome,False,72.0,0.0,,indoor
 11123,9/22/2014,2014,3,False,NYJ,19,27,CHI,NYJ,-1.5,45,MetLife Stadium,False,56.0,4.0,,
 11124,9/25/2014,2014,4,False,WAS,14,45,NYG,WAS,-3.0,44.5,FedEx Field,False,63.0,7.0,,
 11125,9/28/2014,2014,4,False,BAL,38,10,CAR,BAL,-3.5,42,M&T Bank Stadium,False,79.0,0.0,,
@@ -322,7 +322,7 @@
 11129,9/28/2014,2014,4,False,IND,41,17,TEN,IND,-7.5,46,Lucas Oil Stadium,False,72.0,0.0,,indoor
 11130,9/28/2014,2014,4,False,MIN,41,28,ATL,ATL,-5.5,47.5,TCF Bank Stadium,False,80.0,8.0,,
 11131,9/28/2014,2014,4,False,NYJ,17,24,DET,NYJ,-2.0,44,MetLife Stadium,False,85.0,6.0,,
-11132,9/28/2014,2014,4,False,OAK,14,38,MIA,MIA,-4.0,41,Wembley Stadium,True,68.0,6.0,,
+11132,9/28/2014,2014,4,False,LVR,14,38,MIA,MIA,-4.0,41,Wembley Stadium,True,68.0,6.0,,
 11133,9/28/2014,2014,4,False,PIT,24,27,TB,PIT,-7.5,45,Heinz Field,False,73.0,6.0,,
 11134,9/28/2014,2014,4,False,LAC,33,14,JAX,LAC,-13.0,44.5,Qualcomm Stadium,False,72.0,7.0,,
 11135,9/28/2014,2014,4,False,SF,26,21,PHI,SF,-3.5,49.5,Levi's Stadium,False,75.0,7.0,,
@@ -337,7 +337,7 @@
 11144,10/5/2014,2014,5,False,NE,43,17,CIN,CIN,-2.5,46.5,Gillette Stadium,False,35.0,0.0,,fog
 11145,10/5/2014,2014,5,False,NO,37,31,TB,NO,-11.0,48,Louisiana Superdome,False,72.0,0.0,,indoor
 11146,10/5/2014,2014,5,False,NYG,30,20,ATL,NYG,-4.0,50.5,MetLife Stadium,False,61.0,6.0,,
-11147,10/5/2014,2014,5,False,PHI,34,28,STL,PHI,-3.5,48,Lincoln Financial Field,False,60.0,6.0,,
+11147,10/5/2014,2014,5,False,PHI,34,28,LAR,PHI,-3.5,48,Lincoln Financial Field,False,60.0,6.0,,
 11148,10/5/2014,2014,5,False,LAC,31,0,NYJ,LAC,-7.0,44.5,Qualcomm Stadium,False,83.0,6.0,,
 11149,10/5/2014,2014,5,False,SF,22,17,KC,SF,-4.0,43.5,Levi's Stadium,False,88.0,6.0,,
 11150,10/5/2014,2014,5,False,TEN,28,29,CLE,CLE,-1.0,44,Nissan Stadium,False,71.0,13.0,,
@@ -351,12 +351,12 @@
 11158,10/12/2014,2014,6,False,MIA,24,27,GB,GB,-1.5,47,Sun Life Stadium,False,88.0,12.0,,
 11159,10/12/2014,2014,6,False,MIN,3,17,DET,MIN,-1.0,43,TCF Bank Stadium,False,61.0,20.0,,
 11160,10/12/2014,2014,6,False,NYJ,17,31,DEN,DEN,-10.0,47.5,MetLife Stadium,False,64.0,3.0,,
-11161,10/12/2014,2014,6,False,OAK,28,31,LAC,LAC,-7.0,44,Oakland Coliseum,False,86.0,7.0,,
+11161,10/12/2014,2014,6,False,LVR,28,31,LAC,LAC,-7.0,44,Oakland Coliseum,False,86.0,7.0,,
 11162,10/12/2014,2014,6,False,PHI,27,0,NYG,PHI,-1.0,51,Lincoln Financial Field,False,57.0,5.0,,
 11163,10/12/2014,2014,6,False,SEA,23,30,DAL,SEA,-10.0,47,CenturyLink Field,False,66.0,5.0,,
 11164,10/12/2014,2014,6,False,TB,17,48,BAL,BAL,-3.5,44.5,Raymond James Stadium,False,87.0,4.0,,
 11165,10/12/2014,2014,6,False,TEN,16,14,JAX,TEN,-4.0,42.5,Nissan Stadium,False,74.0,7.0,,
-11166,10/13/2014,2014,6,False,STL,17,31,SF,SF,-3.5,44.5,Edward Jones Dome,False,72.0,0.0,,indoor
+11166,10/13/2014,2014,6,False,LAR,17,31,SF,SF,-3.5,44.5,Edward Jones Dome,False,72.0,0.0,,indoor
 11167,10/16/2014,2014,7,False,NE,27,25,NYJ,NE,-9.5,44.5,Gillette Stadium,False,63.0,5.0,,
 11168,10/19/2014,2014,7,False,BAL,29,7,ATL,BAL,-7.0,50,M&T Bank Stadium,False,57.0,0.0,,
 11169,10/19/2014,2014,7,False,BUF,17,16,MIN,BUF,-7.0,43,Ralph Wilson Stadium,False,45.0,8.0,,
@@ -367,9 +367,9 @@
 11174,10/19/2014,2014,7,False,GB,38,17,CAR,GB,-6.5,49.5,Lambeau Field,False,53.0,11.0,,
 11175,10/19/2014,2014,7,False,IND,27,0,CIN,IND,-3.0,50.5,Lucas Oil Stadium,False,72.0,0.0,,indoor
 11176,10/19/2014,2014,7,False,JAX,24,6,CLE,CLE,-4.0,45,EverBank Field,False,74.0,10.0,,
-11177,10/19/2014,2014,7,False,OAK,13,24,ARI,ARI,-3.5,46.5,Oakland Coliseum,False,70.0,14.0,,
+11177,10/19/2014,2014,7,False,LVR,13,24,ARI,ARI,-3.5,46.5,Oakland Coliseum,False,70.0,14.0,,
 11178,10/19/2014,2014,7,False,LAC,20,23,KC,LAC,-3.0,46,Qualcomm Stadium,False,71.0,6.0,,
-11179,10/19/2014,2014,7,False,STL,28,26,SEA,SEA,-7.0,43.5,Edward Jones Dome,False,72.0,0.0,,indoor
+11179,10/19/2014,2014,7,False,LAR,28,26,SEA,SEA,-7.0,43.5,Edward Jones Dome,False,72.0,0.0,,indoor
 11180,10/19/2014,2014,7,False,WAS,19,17,TEN,WAS,-6.0,46.5,FedEx Field,False,57.0,16.0,,
 11181,10/20/2014,2014,7,False,PIT,30,23,HOU,PIT,-3.0,44.5,Heinz Field,False,51.0,8.0,,rain
 11182,10/23/2014,2014,8,False,DEN,35,21,LAC,DEN,-9.0,51,Sports Authority Field at Mile High,False,61.0,3.0,,
@@ -377,9 +377,9 @@
 11184,10/26/2014,2014,8,False,ATL,21,22,DET,DET,-3.5,45.5,Wembley Stadium,True,58.0,13.0,,
 11185,10/26/2014,2014,8,False,CAR,9,13,SEA,SEA,-6.0,45,Bank of America Stadium,False,81.0,11.0,,
 11186,10/26/2014,2014,8,False,CIN,27,24,BAL,BAL,-2.5,44.5,Paul Brown Stadium,False,67.0,5.0,,
-11187,10/26/2014,2014,8,False,CLE,23,13,OAK,CLE,-6.5,44.5,FirstEnergy Stadium,False,54.0,9.0,,
+11187,10/26/2014,2014,8,False,CLE,23,13,LVR,CLE,-6.5,44.5,FirstEnergy Stadium,False,54.0,9.0,,
 11188,10/26/2014,2014,8,False,JAX,13,27,MIA,MIA,-7.0,42,EverBank Field,False,81.0,0.0,,
-11189,10/26/2014,2014,8,False,KC,34,7,STL,KC,-7.5,44,Arrowhead Stadium,False,85.0,13.0,,
+11189,10/26/2014,2014,8,False,KC,34,7,LAR,KC,-7.5,44,Arrowhead Stadium,False,85.0,13.0,,
 11190,10/26/2014,2014,8,False,NE,51,23,CHI,NE,-6.0,52,Gillette Stadium,False,57.0,14.0,,
 11191,10/26/2014,2014,8,False,NO,44,23,GB,NO,-2.0,55.5,Louisiana Superdome,False,72.0,0.0,,indoor
 11192,10/26/2014,2014,8,False,NYJ,23,43,BUF,NYJ,-3.0,40.5,MetLife Stadium,False,61.0,19.0,,
@@ -397,11 +397,11 @@
 11204,11/2/2014,2014,9,False,MIN,29,26,WAS,WAS,-1.0,44,TCF Bank Stadium,False,54.0,12.0,,
 11205,11/2/2014,2014,9,False,NE,43,21,DEN,DEN,-3.0,53,Gillette Stadium,False,41.0,18.0,,
 11206,11/2/2014,2014,9,False,PIT,43,23,BAL,PIT,-2.5,48,Heinz Field,False,37.0,5.0,,
-11207,11/2/2014,2014,9,False,SF,10,13,STL,SF,-10.5,44,Levi's Stadium,False,64.0,10.0,,
-11208,11/2/2014,2014,9,False,SEA,30,24,OAK,SEA,-13.5,44,CenturyLink Field,False,56.0,7.0,,rain
+11207,11/2/2014,2014,9,False,SF,10,13,LAR,SF,-10.5,44,Levi's Stadium,False,64.0,10.0,,
+11208,11/2/2014,2014,9,False,SEA,30,24,LVR,SEA,-13.5,44,CenturyLink Field,False,56.0,7.0,,rain
 11209,11/3/2014,2014,9,False,NYG,24,40,IND,IND,-3.0,51.5,MetLife Stadium,False,53.0,8.0,,
 11210,11/6/2014,2014,10,False,CIN,3,24,CLE,CIN,-6.5,46,Paul Brown Stadium,False,43.0,0.0,,
-11211,11/9/2014,2014,10,False,ARI,31,14,STL,ARI,-7.0,43.5,University of Phoenix Stadium,False,72.0,0.0,,indoor
+11211,11/9/2014,2014,10,False,ARI,31,14,LAR,ARI,-7.0,43.5,University of Phoenix Stadium,False,72.0,0.0,,indoor
 11212,11/9/2014,2014,10,False,BAL,21,7,TEN,BAL,-10.5,44,M&T Bank Stadium,False,57.0,0.0,,
 11213,11/9/2014,2014,10,False,BUF,13,17,KC,BUF,-2.0,42,Ralph Wilson Stadium,False,41.0,11.0,,rain
 11214,11/9/2014,2014,10,False,DET,20,16,MIA,DET,-3.0,43,Ford Field,False,72.0,0.0,,indoor
@@ -409,7 +409,7 @@
 11216,11/9/2014,2014,10,False,JAX,17,31,DAL,DAL,-7.5,45,Wembley Stadium,True,50.0,3.0,,rain
 11217,11/9/2014,2014,10,False,NO,24,27,SF,NO,-6.0,49.5,Louisiana Superdome,False,72.0,0.0,,indoor
 11218,11/9/2014,2014,10,False,NYJ,20,13,PIT,PIT,-4.5,47,MetLife Stadium,False,57.0,9.0,,
-11219,11/9/2014,2014,10,False,OAK,17,41,DEN,DEN,-13.0,51,Oakland Coliseum,False,69.0,7.0,,
+11219,11/9/2014,2014,10,False,LVR,17,41,DEN,DEN,-13.0,51,Oakland Coliseum,False,69.0,7.0,,
 11220,11/9/2014,2014,10,False,SEA,38,17,NYG,SEA,-9.0,45,CenturyLink Field,False,56.0,0.0,,rain
 11221,11/9/2014,2014,10,False,TB,17,27,ATL,ATL,-3.5,47,Raymond James Stadium,False,66.0,5.0,,
 11222,11/10/2014,2014,10,False,PHI,45,21,CAR,PHI,-7.0,48.5,Lincoln Financial Field,False,49.0,0.0,,
@@ -423,11 +423,11 @@
 11230,11/16/2014,2014,11,False,KC,24,20,SEA,SEA,-1.0,43.5,Arrowhead Stadium,False,21.0,10.0,,
 11231,11/16/2014,2014,11,False,NO,10,27,CIN,NO,-8.5,51.5,Louisiana Superdome,False,72.0,0.0,,indoor
 11232,11/16/2014,2014,11,False,NYG,10,16,SF,SF,-4.0,45,MetLife Stadium,False,43.0,4.0,,
-11233,11/16/2014,2014,11,False,LAC,13,6,OAK,LAC,-10.5,45.5,Qualcomm Stadium,False,71.0,7.0,,
-11234,11/16/2014,2014,11,False,STL,22,7,DEN,DEN,-8.0,50,Edward Jones Dome,False,72.0,0.0,,indoor
+11233,11/16/2014,2014,11,False,LAC,13,6,LVR,LAC,-10.5,45.5,Qualcomm Stadium,False,71.0,7.0,,
+11234,11/16/2014,2014,11,False,LAR,22,7,DEN,DEN,-8.0,50,Edward Jones Dome,False,72.0,0.0,,indoor
 11235,11/16/2014,2014,11,False,WAS,7,27,TB,WAS,-6.5,46,FedEx Field,False,46.0,7.0,,
 11236,11/17/2014,2014,11,False,TEN,24,27,PIT,PIT,-7.0,46,Nissan Stadium,False,25.0,0.0,,
-11237,11/20/2014,2014,12,False,OAK,24,20,KC,KC,-7.5,42,Oakland Coliseum,False,55.0,11.0,,rain | fog
+11237,11/20/2014,2014,12,False,LVR,24,20,KC,KC,-7.5,42,Oakland Coliseum,False,55.0,11.0,,rain | fog
 11238,11/23/2014,2014,12,False,ATL,24,26,CLE,ATL,-3.0,48.5,Georgia Dome,False,72.0,0.0,,indoor
 11239,11/23/2014,2014,12,False,CHI,21,13,TB,CHI,-4.0,46.5,Soldier Field,False,53.0,10.0,,rain
 11240,11/23/2014,2014,12,False,DEN,39,36,MIA,DEN,-6.5,47.5,Sports Authority Field at Mile High,False,36.0,7.0,,rain
@@ -437,7 +437,7 @@
 11244,11/23/2014,2014,12,False,NE,34,9,DET,NE,-7.5,47.5,Gillette Stadium,False,61.0,6.0,,
 11245,11/23/2014,2014,12,False,NYG,28,31,DAL,DAL,-4.0,49,MetLife Stadium,False,48.0,0.0,,
 11246,11/23/2014,2014,12,False,PHI,43,24,TEN,PHI,-11.0,49,Lincoln Financial Field,False,53.0,6.0,,
-11247,11/23/2014,2014,12,False,LAC,27,24,STL,LAC,-4.0,43.5,Qualcomm Stadium,False,72.0,3.0,,
+11247,11/23/2014,2014,12,False,LAC,27,24,LAR,LAC,-4.0,43.5,Qualcomm Stadium,False,72.0,3.0,,
 11248,11/23/2014,2014,12,False,SF,17,13,WAS,SF,-9.0,44,Levi's Stadium,False,63.0,4.0,,
 11249,11/23/2014,2014,12,False,SEA,19,3,ARI,SEA,-7.5,41.5,CenturyLink Field,False,57.0,6.0,,
 11250,11/24/2014,2014,12,False,BUF,38,3,NYJ,BUF,-2.5,42.5,Ford Field,False,72.0,0.0,,indoor
@@ -455,7 +455,7 @@
 11262,11/30/2014,2014,13,False,KC,16,29,DEN,KC,-1.0,49.5,Arrowhead Stadium,False,25.0,12.0,,
 11263,11/30/2014,2014,13,False,MIN,31,13,CAR,MIN,-2.5,41.5,TCF Bank Stadium,False,15.0,15.0,,
 11264,11/30/2014,2014,13,False,PIT,32,35,NO,PIT,-3.5,54.5,Heinz Field,False,61.0,12.0,,
-11265,11/30/2014,2014,13,False,STL,52,0,OAK,LAR,-6.5,43,Edward Jones Dome,False,72.0,0.0,,indoor
+11265,11/30/2014,2014,13,False,LAR,52,0,LVR,LAR,-6.5,43,Edward Jones Dome,False,72.0,0.0,,indoor
 11266,11/30/2014,2014,13,False,TB,13,14,CIN,CIN,-6.0,43.5,Raymond James Stadium,False,76.0,7.0,,
 11267,12/1/2014,2014,13,False,NYJ,13,16,MIA,MIA,-6.5,41.5,MetLife Stadium,False,43.0,9.0,,
 11268,12/4/2014,2014,14,False,CHI,28,41,DAL,DAL,-3.5,50,Soldier Field,False,34.0,6.0,,
@@ -468,13 +468,13 @@
 11275,12/7/2014,2014,14,False,MIA,13,28,BAL,MIA,-3.0,45,Sun Life Stadium,False,77.0,12.0,,
 11276,12/7/2014,2014,14,False,MIN,30,24,NYJ,MIN,-4.5,40,TCF Bank Stadium,False,34.0,11.0,,
 11277,12/7/2014,2014,14,False,NO,10,41,CAR,NO,-8.5,50.5,Louisiana Superdome,False,72.0,0.0,,indoor
-11278,12/7/2014,2014,14,False,OAK,24,13,SF,SF,-8.0,40.5,Oakland Coliseum,False,61.0,2.0,,
+11278,12/7/2014,2014,14,False,LVR,24,13,SF,SF,-8.0,40.5,Oakland Coliseum,False,61.0,2.0,,
 11279,12/7/2014,2014,14,False,PHI,14,24,SEA,SEA,-1.5,48,Lincoln Financial Field,False,39.0,6.0,,
 11280,12/7/2014,2014,14,False,LAC,14,23,NE,NE,-4.0,54,Qualcomm Stadium,False,64.0,2.0,,
 11281,12/7/2014,2014,14,False,TEN,7,36,NYG,NYG,-3.0,46.5,Nissan Stadium,False,47.0,7.0,,
-11282,12/7/2014,2014,14,False,WAS,0,24,STL,LAR,-2.5,44.5,FedEx Field,False,46.0,10.0,,
+11282,12/7/2014,2014,14,False,WAS,0,24,LAR,LAR,-2.5,44.5,FedEx Field,False,46.0,10.0,,
 11283,12/8/2014,2014,14,False,GB,43,37,ATL,GB,-13.5,55,Lambeau Field,False,32.0,4.0,,
-11284,12/11/2014,2014,15,False,STL,6,12,ARI,LAR,-6.0,40.5,Edward Jones Dome,False,72.0,0.0,,indoor
+11284,12/11/2014,2014,15,False,LAR,6,12,ARI,LAR,-6.0,40.5,Edward Jones Dome,False,72.0,0.0,,indoor
 11285,12/14/2014,2014,15,False,ATL,20,27,PIT,PIT,-3.0,55.5,Georgia Dome,False,72.0,0.0,,indoor
 11286,12/14/2014,2014,15,False,BAL,20,12,JAX,BAL,-14.0,44.5,M&T Bank Stadium,False,49.0,7.0,,
 11287,12/14/2014,2014,15,False,BUF,21,13,GB,GB,-3.5,50,Ralph Wilson Stadium,False,34.0,9.0,,
@@ -482,7 +482,7 @@
 11289,12/14/2014,2014,15,False,CLE,0,30,CIN,CLE,-2.5,43.5,FirstEnergy Stadium,False,45.0,5.0,,
 11290,12/14/2014,2014,15,False,DET,16,14,MIN,DET,-8.0,42,Ford Field,False,72.0,0.0,,indoor
 11291,12/14/2014,2014,15,False,IND,17,10,HOU,IND,-7.0,49,Lucas Oil Stadium,False,72.0,0.0,,indoor
-11292,12/14/2014,2014,15,False,KC,31,13,OAK,KC,-11.0,41.5,Arrowhead Stadium,False,60.0,10.0,,
+11292,12/14/2014,2014,15,False,KC,31,13,LVR,KC,-11.0,41.5,Arrowhead Stadium,False,60.0,10.0,,
 11293,12/14/2014,2014,15,False,NE,41,13,MIA,NE,-9.5,48,Gillette Stadium,False,43.0,5.0,,
 11294,12/14/2014,2014,15,False,NYG,24,13,WAS,NYG,-7.0,46.5,MetLife Stadium,False,43.0,7.0,,
 11295,12/14/2014,2014,15,False,PHI,27,38,DAL,PHI,-3.5,55,Lincoln Financial Field,False,42.0,6.0,,
@@ -501,14 +501,14 @@
 11308,12/21/2014,2014,16,False,MIA,37,35,MIN,MIA,-4.5,42.5,Sun Life Stadium,False,78.0,7.0,,
 11309,12/21/2014,2014,16,False,NO,14,30,ATL,NO,-6.0,56,Louisiana Superdome,False,72.0,0.0,,indoor
 11310,12/21/2014,2014,16,False,NYJ,16,17,NE,NE,-10.0,47,MetLife Stadium,False,35.0,4.0,,
-11311,12/21/2014,2014,16,False,OAK,26,24,BUF,BUF,-7.0,41.5,Oakland Coliseum,False,62.0,6.0,,
+11311,12/21/2014,2014,16,False,LVR,26,24,BUF,BUF,-7.0,41.5,Oakland Coliseum,False,62.0,6.0,,
 11312,12/21/2014,2014,16,False,PIT,20,12,KC,PIT,-2.5,49.5,Heinz Field,False,34.0,0.0,,
-11313,12/21/2014,2014,16,False,STL,27,37,NYG,LAR,-7.0,43.5,Edward Jones Dome,False,72.0,0.0,,indoor
+11313,12/21/2014,2014,16,False,LAR,27,37,NYG,LAR,-7.0,43.5,Edward Jones Dome,False,72.0,0.0,,indoor
 11314,12/21/2014,2014,16,False,TB,3,20,GB,GB,-11.5,49,Raymond James Stadium,False,76.0,4.0,,
 11315,12/22/2014,2014,16,False,CIN,37,28,DEN,DEN,-3.5,47.5,Paul Brown Stadium,False,46.0,7.0,,
 11316,12/28/2014,2014,17,False,ATL,3,34,CAR,ATL,-2.5,48,Georgia Dome,False,72.0,0.0,,indoor
 11317,12/28/2014,2014,17,False,BAL,20,10,CLE,BAL,-14.0,40,M&T Bank Stadium,False,56.0,3.0,,
-11318,12/28/2014,2014,17,False,DEN,47,14,OAK,DEN,-16.5,48.5,Sports Authority Field at Mile High,False,33.0,0.0,,
+11318,12/28/2014,2014,17,False,DEN,47,14,LVR,DEN,-16.5,48.5,Sports Authority Field at Mile High,False,33.0,0.0,,
 11319,12/28/2014,2014,17,False,GB,30,20,DET,GB,-9.0,47,Lambeau Field,False,25.0,6.0,,
 11320,12/28/2014,2014,17,False,HOU,23,17,JAX,HOU,-8.5,38.5,Reliant Stadium,False,43.0,8.0,,retractable (open roof)
 11321,12/28/2014,2014,17,False,KC,19,7,LAC,KC,-3.0,42,Arrowhead Stadium,False,37.0,5.0,,
@@ -518,7 +518,7 @@
 11325,12/28/2014,2014,17,False,NYG,26,34,PHI,PHI,-1.0,52,MetLife Stadium,False,51.0,6.0,,
 11326,12/28/2014,2014,17,False,PIT,27,17,CIN,PIT,-3.0,48.5,Heinz Field,False,35.0,1.0,,
 11327,12/28/2014,2014,17,False,SF,20,17,ARI,SF,-6.0,37.5,Levi's Stadium,False,56.0,5.0,,
-11328,12/28/2014,2014,17,False,SEA,20,6,STL,SEA,-11.0,41.5,CenturyLink Field,False,43.0,1.0,,
+11328,12/28/2014,2014,17,False,SEA,20,6,LAR,SEA,-11.0,41.5,CenturyLink Field,False,43.0,1.0,,
 11329,12/28/2014,2014,17,False,TB,20,23,NO,NO,-6.0,46.5,Raymond James Stadium,False,77.0,7.0,,
 11330,12/28/2014,2014,17,False,TEN,10,27,IND,IND,-7.5,46.5,Nissan Stadium,False,41.0,5.0,,
 11331,12/28/2014,2014,17,False,WAS,17,44,DAL,DAL,-6.0,47.5,FedEx Field,False,57.0,4.0,,
@@ -542,9 +542,9 @@
 11349,9/13/2015,2015,1,False,HOU,20,27,KC,KC,-1.0,40.5,Reliant Stadium,False,83.0,8.0,,retractable (open roof)
 11350,9/13/2015,2015,1,False,JAX,9,20,CAR,CAR,-3.0,41,EverBank Field,False,81.0,1.0,,
 11351,9/13/2015,2015,1,False,NYJ,31,10,CLE,NYJ,-3.5,38.5,MetLife Stadium,False,76.0,7.0,,
-11352,9/13/2015,2015,1,False,OAK,13,33,CIN,LVR,-3.0,43,Oakland Coliseum,False,75.0,9.0,,
+11352,9/13/2015,2015,1,False,LVR,13,33,CIN,LVR,-3.0,43,Oakland Coliseum,False,75.0,9.0,,
 11353,9/13/2015,2015,1,False,LAC,33,28,DET,LAC,-3.5,45.5,Qualcomm Stadium,False,82.0,8.0,,
-11354,9/13/2015,2015,1,False,STL,34,31,SEA,SEA,-3.5,41,Edward Jones Dome,False,72.0,0.0,,indoor
+11354,9/13/2015,2015,1,False,LAR,34,31,SEA,SEA,-3.5,41,Edward Jones Dome,False,72.0,0.0,,indoor
 11355,9/13/2015,2015,1,False,TB,14,42,TEN,TB,-3.0,40.5,Raymond James Stadium,False,81.0,6.0,,
 11356,9/13/2015,2015,1,False,WAS,10,17,MIA,MIA,-4.0,45.5,FedEx Field,False,71.0,11.0,,
 11357,9/14/2015,2015,1,False,ATL,26,24,PHI,PHI,-3.0,56,Georgia Dome,False,72.0,0.0,,indoor
@@ -560,16 +560,16 @@
 11367,9/20/2015,2015,2,False,MIN,26,16,DET,MIN,-2.5,44,TCF Bank Stadium,False,70.0,12.0,,
 11368,9/20/2015,2015,2,False,NO,19,26,TB,NO,-9.0,47,Louisiana Superdome,False,72.0,0.0,,indoor
 11369,9/20/2015,2015,2,False,NYG,20,24,ATL,NYG,-2.0,50,MetLife Stadium,False,77.0,7.0,,
-11370,9/20/2015,2015,2,False,OAK,37,33,BAL,BAL,-6.0,42,Oakland Coliseum,False,89.0,7.0,,
+11370,9/20/2015,2015,2,False,LVR,37,33,BAL,BAL,-6.0,42,Oakland Coliseum,False,89.0,7.0,,
 11371,9/20/2015,2015,2,False,PHI,10,20,DAL,PHI,-6.5,54,Lincoln Financial Field,False,74.0,7.0,,
 11372,9/20/2015,2015,2,False,PIT,43,18,SF,PIT,-6.0,46,Heinz Field,False,69.0,2.0,,
-11373,9/20/2015,2015,2,False,WAS,24,10,STL,LAR,-3.0,41,FedEx Field,False,75.0,6.0,,
+11373,9/20/2015,2015,2,False,WAS,24,10,LAR,LAR,-3.0,41,FedEx Field,False,75.0,6.0,,
 11374,9/21/2015,2015,2,False,IND,7,20,NYJ,IND,-6.0,46,Lucas Oil Stadium,False,72.0,0.0,,indoor
 11375,9/24/2015,2015,3,False,NYG,32,21,WAS,NYG,-3.0,45,MetLife Stadium,False,66.0,2.0,,
 11376,9/27/2015,2015,3,False,ARI,47,7,SF,ARI,-7.0,45,University of Phoenix Stadium,False,72.0,0.0,,indoor
 11377,9/27/2015,2015,3,False,BAL,24,28,CIN,BAL,-1.5,45.5,M&T Bank Stadium,False,73.0,8.0,,
 11378,9/27/2015,2015,3,False,CAR,27,22,NO,CAR,-9.5,43,Bank of America Stadium,False,67.0,8.0,,
-11379,9/27/2015,2015,3,False,CLE,20,27,OAK,CLE,-3.5,44,FirstEnergy Stadium,False,75.0,10.0,,
+11379,9/27/2015,2015,3,False,CLE,20,27,LVR,CLE,-3.5,44,FirstEnergy Stadium,False,75.0,10.0,,
 11380,9/27/2015,2015,3,False,DAL,28,39,ATL,PICK,0.0,43.5,Cowboys Stadium,False,72.0,0.0,,indoor
 11381,9/27/2015,2015,3,False,DET,12,24,DEN,DEN,-3.0,45,Ford Field,False,72.0,0.0,,indoor
 11382,9/27/2015,2015,3,False,HOU,19,9,TB,HOU,-6.0,41,Reliant Stadium,False,75.0,8.0,,retractable (open roof)
@@ -578,14 +578,14 @@
 11385,9/27/2015,2015,3,False,NE,51,17,JAX,NE,-14.0,49,Gillette Stadium,False,70.0,3.0,,
 11386,9/27/2015,2015,3,False,NYJ,17,24,PHI,NYJ,-3.0,47,MetLife Stadium,False,70.0,5.0,,
 11387,9/27/2015,2015,3,False,SEA,26,0,CHI,SEA,-16.5,43.5,CenturyLink Field,False,62.0,7.0,,
-11388,9/27/2015,2015,3,False,STL,6,12,PIT,LAR,-1.0,48.5,Edward Jones Dome,False,72.0,0.0,,indoor
+11388,9/27/2015,2015,3,False,LAR,6,12,PIT,LAR,-1.0,48.5,Edward Jones Dome,False,72.0,0.0,,indoor
 11389,9/27/2015,2015,3,False,TEN,33,35,IND,IND,-3.5,46.5,Nissan Stadium,False,77.0,4.0,,
 11390,9/28/2015,2015,3,False,GB,38,28,KC,GB,-5.5,47.5,Lambeau Field,False,62.0,3.0,,
 11391,10/1/2015,2015,4,False,PIT,20,23,BAL,BAL,-3.0,44,Heinz Field,False,54.0,7.0,,
-11392,10/4/2015,2015,4,False,ARI,22,24,STL,ARI,-7.0,43.5,University of Phoenix Stadium,False,72.0,0.0,,indoor
+11392,10/4/2015,2015,4,False,ARI,22,24,LAR,ARI,-7.0,43.5,University of Phoenix Stadium,False,72.0,0.0,,indoor
 11393,10/4/2015,2015,4,False,ATL,48,21,HOU,ATL,-4.5,47.5,Georgia Dome,False,72.0,0.0,,indoor
 11394,10/4/2015,2015,4,False,BUF,10,24,NYG,BUF,-6.0,46.5,Ralph Wilson Stadium,False,60.0,4.0,,
-11395,10/4/2015,2015,4,False,CHI,22,20,OAK,LVR,-3.0,44.5,Soldier Field,False,56.0,8.0,,
+11395,10/4/2015,2015,4,False,CHI,22,20,LVR,LVR,-3.0,44.5,Soldier Field,False,56.0,8.0,,
 11396,10/4/2015,2015,4,False,CIN,36,21,KC,CIN,-3.5,45,Paul Brown Stadium,False,73.0,8.0,,
 11397,10/4/2015,2015,4,False,DEN,23,20,MIN,DEN,-7.0,43.5,Sports Authority Field at Mile High,False,60.0,5.0,,
 11398,10/4/2015,2015,4,False,IND,16,13,JAX,IND,-4.0,43.5,Lucas Oil Stadium,False,72.0,0.0,,indoor
@@ -602,10 +602,10 @@
 11409,10/11/2015,2015,5,False,CIN,27,24,SEA,CIN,-3.0,44.5,Paul Brown Stadium,False,72.0,7.0,,
 11410,10/11/2015,2015,5,False,DAL,6,30,NE,NE,-8.5,50.5,Cowboys Stadium,False,72.0,0.0,,indoor
 11411,10/11/2015,2015,5,False,DET,17,42,ARI,ARI,-4.5,46,Ford Field,False,72.0,0.0,,indoor
-11412,10/11/2015,2015,5,False,GB,24,10,STL,GB,-9.0,46,Lambeau Field,False,73.0,15.0,,
+11412,10/11/2015,2015,5,False,GB,24,10,LAR,GB,-9.0,46,Lambeau Field,False,73.0,15.0,,
 11413,10/11/2015,2015,5,False,KC,17,18,CHI,KC,-9.5,44.5,Arrowhead Stadium,False,80.0,11.0,,
 11414,10/11/2015,2015,5,False,NYG,30,27,SF,NYG,-7.5,44,MetLife Stadium,False,57.0,3.0,,
-11415,10/11/2015,2015,5,False,OAK,10,16,DEN,DEN,-5.5,45,Oakland Coliseum,False,76.0,8.0,,
+11415,10/11/2015,2015,5,False,LVR,10,16,DEN,DEN,-5.5,45,Oakland Coliseum,False,76.0,8.0,,
 11416,10/11/2015,2015,5,False,PHI,39,17,NO,PHI,-6.5,49.5,Lincoln Financial Field,False,67.0,4.0,,
 11417,10/11/2015,2015,5,False,TB,38,31,JAX,TB,-1.0,41.5,Raymond James Stadium,False,83.0,9.0,,
 11418,10/11/2015,2015,5,False,TEN,13,14,BUF,BUF,-1.0,43,Nissan Stadium,False,72.0,2.0,,
@@ -633,8 +633,8 @@
 11440,10/25/2015,2015,7,False,MIA,44,26,HOU,MIA,-4.5,45.5,Sun Life Stadium,False,82.0,11.0,,
 11441,10/25/2015,2015,7,False,NE,30,23,NYJ,NE,-7.0,47.5,Gillette Stadium,False,58.0,6.0,,
 11442,10/25/2015,2015,7,False,NYG,27,20,DAL,NYG,-3.0,44.5,MetLife Stadium,False,59.0,10.0,,
-11443,10/25/2015,2015,7,False,LAC,29,37,OAK,LAC,-3.5,48.5,Qualcomm Stadium,False,77.0,5.0,,
-11444,10/25/2015,2015,7,False,STL,24,6,CLE,LAR,-6.0,44,Edward Jones Dome,False,72.0,0.0,,indoor
+11443,10/25/2015,2015,7,False,LAC,29,37,LVR,LAC,-3.5,48.5,Qualcomm Stadium,False,77.0,5.0,,
+11444,10/25/2015,2015,7,False,LAR,24,6,CLE,LAR,-6.0,44,Edward Jones Dome,False,72.0,0.0,,indoor
 11445,10/25/2015,2015,7,False,TEN,7,10,ATL,ATL,-6.0,45.5,Nissan Stadium,False,61.0,8.0,,
 11446,10/25/2015,2015,7,False,WAS,31,30,TB,WAS,-3.0,41.5,FedEx Field,False,70.0,8.0,,
 11447,10/26/2015,2015,7,False,ARI,26,18,BAL,ARI,-10.0,49.5,University of Phoenix Stadium,False,72.0,0.0,,indoor
@@ -648,20 +648,20 @@
 11455,11/1/2015,2015,8,False,HOU,20,6,TEN,HOU,-3.5,43,Reliant Stadium,False,68.0,4.0,,retractable (open roof)
 11456,11/1/2015,2015,8,False,KC,45,10,DET,DET,-3.0,45,Wembley Stadium,True,57.0,3.0,,
 11457,11/1/2015,2015,8,False,NO,52,49,NYG,NO,-3.0,52,Louisiana Superdome,False,72.0,0.0,,indoor
-11458,11/1/2015,2015,8,False,OAK,34,20,NYJ,NYJ,-3.0,44,Oakland Coliseum,False,68.0,8.0,,
+11458,11/1/2015,2015,8,False,LVR,34,20,NYJ,NYJ,-3.0,44,Oakland Coliseum,False,68.0,8.0,,
 11459,11/1/2015,2015,8,False,PIT,10,16,CIN,PICK,0.0,49.5,Heinz Field,False,63.0,9.0,,
-11460,11/1/2015,2015,8,False,STL,27,6,SF,LAR,-8.0,41,Edward Jones Dome,False,72.0,0.0,,indoor
+11460,11/1/2015,2015,8,False,LAR,27,6,SF,LAR,-8.0,41,Edward Jones Dome,False,72.0,0.0,,indoor
 11461,11/2/2015,2015,8,False,CAR,29,26,IND,CAR,-5.5,45.5,Bank of America Stadium,False,62.0,5.0,,rain
 11462,11/5/2015,2015,9,False,CIN,31,10,CLE,CIN,-13.0,46,Paul Brown Stadium,False,65.0,5.0,,
 11463,11/8/2015,2015,9,False,BUF,33,17,MIA,BUF,-4.0,44,Ralph Wilson Stadium,False,47.0,6.0,,
 11464,11/8/2015,2015,9,False,CAR,37,29,GB,GB,-2.5,46,Bank of America Stadium,False,53.0,7.0,,
 11465,11/8/2015,2015,9,False,DAL,27,33,PHI,PHI,-3.0,44,Cowboys Stadium,False,53.0,2.0,,retractable (open roof)
 11466,11/8/2015,2015,9,False,IND,27,24,DEN,DEN,-3.5,45.5,Lucas Oil Stadium,False,72.0,0.0,,indoor
-11467,11/8/2015,2015,9,False,MIN,21,18,STL,MIN,-1.0,40,TCF Bank Stadium,False,57.0,14.0,,
+11467,11/8/2015,2015,9,False,MIN,21,18,LAR,MIN,-1.0,40,TCF Bank Stadium,False,57.0,14.0,,
 11468,11/8/2015,2015,9,False,NE,27,10,WAS,NE,-13.5,51.5,Gillette Stadium,False,54.0,8.0,,
 11469,11/8/2015,2015,9,False,NO,28,34,TEN,NO,-6.5,50,Louisiana Superdome,False,72.0,0.0,,indoor
 11470,11/8/2015,2015,9,False,NYJ,28,23,JAX,NYJ,-8.0,42.5,MetLife Stadium,False,57.0,7.0,,
-11471,11/8/2015,2015,9,False,PIT,38,35,OAK,PIT,-6.0,48,Heinz Field,False,51.0,0.0,,
+11471,11/8/2015,2015,9,False,PIT,38,35,LVR,PIT,-6.0,48,Heinz Field,False,51.0,0.0,,
 11472,11/8/2015,2015,9,False,SF,17,16,ATL,ATL,-8.5,43.5,Levi's Stadium,False,58.0,2.0,,
 11473,11/8/2015,2015,9,False,TB,18,32,NYG,NYG,-2.0,49,Raymond James Stadium,False,77.0,1.0,,
 11474,11/9/2015,2015,9,False,LAC,19,22,CHI,LAC,-3.5,49.5,Qualcomm Stadium,False,61.0,7.0,,
@@ -670,11 +670,11 @@
 11477,11/15/2015,2015,10,False,DEN,13,29,KC,DEN,-3.5,42,Sports Authority Field at Mile High,False,59.0,1.0,,
 11478,11/15/2015,2015,10,False,GB,16,18,DET,GB,-10.5,50,Lambeau Field,False,57.0,6.0,,
 11479,11/15/2015,2015,10,False,NYG,26,27,NE,NE,-7.0,52.5,MetLife Stadium,False,54.0,5.0,,
-11480,11/15/2015,2015,10,False,OAK,14,30,MIN,LVR,-3.0,44,Oakland Coliseum,False,57.0,15.0,,
+11480,11/15/2015,2015,10,False,LVR,14,30,MIN,LVR,-3.0,44,Oakland Coliseum,False,57.0,15.0,,
 11481,11/15/2015,2015,10,False,PHI,19,20,MIA,PHI,-6.0,49.5,Lincoln Financial Field,False,59.0,9.0,,
 11482,11/15/2015,2015,10,False,PIT,30,9,CLE,PIT,-7.0,43,Heinz Field,False,60.0,6.0,,
 11483,11/15/2015,2015,10,False,SEA,32,39,ARI,SEA,-3.0,43.5,CenturyLink Field,False,42.0,1.0,,
-11484,11/15/2015,2015,10,False,STL,13,37,CHI,LAR,-7.0,42.5,Edward Jones Dome,False,72.0,0.0,,indoor
+11484,11/15/2015,2015,10,False,LAR,13,37,CHI,LAR,-7.0,42.5,Edward Jones Dome,False,72.0,0.0,,indoor
 11485,11/15/2015,2015,10,False,TB,10,6,DAL,DAL,-1.0,43.5,Raymond James Stadium,False,77.0,9.0,,
 11486,11/15/2015,2015,10,False,TEN,10,27,CAR,CAR,-3.5,43,Nissan Stadium,False,60.0,3.0,,
 11487,11/15/2015,2015,10,False,WAS,47,14,NO,NO,-1.0,52,FedEx Field,False,62.0,7.0,,
@@ -682,10 +682,10 @@
 11489,11/19/2015,2015,11,False,JAX,19,13,TEN,JAX,-3.0,41.5,EverBank Field,False,71.0,2.0,,
 11490,11/22/2015,2015,11,False,ARI,34,31,CIN,ARI,-4.0,48,University of Phoenix Stadium,False,72.0,0.0,,indoor
 11491,11/22/2015,2015,11,False,ATL,21,24,IND,ATL,-3.5,47.5,Georgia Dome,False,72.0,0.0,,indoor
-11492,11/22/2015,2015,11,False,BAL,16,13,STL,BAL,-3.0,41.5,M&T Bank Stadium,False,47.0,10.0,,
+11492,11/22/2015,2015,11,False,BAL,16,13,LAR,BAL,-3.0,41.5,M&T Bank Stadium,False,47.0,10.0,,
 11493,11/22/2015,2015,11,False,CAR,44,16,WAS,CAR,-7.0,44.5,Bank of America Stadium,False,52.0,8.0,,
 11494,11/22/2015,2015,11,False,CHI,15,17,DEN,DEN,-2.0,41.5,Soldier Field,False,29.0,6.0,,
-11495,11/22/2015,2015,11,False,DET,18,13,OAK,LVR,-1.5,50,Ford Field,False,72.0,0.0,,indoor
+11495,11/22/2015,2015,11,False,DET,18,13,LVR,LVR,-1.5,50,Ford Field,False,72.0,0.0,,indoor
 11496,11/22/2015,2015,11,False,HOU,24,17,NYJ,NYJ,-4.0,40,Reliant Stadium,False,52.0,5.0,,retractable (open roof)
 11497,11/22/2015,2015,11,False,MIA,14,24,DAL,DAL,-2.0,45,Sun Life Stadium,False,75.0,10.0,,
 11498,11/22/2015,2015,11,False,MIN,13,30,GB,PICK,0.0,45,TCF Bank Stadium,False,32.0,7.0,,
@@ -697,7 +697,7 @@
 11504,11/26/2015,2015,12,False,DET,45,14,PHI,DET,-3.0,47,Ford Field,False,72.0,0.0,,indoor
 11505,11/26/2015,2015,12,False,GB,13,17,CHI,GB,-8.0,45,Lambeau Field,False,35.0,10.0,,rain
 11506,11/29/2015,2015,12,False,ATL,10,20,MIN,ATL,-2.0,45,Georgia Dome,False,72.0,0.0,,indoor
-11507,11/29/2015,2015,12,False,CIN,31,7,STL,CIN,-9.5,42,Paul Brown Stadium,False,45.0,6.0,,
+11507,11/29/2015,2015,12,False,CIN,31,7,LAR,CIN,-9.5,42,Paul Brown Stadium,False,45.0,6.0,,
 11508,11/29/2015,2015,12,False,DEN,30,24,NE,NE,-2.5,43,Sports Authority Field at Mile High,False,21.0,0.0,,snow
 11509,11/29/2015,2015,12,False,HOU,24,6,NO,HOU,-3.5,51,Reliant Stadium,False,55.0,8.0,,retractable (open roof)
 11510,11/29/2015,2015,12,False,IND,25,12,TB,IND,-3.0,46.5,Lucas Oil Stadium,False,72.0,0.0,,indoor
@@ -706,7 +706,7 @@
 11513,11/29/2015,2015,12,False,NYJ,38,20,MIA,NYJ,-4.5,43.5,MetLife Stadium,False,48.0,5.0,,
 11514,11/29/2015,2015,12,False,SF,13,19,ARI,ARI,-8.5,45,Levi's Stadium,False,57.0,2.0,,
 11515,11/29/2015,2015,12,False,SEA,39,30,PIT,SEA,-3.0,46.5,CenturyLink Field,False,37.0,2.0,,
-11516,11/29/2015,2015,12,False,TEN,21,24,OAK,LVR,-1.0,45,Nissan Stadium,False,57.0,2.0,,
+11516,11/29/2015,2015,12,False,TEN,21,24,LVR,LVR,-1.0,45,Nissan Stadium,False,57.0,2.0,,
 11517,11/29/2015,2015,12,False,WAS,20,14,NYG,NYG,-1.5,48,FedEx Field,False,46.0,5.0,,
 11518,11/30/2015,2015,12,False,CLE,27,33,BAL,CLE,-6.0,41,FirstEnergy Stadium,False,42.0,8.0,,
 11519,12/3/2015,2015,13,False,DET,23,27,GB,GB,-2.5,46.5,Ford Field,False,72.0,0.0,,indoor
@@ -718,10 +718,10 @@
 11525,12/6/2015,2015,13,False,NE,28,35,PHI,NE,-9.5,49,Gillette Stadium,False,44.0,5.0,,
 11526,12/6/2015,2015,13,False,NO,38,41,CAR,CAR,-6.0,50.5,Louisiana Superdome,False,72.0,0.0,,indoor
 11527,12/6/2015,2015,13,False,NYG,20,23,NYJ,NYJ,-2.5,46,MetLife Stadium,False,52.0,5.0,,
-11528,12/6/2015,2015,13,False,OAK,20,34,KC,KC,-3.0,45.5,Oakland Coliseum,False,60.0,3.0,,
+11528,12/6/2015,2015,13,False,LVR,20,34,KC,KC,-3.0,45.5,Oakland Coliseum,False,60.0,3.0,,
 11529,12/6/2015,2015,13,False,PIT,45,10,IND,PIT,-9.5,50.5,Heinz Field,False,35.0,2.0,,
 11530,12/6/2015,2015,13,False,LAC,3,17,DEN,DEN,-6.0,45,Qualcomm Stadium,False,71.0,7.0,,
-11531,12/6/2015,2015,13,False,STL,3,27,ARI,ARI,-3.5,43,Edward Jones Dome,False,72.0,0.0,,indoor
+11531,12/6/2015,2015,13,False,LAR,3,27,ARI,ARI,-3.5,43,Edward Jones Dome,False,72.0,0.0,,indoor
 11532,12/6/2015,2015,13,False,TB,23,19,ATL,PICK,0.0,46.5,Raymond James Stadium,False,78.0,11.0,,
 11533,12/6/2015,2015,13,False,TEN,42,39,JAX,TEN,-3.0,43.5,Nissan Stadium,False,56.0,4.0,,
 11534,12/7/2015,2015,13,False,WAS,16,19,DAL,WAS,-2.0,43.5,FedEx Field,False,44.0,2.0,,
@@ -731,17 +731,17 @@
 11538,12/13/2015,2015,14,False,CHI,21,24,WAS,CHI,-4.0,43.5,Soldier Field,False,58.0,11.0,,
 11539,12/13/2015,2015,14,False,CIN,20,33,PIT,CIN,-1.0,48.5,Paul Brown Stadium,False,65.0,6.0,,
 11540,12/13/2015,2015,14,False,CLE,24,10,SF,CLE,-2.5,43,FirstEnergy Stadium,False,62.0,8.0,,
-11541,12/13/2015,2015,14,False,DEN,12,15,OAK,DEN,-6.0,43,Sports Authority Field at Mile High,False,39.0,2.0,,
+11541,12/13/2015,2015,14,False,DEN,12,15,LVR,DEN,-6.0,43,Sports Authority Field at Mile High,False,39.0,2.0,,
 11542,12/13/2015,2015,14,False,GB,28,7,DAL,GB,-6.5,42.5,Lambeau Field,False,52.0,9.0,,rain
 11543,12/13/2015,2015,14,False,HOU,6,27,NE,NE,-5.0,46.5,Reliant Stadium,False,52.0,3.0,,retractable (open roof)
 11544,12/13/2015,2015,14,False,JAX,51,16,IND,JAX,-1.0,46,EverBank Field,False,77.0,8.0,,
 11545,12/13/2015,2015,14,False,KC,10,3,LAC,KC,-12.0,41.5,Arrowhead Stadium,False,60.0,11.0,,rain
 11546,12/13/2015,2015,14,False,NYJ,30,8,TEN,NYJ,-8.0,43,MetLife Stadium,False,65.0,4.0,,
 11547,12/13/2015,2015,14,False,PHI,23,20,BUF,PHI,-1.0,48.5,Lincoln Financial Field,False,69.0,1.0,,
-11548,12/13/2015,2015,14,False,STL,21,14,DET,DET,-3.0,41.5,Edward Jones Dome,False,72.0,0.0,,indoor
+11548,12/13/2015,2015,14,False,LAR,21,14,DET,DET,-3.0,41.5,Edward Jones Dome,False,72.0,0.0,,indoor
 11549,12/13/2015,2015,14,False,TB,17,24,NO,TB,-6.0,51.5,Raymond James Stadium,False,80.0,12.0,,
 11550,12/14/2015,2015,14,False,MIA,24,31,NYG,NYG,-2.0,48,Sun Life Stadium,False,75.0,5.0,,
-11551,12/17/2015,2015,15,False,STL,31,23,TB,LAR,-1.0,41,Edward Jones Dome,False,72.0,0.0,,indoor
+11551,12/17/2015,2015,15,False,LAR,31,23,TB,LAR,-1.0,41,Edward Jones Dome,False,72.0,0.0,,indoor
 11552,12/19/2015,2015,15,False,DAL,16,19,NYJ,NYJ,-3.5,41,Cowboys Stadium,False,50.0,7.0,,retractable (open roof)
 11553,12/20/2015,2015,15,False,BAL,14,34,KC,KC,-6.5,41,M&T Bank Stadium,False,43.0,3.0,,
 11554,12/20/2015,2015,15,False,IND,10,16,HOU,IND,-2.0,41.5,Lucas Oil Stadium,False,72.0,0.0,,indoor
@@ -749,7 +749,7 @@
 11556,12/20/2015,2015,15,False,MIN,38,17,CHI,MIN,-4.0,44,TCF Bank Stadium,False,36.0,3.0,,
 11557,12/20/2015,2015,15,False,NE,33,16,TEN,NE,-14.5,48,Gillette Stadium,False,39.0,5.0,,
 11558,12/20/2015,2015,15,False,NYG,35,38,CAR,CAR,-5.0,46.5,MetLife Stadium,False,41.0,4.0,,
-11559,12/20/2015,2015,15,False,OAK,20,30,GB,GB,-4.0,47,Oakland Coliseum,False,51.0,10.0,,
+11559,12/20/2015,2015,15,False,LVR,20,30,GB,GB,-4.0,47,Oakland Coliseum,False,51.0,10.0,,
 11560,12/20/2015,2015,15,False,PHI,17,40,ARI,ARI,-4.0,51.5,Lincoln Financial Field,False,34.0,3.0,,
 11561,12/20/2015,2015,15,False,PIT,34,27,DEN,PIT,-7.5,45.5,Heinz Field,False,36.0,3.0,,
 11562,12/20/2015,2015,15,False,LAC,30,14,MIA,LAC,-1.0,47,Qualcomm Stadium,False,60.0,6.0,,
@@ -757,7 +757,7 @@
 11564,12/20/2015,2015,15,False,SEA,30,13,CLE,SEA,-14.5,45.5,CenturyLink Field,False,44.0,8.0,,
 11565,12/20/2015,2015,15,False,WAS,35,25,BUF,BUF,-2.0,46,FedEx Field,False,45.0,3.0,,
 11566,12/21/2015,2015,15,False,NO,27,35,DET,NO,-2.5,52,Louisiana Superdome,False,72.0,0.0,,indoor
-11567,12/24/2015,2015,16,False,OAK,23,20,LAC,LVR,-4.0,45.5,Oakland Coliseum,False,46.0,8.0,,
+11567,12/24/2015,2015,16,False,LVR,23,20,LAC,LVR,-4.0,45.5,Oakland Coliseum,False,46.0,8.0,,
 11568,12/26/2015,2015,16,False,PHI,24,38,WAS,PHI,-3.5,48.5,Lincoln Financial Field,False,50.0,5.0,,
 11569,12/27/2015,2015,16,False,ARI,38,8,GB,ARI,-6.0,50.5,University of Phoenix Stadium,False,72.0,0.0,,indoor
 11570,12/27/2015,2015,16,False,ATL,20,13,CAR,CAR,-7.0,46,Georgia Dome,False,72.0,0.0,,indoor
@@ -769,7 +769,7 @@
 11576,12/27/2015,2015,16,False,MIN,49,17,NYG,MIN,-7.0,44.5,TCF Bank Stadium,False,12.0,5.0,,
 11577,12/27/2015,2015,16,False,NO,38,27,JAX,NO,-2.5,53.5,Louisiana Superdome,False,72.0,0.0,,indoor
 11578,12/27/2015,2015,16,False,NYJ,26,20,NE,NE,-2.5,45.5,MetLife Stadium,False,56.0,7.0,,
-11579,12/27/2015,2015,16,False,SEA,17,23,STL,SEA,-11.0,42,CenturyLink Field,False,37.0,2.0,,rain
+11579,12/27/2015,2015,16,False,SEA,17,23,LAR,SEA,-11.0,42,CenturyLink Field,False,37.0,2.0,,rain
 11580,12/27/2015,2015,16,False,TB,21,26,CHI,TB,-3.0,44,Raymond James Stadium,False,83.0,11.0,,
 11581,12/27/2015,2015,16,False,TEN,6,34,HOU,HOU,-3.5,39,Nissan Stadium,False,72.0,10.0,,
 11582,12/28/2015,2015,16,False,DEN,20,17,CIN,DEN,-4.0,39,Sports Authority Field at Mile High,False,16.0,0.0,,
@@ -785,10 +785,10 @@
 11592,1/3/2016,2015,17,False,GB,13,20,MIN,GB,-3.0,44,Lambeau Field,False,23.0,5.0,,
 11593,1/3/2016,2015,17,False,HOU,30,6,JAX,HOU,-6.0,45,Reliant Stadium,False,56.0,4.0,,retractable (open roof)
 11594,1/3/2016,2015,17,False,IND,30,24,TEN,IND,-4.0,39,Lucas Oil Stadium,False,72.0,0.0,,indoor
-11595,1/3/2016,2015,17,False,KC,23,17,OAK,KC,-6.5,43.5,Arrowhead Stadium,False,32.0,7.0,,
+11595,1/3/2016,2015,17,False,KC,23,17,LVR,KC,-6.5,43.5,Arrowhead Stadium,False,32.0,7.0,,
 11596,1/3/2016,2015,17,False,MIA,20,10,NE,NE,-10.0,46.5,Sun Life Stadium,False,78.0,4.0,,
 11597,1/3/2016,2015,17,False,NYG,30,35,PHI,NYG,-3.5,51,MetLife Stadium,False,44.0,10.0,,
-11598,1/3/2016,2015,17,False,SF,19,16,STL,LAR,-3.0,38.5,Levi's Stadium,False,57.0,0.0,,
+11598,1/3/2016,2015,17,False,SF,19,16,LAR,LAR,-3.0,38.5,Levi's Stadium,False,57.0,0.0,,
 11599,1/9/2016,2015,Wildcard,True,CIN,16,18,PIT,PIT,-3.0,45,Paul Brown Stadium,False,51.0,5.0,,
 11600,1/9/2016,2015,Wildcard,True,HOU,0,30,KC,KC,-3.0,40,Reliant Stadium,False,72.0,0.0,,indoor
 11601,1/10/2016,2015,Wildcard,True,MIN,9,10,SEA,SEA,-4.5,40,TCF Bank Stadium,False,-6.0,12.0,,
@@ -809,7 +809,7 @@
 11616,9/11/2016,2016,1,False,IND,35,39,DET,IND,-2.5,51.5,Lucas Oil Stadium,False,72.0,0.0,,indoor
 11617,9/11/2016,2016,1,False,JAX,23,27,GB,GB,-3.5,47.5,EverBank Field,False,91.0,1.0,,
 11618,9/11/2016,2016,1,False,KC,33,27,LAC,KC,-6.5,46,Arrowhead Stadium,False,73.0,7.0,,
-11619,9/11/2016,2016,1,False,NO,34,35,OAK,NO,-3.0,50.5,Louisiana Superdome,False,72.0,0.0,,indoor
+11619,9/11/2016,2016,1,False,NO,34,35,LVR,NO,-3.0,50.5,Louisiana Superdome,False,72.0,0.0,,indoor
 11620,9/11/2016,2016,1,False,NYJ,22,23,CIN,CIN,-1.0,42,MetLife Stadium,False,80.0,9.0,,
 11621,9/11/2016,2016,1,False,PHI,29,10,CLE,PHI,-3.5,41,Lincoln Financial Field,False,83.0,9.0,,
 11622,9/11/2016,2016,1,False,SEA,12,10,MIA,SEA,-10.5,44,CenturyLink Field,False,64.0,2.0,,
@@ -827,7 +827,7 @@
 11634,9/18/2016,2016,2,False,MIN,17,14,GB,GB,-2.0,43,U.S. Bank Stadium,False,72.0,0.0,,indoor
 11635,9/18/2016,2016,2,False,NE,31,24,MIA,NE,-5.5,42,Gillette Stadium,False,78.0,6.0,,
 11636,9/18/2016,2016,2,False,NYG,16,13,NO,NYG,-4.0,54.5,MetLife Stadium,False,79.0,5.0,,
-11637,9/18/2016,2016,2,False,OAK,28,35,ATL,LVR,-4.0,48,Oakland Coliseum,False,83.0,3.0,,
+11637,9/18/2016,2016,2,False,LVR,28,35,ATL,LVR,-4.0,48,Oakland Coliseum,False,83.0,3.0,,
 11638,9/18/2016,2016,2,False,PIT,24,16,CIN,PIT,-3.0,48,Heinz Field,False,71.0,3.0,,
 11639,9/18/2016,2016,2,False,LAC,38,14,JAX,LAC,-3.0,47.5,Qualcomm Stadium,False,78.0,5.0,,
 11640,9/18/2016,2016,2,False,WAS,23,27,DAL,WAS,-3.0,47,FedEx Field,False,84.0,5.0,,
@@ -846,12 +846,12 @@
 11653,9/25/2016,2016,3,False,PHI,34,3,PIT,PIT,-4.0,46.5,Lincoln Financial Field,False,71.0,1.0,,
 11654,9/25/2016,2016,3,False,SEA,37,18,SF,SEA,-10.5,41.5,CenturyLink Field,False,69.0,2.0,,
 11655,9/25/2016,2016,3,False,TB,32,37,LAR,TB,-3.5,40.5,Raymond James Stadium,False,89.0,3.0,,
-11656,9/25/2016,2016,3,False,TEN,10,17,OAK,LVR,-1.5,47,Nissan Stadium,False,89.0,3.0,,
+11656,9/25/2016,2016,3,False,TEN,10,17,LVR,LVR,-1.5,47,Nissan Stadium,False,89.0,3.0,,
 11657,9/26/2016,2016,3,False,NO,32,45,ATL,NO,-3.0,54.5,Louisiana Superdome,False,72.0,0.0,,indoor
 11658,9/29/2016,2016,4,False,CIN,22,7,MIA,CIN,-7.5,46.5,Paul Brown Stadium,False,59.0,0.0,,
 11659,10/2/2016,2016,4,False,ARI,13,17,LAR,ARI,-10.0,43.5,University of Phoenix Stadium,False,72.0,0.0,,indoor
 11660,10/2/2016,2016,4,False,ATL,48,33,CAR,CAR,-3.0,48.5,Georgia Dome,False,72.0,0.0,,indoor
-11661,10/2/2016,2016,4,False,BAL,27,28,OAK,BAL,-3.5,45,M&T Bank Stadium,False,67.0,0.0,,
+11661,10/2/2016,2016,4,False,BAL,27,28,LVR,BAL,-3.5,45,M&T Bank Stadium,False,67.0,0.0,,
 11662,10/2/2016,2016,4,False,CHI,17,14,DET,DET,-3.0,48,Soldier Field,False,64.0,2.0,,
 11663,10/2/2016,2016,4,False,HOU,27,20,TEN,HOU,-3.5,40,Reliant Stadium,False,82.0,4.0,,retractable (open roof)
 11664,10/2/2016,2016,4,False,JAX,30,27,IND,IND,-1.0,48.5,Wembley Stadium,True,58.0,6.0,,
@@ -874,7 +874,7 @@
 11681,10/9/2016,2016,5,False,LAR,19,30,BUF,BUF,-2.5,41.5,Los Angeles Memorial Coliseum,False,87.0,5.0,,
 11682,10/9/2016,2016,5,False,MIA,17,30,TEN,MIA,-2.5,44.5,Sun Life Stadium,False,87.0,12.0,,
 11683,10/9/2016,2016,5,False,MIN,31,13,HOU,MIN,-6.0,39,U.S. Bank Stadium,False,72.0,0.0,,indoor
-11684,10/9/2016,2016,5,False,OAK,34,31,LAC,LVR,-3.5,50.5,Oakland Coliseum,False,78.0,4.0,,
+11684,10/9/2016,2016,5,False,LVR,34,31,LAC,LVR,-3.5,50.5,Oakland Coliseum,False,78.0,4.0,,
 11685,10/9/2016,2016,5,False,PIT,31,13,NYJ,PIT,-10.0,50,Heinz Field,False,57.0,6.0,,
 11686,10/10/2016,2016,5,False,CAR,14,17,TB,CAR,-6.0,46.5,Bank of America Stadium,False,57.0,2.0,,
 11687,10/13/2016,2016,6,False,LAC,21,13,DEN,DEN,-3.0,44,Qualcomm Stadium,False,69.0,6.0,,
@@ -887,7 +887,7 @@
 11694,10/16/2016,2016,6,False,NE,35,17,CIN,NE,-7.5,48,Gillette Stadium,False,66.0,7.0,,
 11695,10/16/2016,2016,6,False,NO,41,38,CAR,CAR,-2.5,53.5,Louisiana Superdome,False,72.0,0.0,,indoor
 11696,10/16/2016,2016,6,False,NYG,27,23,BAL,NYG,-3.5,42.5,MetLife Stadium,False,66.0,6.0,,
-11697,10/16/2016,2016,6,False,OAK,10,26,KC,KC,-1.0,46.5,Oakland Coliseum,False,61.0,5.0,,rain
+11697,10/16/2016,2016,6,False,LVR,10,26,KC,KC,-1.0,46.5,Oakland Coliseum,False,61.0,5.0,,rain
 11698,10/16/2016,2016,6,False,SEA,26,24,ATL,SEA,-7.0,45.5,CenturyLink Field,False,54.0,5.0,,
 11699,10/16/2016,2016,6,False,TEN,28,26,CLE,TEN,-7.5,44.5,Nissan Stadium,False,79.0,7.0,,
 11700,10/16/2016,2016,6,False,WAS,27,20,PHI,PHI,-3.0,45,FedEx Field,False,69.0,5.0,,
@@ -897,7 +897,7 @@
 11704,10/23/2016,2016,7,False,ATL,30,33,LAC,ATL,-4.5,52.5,Georgia Dome,False,72.0,0.0,,indoor
 11705,10/23/2016,2016,7,False,CIN,31,17,CLE,CIN,-11.0,46.5,Paul Brown Stadium,False,66.0,6.0,,
 11706,10/23/2016,2016,7,False,DET,20,17,WAS,WAS,-1.0,50,Ford Field,False,72.0,0.0,,indoor
-11707,10/23/2016,2016,7,False,JAX,16,33,OAK,JAX,-2.0,47.5,EverBank Field,False,72.0,5.0,,
+11707,10/23/2016,2016,7,False,JAX,16,33,LVR,JAX,-2.0,47.5,EverBank Field,False,72.0,5.0,,
 11708,10/23/2016,2016,7,False,KC,27,21,NO,KC,-7.0,51.5,Arrowhead Stadium,False,69.0,6.0,,
 11709,10/23/2016,2016,7,False,LAR,10,17,NYG,NYG,-2.5,44.5,Twickenham Stadium,True,54.0,10.0,,
 11710,10/23/2016,2016,7,False,MIA,28,25,BUF,BUF,-2.5,46,Sun Life Stadium,False,80.0,10.0,,
@@ -918,7 +918,7 @@
 11725,10/30/2016,2016,8,False,HOU,20,13,DET,HOU,-1.0,46.5,Reliant Stadium,False,80.0,3.0,,retractable (open roof)
 11726,10/30/2016,2016,8,False,IND,14,30,KC,KC,-3.0,50.5,Lucas Oil Stadium,False,72.0,0.0,,indoor
 11727,10/30/2016,2016,8,False,NO,25,20,SEA,SEA,-1.0,50,Louisiana Superdome,False,72.0,0.0,,indoor
-11728,10/30/2016,2016,8,False,TB,24,30,OAK,TB,-1.0,48,Raymond James Stadium,False,84.0,10.0,,
+11728,10/30/2016,2016,8,False,TB,24,30,LVR,TB,-1.0,48,Raymond James Stadium,False,84.0,10.0,,
 11729,10/31/2016,2016,8,False,CHI,20,10,MIN,MIN,-4.5,39.5,Soldier Field,False,57.0,3.0,,rain
 11730,11/3/2016,2016,9,False,TB,28,43,ATL,ATL,-4.5,49,Raymond James Stadium,False,75.0,2.0,,
 11731,11/6/2016,2016,9,False,BAL,21,14,PIT,PIT,-3.5,46,M&T Bank Stadium,False,63.0,10.0,,
@@ -929,7 +929,7 @@
 11736,11/6/2016,2016,9,False,MIA,27,23,NYJ,MIA,-3.5,45,Sun Life Stadium,False,79.0,11.0,,
 11737,11/6/2016,2016,9,False,MIN,16,22,DET,MIN,-4.5,42.5,U.S. Bank Stadium,False,72.0,0.0,,indoor
 11738,11/6/2016,2016,9,False,NYG,28,23,PHI,NYG,-3.0,42.5,MetLife Stadium,False,57.0,8.0,,
-11739,11/6/2016,2016,9,False,OAK,30,20,DEN,LVR,-1.0,44.5,Oakland Coliseum,False,67.0,3.0,,
+11739,11/6/2016,2016,9,False,LVR,30,20,DEN,LVR,-1.0,44.5,Oakland Coliseum,False,67.0,3.0,,
 11740,11/6/2016,2016,9,False,LAC,43,35,TEN,LAC,-3.5,47.5,Qualcomm Stadium,False,74.0,3.0,,
 11741,11/6/2016,2016,9,False,SF,23,41,NO,NO,-5.0,53,Levi's Stadium,False,68.0,1.0,,
 11742,11/7/2016,2016,9,False,SEA,31,25,BUF,SEA,-5.5,43.5,CenturyLink Field,False,60.0,0.0,,
@@ -960,7 +960,7 @@
 11767,11/20/2016,2016,11,False,SF,17,30,NE,NE,-11.5,51.5,Levi's Stadium,False,61.0,1.0,,rain
 11768,11/20/2016,2016,11,False,SEA,26,15,PHI,SEA,-6.5,43,CenturyLink Field,False,51.0,4.0,,
 11769,11/20/2016,2016,11,False,WAS,42,24,GB,WAS,-3.0,48.5,FedEx Field,False,38.0,15.0,,
-11770,11/21/2016,2016,11,False,OAK,27,20,HOU,LVR,-6.5,46,Estadio Azteca,True,62.0,0.0,,
+11770,11/21/2016,2016,11,False,LVR,27,20,HOU,LVR,-6.5,46,Estadio Azteca,True,62.0,0.0,,
 11771,11/24/2016,2016,12,False,DAL,31,26,WAS,DAL,-6.0,53.5,Cowboys Stadium,False,69.0,5.0,,retractable (open roof)
 11772,11/24/2016,2016,12,False,DET,16,13,MIN,DET,-1.5,42,Ford Field,False,72.0,0.0,,indoor
 11773,11/24/2016,2016,12,False,IND,7,28,PIT,PIT,-8.5,49.5,Lucas Oil Stadium,False,72.0,0.0,,indoor
@@ -974,7 +974,7 @@
 11781,11/27/2016,2016,12,False,MIA,31,24,SF,MIA,-7.0,45,Sun Life Stadium,False,79.0,10.0,,
 11782,11/27/2016,2016,12,False,NO,49,21,LAR,NO,-8.0,45,Louisiana Superdome,False,72.0,0.0,,indoor
 11783,11/27/2016,2016,12,False,NYJ,17,22,NE,NE,-9.5,48.5,MetLife Stadium,False,48.0,8.0,,
-11784,11/27/2016,2016,12,False,OAK,35,32,CAR,LVR,-3.5,48.5,Oakland Coliseum,False,56.0,6.0,,
+11784,11/27/2016,2016,12,False,LVR,35,32,CAR,LVR,-3.5,48.5,Oakland Coliseum,False,56.0,6.0,,
 11785,11/27/2016,2016,12,False,TB,14,5,SEA,SEA,-5.5,46,Raymond James Stadium,False,78.0,7.0,,
 11786,11/28/2016,2016,12,False,PHI,13,27,GB,PHI,-4.0,47.5,Lincoln Financial Field,False,47.0,4.0,,
 11787,12/1/2016,2016,13,False,MIN,15,17,DAL,DAL,-3.0,43.5,U.S. Bank Stadium,False,72.0,0.0,,indoor
@@ -987,12 +987,12 @@
 11794,12/4/2016,2016,13,False,JAX,10,20,DEN,DEN,-3.5,38.5,EverBank Field,False,75.0,3.0,,
 11795,12/4/2016,2016,13,False,NE,26,10,LAR,NE,-13.5,45,Gillette Stadium,False,37.0,7.0,,
 11796,12/4/2016,2016,13,False,NO,13,28,DET,NO,-6.5,53.5,Louisiana Superdome,False,72.0,0.0,,indoor
-11797,12/4/2016,2016,13,False,OAK,38,24,BUF,LVR,-3.0,48.5,Oakland Coliseum,False,55.0,2.0,,
+11797,12/4/2016,2016,13,False,LVR,38,24,BUF,LVR,-3.0,48.5,Oakland Coliseum,False,55.0,2.0,,
 11798,12/4/2016,2016,13,False,PIT,24,14,NYG,PIT,-6.5,49.5,Heinz Field,False,40.0,2.0,,
 11799,12/4/2016,2016,13,False,LAC,21,28,TB,LAC,-3.5,49,Qualcomm Stadium,False,71.0,3.0,,
 11800,12/4/2016,2016,13,False,SEA,40,7,CAR,SEA,-8.5,44,CenturyLink Field,False,41.0,1.0,,
 11801,12/5/2016,2016,13,False,NYJ,10,41,IND,NYJ,-1.0,48.5,MetLife Stadium,False,43.0,2.0,,
-11802,12/8/2016,2016,14,False,KC,21,13,OAK,KC,-3.5,46,Arrowhead Stadium,False,23.0,4.0,,
+11802,12/8/2016,2016,14,False,KC,21,13,LVR,KC,-3.5,46,Arrowhead Stadium,False,23.0,4.0,,
 11803,12/11/2016,2016,14,False,BUF,20,27,PIT,PIT,-2.0,45.5,New Era Field,False,24.0,6.0,,snow
 11804,12/11/2016,2016,14,False,CAR,28,16,LAC,CAR,-1.0,48.5,Bank of America Stadium,False,42.0,2.0,,
 11805,12/11/2016,2016,14,False,CLE,10,23,CIN,CIN,-5.0,41.5,FirstEnergy Stadium,False,28.0,13.0,,snow
@@ -1022,7 +1022,7 @@
 11829,12/18/2016,2016,15,False,KC,17,19,TEN,KC,-6.0,43,Arrowhead Stadium,False,2.0,2.0,,
 11830,12/18/2016,2016,15,False,MIN,6,34,IND,MIN,-5.0,44.5,U.S. Bank Stadium,False,72.0,0.0,,indoor
 11831,12/18/2016,2016,15,False,NYG,17,6,DET,NYG,-4.0,42.5,MetLife Stadium,False,48.0,4.0,,
-11832,12/18/2016,2016,15,False,LAC,16,19,OAK,LVR,-2.5,49.5,Qualcomm Stadium,False,60.0,2.0,,
+11832,12/18/2016,2016,15,False,LAC,16,19,LVR,LVR,-2.5,49.5,Qualcomm Stadium,False,60.0,2.0,,
 11833,12/19/2016,2016,15,False,WAS,15,26,CAR,WAS,-7.0,50.5,FedEx Field,False,30.0,3.0,,
 11834,12/22/2016,2016,16,False,PHI,24,19,NYG,PHI,-1.5,42.5,Lincoln Financial Field,False,41.0,8.0,,
 11835,12/24/2016,2016,16,False,BUF,31,34,MIA,BUF,-4.5,44.5,New Era Field,False,35.0,7.0,,
@@ -1035,14 +1035,14 @@
 11842,12/24/2016,2016,16,False,LAR,21,22,SF,LAR,-6.0,39.5,Los Angeles Memorial Coliseum,False,55.0,7.0,,
 11843,12/24/2016,2016,16,False,NE,41,3,NYJ,NE,-17.0,45,Gillette Stadium,False,40.0,4.0,,rain
 11844,12/24/2016,2016,16,False,NO,31,24,TB,NO,-3.0,53,Louisiana Superdome,False,72.0,0.0,,indoor
-11845,12/24/2016,2016,16,False,OAK,33,25,IND,LVR,-3.5,52,Oakland Coliseum,False,48.0,5.0,,
+11845,12/24/2016,2016,16,False,LVR,33,25,IND,LVR,-3.5,52,Oakland Coliseum,False,48.0,5.0,,
 11846,12/24/2016,2016,16,False,SEA,31,34,ARI,SEA,-9.0,43.5,CenturyLink Field,False,39.0,2.0,,
 11847,12/25/2016,2016,16,False,KC,33,10,DEN,KC,-3.5,38,Arrowhead Stadium,False,60.0,11.0,,rain
 11848,12/25/2016,2016,16,False,PIT,31,27,BAL,PIT,-5.5,46.5,Heinz Field,False,39.0,4.0,,
 11849,12/26/2016,2016,16,False,DAL,42,21,DET,DAL,-6.5,46.5,Cowboys Stadium,False,65.0,0.0,,retractable (open roof)
 11850,1/1/2017,2016,17,False,ATL,38,32,NO,ATL,-7.5,58.5,Georgia Dome,False,72.0,0.0,,indoor
 11851,1/1/2017,2016,17,False,CIN,27,10,BAL,BAL,-2.5,40.5,Paul Brown Stadium,False,38.0,1.0,,fog
-11852,1/1/2017,2016,17,False,DEN,24,6,OAK,DEN,-1.0,40,Sports Authority Field at Mile High,False,48.0,3.0,,
+11852,1/1/2017,2016,17,False,DEN,24,6,LVR,DEN,-1.0,40,Sports Authority Field at Mile High,False,48.0,3.0,,
 11853,1/1/2017,2016,17,False,DET,24,31,GB,GB,-3.5,50,Ford Field,False,72.0,0.0,,indoor
 11854,1/1/2017,2016,17,False,IND,24,20,JAX,IND,-5.5,48.5,Lucas Oil Stadium,False,72.0,0.0,,indoor
 11855,1/1/2017,2016,17,False,LAR,6,44,ARI,ARI,-7.0,39,Los Angeles Memorial Coliseum,False,56.0,1.0,,
@@ -1056,7 +1056,7 @@
 11863,1/1/2017,2016,17,False,TB,17,16,CAR,TB,-3.0,44.5,Raymond James Stadium,False,76.0,7.0,,
 11864,1/1/2017,2016,17,False,TEN,24,17,HOU,TEN,-3.0,41.5,Nissan Stadium,False,49.0,2.0,,
 11865,1/1/2017,2016,17,False,WAS,10,19,NYG,WAS,-9.0,47.5,FedEx Field,False,52.0,1.0,,
-11866,1/7/2017,2016,Wildcard,True,HOU,27,14,OAK,HOU,-4.0,38,Reliant Stadium,False,72.0,0.0,,indoor
+11866,1/7/2017,2016,Wildcard,True,HOU,27,14,LVR,HOU,-4.0,38,Reliant Stadium,False,72.0,0.0,,indoor
 11867,1/7/2017,2016,Wildcard,True,SEA,26,6,DET,SEA,-8.0,45.5,CenturyLink Field,False,38.0,7.0,,
 11868,1/8/2017,2016,Wildcard,True,GB,38,13,NYG,GB,-5.0,46.5,Lambeau Field,False,14.0,7.0,,
 11869,1/8/2017,2016,Wildcard,True,PIT,30,12,MIA,PIT,-11.0,47.5,Heinz Field,False,17.0,16.0,,
@@ -1078,7 +1078,7 @@
 11885,9/10/2017,2017,1,False,HOU,7,29,JAX,HOU,-5.5,39.5,NRG Stadium,False,82.0,9.0,,retractable (open roof)
 11886,9/10/2017,2017,1,False,LAR,46,9,IND,IND,-1.5,41.5,Los Angeles Memorial Coliseum,False,82.0,6.0,,
 11887,9/10/2017,2017,1,False,SF,3,23,CAR,CAR,-5.5,48,Levi's Stadium,False,89.0,4.0,,
-11888,9/10/2017,2017,1,False,TEN,16,26,OAK,TEN,-2.0,50.5,LP Stadium,False,72.0,6.0,,
+11888,9/10/2017,2017,1,False,TEN,16,26,LVR,TEN,-2.0,50.5,LP Stadium,False,72.0,6.0,,
 11889,9/10/2017,2017,1,False,WAS,17,30,PHI,PHI,-1.0,47.5,FedEx Field,False,68.0,7.0,,
 11890,9/11/2017,2017,1,False,DEN,24,21,LAC,DEN,-3.5,43.5,Sports Authority Field at Mile High,False,78.0,6.0,,rain
 11891,9/11/2017,2017,1,False,MIN,29,19,NO,MIN,-3.5,48,U.S. Bank Stadium,False,72.0,0.0,,indoor
@@ -1093,7 +1093,7 @@
 11900,9/17/2017,2017,2,False,LAC,17,19,MIA,LAC,-4.5,45,StubHub Center,False,73.0,7.0,,
 11901,9/17/2017,2017,2,False,LAR,20,27,WAS,LAR,-2.5,46,Los Angeles Memorial Coliseum,False,74.0,7.0,,
 11902,9/17/2017,2017,2,False,NO,20,36,NE,NE,-7.0,55,Mercedes-Benz Superdome,False,72.0,0.0,,indoor
-11903,9/17/2017,2017,2,False,OAK,45,20,NYJ,LVR,-14.0,43.5,Oakland Coliseum,False,69.0,6.0,,
+11903,9/17/2017,2017,2,False,LVR,45,20,NYJ,LVR,-14.0,43.5,Oakland Coliseum,False,69.0,6.0,,
 11904,9/17/2017,2017,2,False,PIT,26,9,MIN,PIT,-6.0,45.5,Heinz Field,False,79.0,1.0,,
 11905,9/17/2017,2017,2,False,SEA,12,9,SF,SEA,-13.5,42.5,CenturyLink Field,False,65.0,11.0,,
 11906,9/17/2017,2017,2,False,TB,29,7,CHI,TB,-7.0,43,Raymond James Stadium,False,88.0,7.0,,
@@ -1112,7 +1112,7 @@
 11919,9/24/2017,2017,3,False,NYJ,20,6,MIA,MIA,-5.5,43,MetLife Stadium,False,84.0,7.0,,
 11920,9/24/2017,2017,3,False,PHI,27,24,NYG,PHI,-6.0,43,Lincoln Financial Field,False,83.0,7.0,,
 11921,9/24/2017,2017,3,False,TEN,33,27,SEA,TEN,-3.0,42,LP Stadium,False,89.0,4.0,,
-11922,9/24/2017,2017,3,False,WAS,27,10,OAK,LVR,-3.0,53.5,FedEx Field,False,77.0,4.0,,
+11922,9/24/2017,2017,3,False,WAS,27,10,LVR,LVR,-3.0,53.5,FedEx Field,False,77.0,4.0,,
 11923,9/25/2017,2017,3,False,ARI,17,28,DAL,DAL,-3.0,46.5,University of Phoenix Stadium,False,72.0,0.0,,indoor
 11924,9/28/2017,2017,4,False,GB,35,14,CHI,GB,-7.5,44.5,Lambeau Field,False,59.0,8.0,,
 11925,10/1/2017,2017,4,False,ARI,18,15,SF,ARI,-6.5,44.5,University of Phoenix Stadium,False,72.0,0.0,,indoor
@@ -1120,7 +1120,7 @@
 11927,10/1/2017,2017,4,False,BAL,9,26,PIT,PIT,-3.0,42,M&T Bank Stadium,False,69.0,5.0,,
 11928,10/1/2017,2017,4,False,CLE,7,31,CIN,CIN,-3.0,41.5,FirstEnergy Stadium,False,67.0,5.0,,
 11929,10/1/2017,2017,4,False,DAL,30,35,LAR,DAL,-6.0,48.5,AT&T Stadium,False,72.0,0.0,,indoor
-11930,10/1/2017,2017,4,False,DEN,16,10,OAK,DEN,-3.0,46,Sports Authority Field at Mile High,False,71.0,7.0,,
+11930,10/1/2017,2017,4,False,DEN,16,10,LVR,DEN,-3.0,46,Sports Authority Field at Mile High,False,71.0,7.0,,
 11931,10/1/2017,2017,4,False,HOU,57,14,TEN,TEN,-2.0,43.5,NRG Stadium,False,72.0,0.0,,indoor
 11932,10/1/2017,2017,4,False,LAC,24,26,PHI,LAC,-1.0,47.5,StubHub Center,False,84.0,7.0,,
 11933,10/1/2017,2017,4,False,MIA,0,20,NO,NO,-3.0,50.5,Wembley Stadium,True,85.0,9.0,,
@@ -1140,7 +1140,7 @@
 11947,10/8/2017,2017,5,False,LAR,10,16,SEA,LAR,-1.0,47.5,Los Angeles Memorial Coliseum,False,75.0,6.0,,
 11948,10/8/2017,2017,5,False,MIA,16,10,TEN,TEN,-3.0,43.5,Hard Rock Stadium,False,89.0,8.0,,
 11949,10/8/2017,2017,5,False,NYG,22,27,LAC,NYG,-3.5,44.5,MetLife Stadium,False,75.0,10.0,,
-11950,10/8/2017,2017,5,False,OAK,17,30,BAL,LVR,-2.5,39,Oakland Coliseum,False,74.0,9.0,,
+11950,10/8/2017,2017,5,False,LVR,17,30,BAL,LVR,-2.5,39,Oakland Coliseum,False,74.0,9.0,,
 11951,10/8/2017,2017,5,False,PHI,34,7,ARI,PHI,-6.5,45,Lincoln Financial Field,False,75.0,11.0,,
 11952,10/8/2017,2017,5,False,PIT,9,30,JAX,PIT,-8.5,43.5,Heinz Field,False,70.0,5.0,,
 11953,10/9/2017,2017,5,False,CHI,17,20,MIN,MIN,-3.0,40,Soldier Field,False,65.0,8.0,,
@@ -1155,10 +1155,10 @@
 11962,10/15/2017,2017,6,False,MIN,23,10,GB,GB,-3.0,44.5,U.S. Bank Stadium,False,72.0,0.0,,indoor
 11963,10/15/2017,2017,6,False,NO,52,38,DET,NO,-4.0,49.5,Mercedes-Benz Superdome,False,72.0,0.0,,indoor
 11964,10/15/2017,2017,6,False,NYJ,17,24,NE,NE,-9.0,48.5,MetLife Stadium,False,73.0,13.0,,
-11965,10/15/2017,2017,6,False,OAK,16,17,LAC,LVR,-3.0,48.5,Oakland Coliseum,False,76.0,9.0,,
+11965,10/15/2017,2017,6,False,LVR,16,17,LAC,LVR,-3.0,48.5,Oakland Coliseum,False,76.0,9.0,,
 11966,10/15/2017,2017,6,False,WAS,26,24,SF,WAS,-12.0,46,FedEx Field,False,71.0,10.0,,
 11967,10/16/2017,2017,6,False,TEN,36,22,IND,TEN,-7.0,46,LP Stadium,False,55.0,6.0,,
-11968,10/19/2017,2017,7,False,OAK,31,30,KC,KC,-3.0,46.5,Oakland Coliseum,False,61.0,4.0,,
+11968,10/19/2017,2017,7,False,LVR,31,30,KC,KC,-3.0,46.5,Oakland Coliseum,False,61.0,4.0,,
 11969,10/22/2017,2017,7,False,BUF,30,27,TB,BUF,-3.0,45.5,New Era Field,False,71.0,5.0,,
 11970,10/22/2017,2017,7,False,CHI,17,3,CAR,CAR,-3.0,40,Soldier Field,False,68.0,11.0,,
 11971,10/22/2017,2017,7,False,CLE,9,12,TEN,TEN,-5.5,42.5,FirstEnergy Stadium,False,72.0,7.0,,
@@ -1174,7 +1174,7 @@
 11981,10/22/2017,2017,7,False,SF,10,40,DAL,DAL,-6.5,48.5,Levi's Stadium,False,68.0,7.0,,
 11982,10/23/2017,2017,7,False,PHI,34,24,WAS,PHI,-4.5,49,Lincoln Financial Field,False,67.0,12.0,,
 11983,10/26/2017,2017,8,False,BAL,40,0,MIA,BAL,-3.0,37.5,M&T Bank Stadium,False,48.0,0.0,,
-11984,10/29/2017,2017,8,False,BUF,34,14,OAK,BUF,-2.5,45.5,New Era Field,False,43.0,5.0,,
+11984,10/29/2017,2017,8,False,BUF,34,14,LVR,BUF,-2.5,45.5,New Era Field,False,43.0,5.0,,
 11985,10/29/2017,2017,8,False,CIN,24,23,IND,CIN,-11.0,41.5,Paul Brown Stadium,False,44.0,6.0,,
 11986,10/29/2017,2017,8,False,CLE,16,33,MIN,MIN,-9.5,38,Twickenham Stadium,True,53.0,10.0,,
 11987,10/29/2017,2017,8,False,DET,15,20,PIT,PIT,-3.0,45.5,Ford Field,False,72.0,0.0,,indoor
@@ -1191,7 +1191,7 @@
 11998,11/5/2017,2017,9,False,DAL,28,17,KC,DAL,-2.5,53,AT&T Stadium,False,72.0,0.0,,indoor
 11999,11/5/2017,2017,9,False,HOU,14,20,IND,HOU,-6.0,45,NRG Stadium,False,72.0,0.0,,indoor
 12000,11/5/2017,2017,9,False,JAX,23,7,CIN,JAX,-6.0,38,EverBank Field,False,78.0,12.0,,
-12001,11/5/2017,2017,9,False,MIA,24,27,OAK,LVR,-3.0,44.5,Hard Rock Stadium,False,77.0,2.0,,
+12001,11/5/2017,2017,9,False,MIA,24,27,LVR,LVR,-3.0,44.5,Hard Rock Stadium,False,77.0,2.0,,
 12002,11/5/2017,2017,9,False,NO,30,10,TB,NO,-7.0,54,Mercedes-Benz Superdome,False,72.0,0.0,,indoor
 12003,11/5/2017,2017,9,False,NYG,17,51,LAR,LAR,-5.5,42.5,MetLife Stadium,False,56.0,6.0,,
 12004,11/5/2017,2017,9,False,PHI,51,23,DEN,PHI,-7.0,41,Lincoln Financial Field,False,61.0,5.0,,
@@ -1225,7 +1225,7 @@
 12032,11/19/2017,2017,11,False,MIN,24,7,LAR,MIN,-2.5,45.5,U.S. Bank Stadium,False,72.0,0.0,,indoor
 12033,11/19/2017,2017,11,False,NO,34,31,WAS,NO,-7.5,52.5,Mercedes-Benz Superdome,False,72.0,0.0,,indoor
 12034,11/19/2017,2017,11,False,NYG,12,9,KC,KC,-10.0,45.5,MetLife Stadium,False,49.0,18.0,,
-12035,11/19/2017,2017,11,False,OAK,8,33,NE,NE,-7.0,54.5,Estadio Azteca,True,69.0,7.0,,
+12035,11/19/2017,2017,11,False,LVR,8,33,NE,NE,-7.0,54.5,Estadio Azteca,True,69.0,7.0,,
 12036,11/20/2017,2017,11,False,SEA,31,34,ATL,SEA,-2.0,45.5,CenturyLink Field,False,48.0,2.0,,
 12037,11/23/2017,2017,12,False,DAL,6,28,LAC,LAC,-1.0,48,AT&T Stadium,False,72.0,0.0,,indoor
 12038,11/23/2017,2017,12,False,DET,23,30,MIN,MIN,-3.0,44.5,Ford Field,False,72.0,0.0,,indoor
@@ -1238,7 +1238,7 @@
 12045,11/26/2017,2017,12,False,LAR,26,20,NO,LAR,-2.5,53.5,Los Angeles Memorial Coliseum,False,72.0,1.0,,
 12046,11/26/2017,2017,12,False,NE,35,17,MIA,NE,-16.5,47.5,Gillette Stadium,False,47.0,17.0,,
 12047,11/26/2017,2017,12,False,NYJ,27,35,CAR,CAR,-5.0,40,MetLife Stadium,False,47.0,23.0,,
-12048,11/26/2017,2017,12,False,OAK,21,14,DEN,LVR,-5.0,43.5,Oakland Coliseum,False,61.0,13.0,,
+12048,11/26/2017,2017,12,False,LVR,21,14,DEN,LVR,-5.0,43.5,Oakland Coliseum,False,61.0,13.0,,
 12049,11/26/2017,2017,12,False,PHI,31,3,CHI,PHI,-13.5,44,Lincoln Financial Field,False,49.0,17.0,,
 12050,11/26/2017,2017,12,False,PIT,31,28,GB,PIT,-14.0,41.5,Heinz Field,False,38.0,7.0,,
 12051,11/26/2017,2017,12,False,SF,13,24,SEA,SEA,-7.0,43,Levi's Stadium,False,66.0,12.0,,
@@ -1255,7 +1255,7 @@
 12062,12/3/2017,2017,13,False,MIA,35,9,DEN,DEN,-1.5,39.5,Hard Rock Stadium,False,80.0,11.0,,
 12063,12/3/2017,2017,13,False,NO,31,21,CAR,NO,-4.5,48,Mercedes-Benz Superdome,False,72.0,0.0,,indoor
 12064,12/3/2017,2017,13,False,NYJ,38,31,KC,KC,-3.0,43.5,MetLife Stadium,False,48.0,0.0,,
-12065,12/3/2017,2017,13,False,OAK,24,17,NYG,LVR,-9.0,41.5,Oakland Coliseum,False,58.0,11.0,,
+12065,12/3/2017,2017,13,False,LVR,24,17,NYG,LVR,-9.0,41.5,Oakland Coliseum,False,58.0,11.0,,
 12066,12/3/2017,2017,13,False,SEA,24,10,PHI,PHI,-5.5,47.5,CenturyLink Field,False,44.0,3.0,,
 12067,12/3/2017,2017,13,False,TEN,24,13,HOU,TEN,-6.5,43,LP Stadium,False,60.0,4.0,,
 12068,12/4/2017,2017,13,False,CIN,20,23,PIT,PIT,-4.5,43.5,Paul Brown Stadium,False,61.0,9.0,,
@@ -1268,7 +1268,7 @@
 12075,12/10/2017,2017,14,False,DEN,23,0,NYJ,NYJ,-1.0,40.5,Sports Authority Field at Mile High,False,60.0,3.0,,
 12076,12/10/2017,2017,14,False,HOU,16,26,SF,HOU,-1.0,45.5,NRG Stadium,False,72.0,0.0,,indoor
 12077,12/10/2017,2017,14,False,JAX,30,24,SEA,JAX,-3.0,40,EverBank Field,False,46.0,2.0,,
-12078,12/10/2017,2017,14,False,KC,26,15,OAK,KC,-4.5,48.5,Arrowhead Stadium,False,46.0,13.0,,
+12078,12/10/2017,2017,14,False,KC,26,15,LVR,KC,-4.5,48.5,Arrowhead Stadium,False,46.0,13.0,,
 12079,12/10/2017,2017,14,False,LAC,30,13,WAS,LAC,-6.0,46.5,StubHub Center,False,81.0,4.0,,
 12080,12/10/2017,2017,14,False,LAR,35,43,PHI,LAR,-1.0,47.5,Los Angeles Memorial Coliseum,False,83.0,0.0,,
 12081,12/10/2017,2017,14,False,NYG,10,30,DAL,DAL,-4.0,42,MetLife Stadium,False,39.0,11.0,,
@@ -1285,7 +1285,7 @@
 12092,12/17/2017,2017,15,False,MIN,34,7,CIN,MIN,-12.5,42.5,U.S. Bank Stadium,False,72.0,0.0,,indoor
 12093,12/17/2017,2017,15,False,NO,31,19,NYJ,NO,-16.5,47,Mercedes-Benz Superdome,False,72.0,0.0,,indoor
 12094,12/17/2017,2017,15,False,NYG,29,34,PHI,PHI,-7.5,40,MetLife Stadium,False,35.0,0.0,,
-12095,12/17/2017,2017,15,False,OAK,17,20,DAL,DAL,-3.0,46,Oakland Coliseum,False,57.0,4.0,,
+12095,12/17/2017,2017,15,False,LVR,17,20,DAL,DAL,-3.0,46,Oakland Coliseum,False,57.0,4.0,,
 12096,12/17/2017,2017,15,False,PIT,24,27,NE,NE,-2.5,52.5,Heinz Field,False,42.0,4.0,,rain
 12097,12/17/2017,2017,15,False,SF,25,23,TEN,SF,-2.5,44.5,Levi's Stadium,False,65.0,17.0,,
 12098,12/17/2017,2017,15,False,SEA,7,42,LAR,LAR,-1.0,47.5,CenturyLink Field,False,47.0,15.0,,
@@ -1306,13 +1306,13 @@
 12113,12/24/2017,2017,16,False,TEN,23,27,LAR,LAR,-5.5,46,LP Stadium,False,39.0,11.0,,
 12114,12/24/2017,2017,16,False,WAS,27,11,DEN,WAS,-3.0,39.5,FedEx Field,False,43.0,7.0,,
 12115,12/25/2017,2017,16,False,HOU,6,34,PIT,PIT,-8.0,45.5,NRG Stadium,False,72.0,0.0,,indoor
-12116,12/25/2017,2017,16,False,PHI,19,10,OAK,PHI,-10.0,46,Lincoln Financial Field,False,29.0,15.0,,
+12116,12/25/2017,2017,16,False,PHI,19,10,LVR,PHI,-10.0,46,Lincoln Financial Field,False,29.0,15.0,,
 12117,12/31/2017,2017,17,False,ATL,22,10,CAR,ATL,-5.0,44.5,Georgia Dome,False,72.0,0.0,,indoor
 12118,12/31/2017,2017,17,False,BAL,27,31,CIN,BAL,-8.0,40,M&T Bank Stadium,False,19.0,12.0,,
 12119,12/31/2017,2017,17,False,DEN,24,27,KC,DEN,-3.0,37.5,Sports Authority Field at Mile High,False,17.0,4.0,,
 12120,12/31/2017,2017,17,False,DET,35,11,GB,DET,-7.5,44.5,Ford Field,False,72.0,0.0,,indoor
 12121,12/31/2017,2017,17,False,IND,22,13,HOU,IND,-5.5,41.5,Lucas Oil Stadium,False,72.0,0.0,,indoor
-12122,12/31/2017,2017,17,False,LAC,30,10,OAK,LAC,-7.0,43,StubHub Center,False,62.0,2.0,,
+12122,12/31/2017,2017,17,False,LAC,30,10,LVR,LAC,-7.0,43,StubHub Center,False,62.0,2.0,,
 12123,12/31/2017,2017,17,False,LAR,13,34,SF,SF,-6.0,44.5,Los Angeles Memorial Coliseum,False,67.0,3.0,,
 12124,12/31/2017,2017,17,False,MIA,16,22,BUF,BUF,-2.5,41.5,Hard Rock Stadium,False,71.0,9.0,,
 12125,12/31/2017,2017,17,False,MIN,23,10,CHI,MIN,-13.5,38.5,U.S. Bank Stadium,False,72.0,0.0,,indoor
@@ -1349,12 +1349,12 @@
 12156,9/9/2018,2018,1,False,NO,40,48,TB,NO,-10.0,50,Mercedes-Benz Superdome,False,72.0,0.0,,indoor
 12157,9/9/2018,2018,1,False,NYG,15,20,JAX,JAX,-2.5,43,MetLife Stadium,False,59.0,7.0,,rain
 12158,9/10/2018,2018,1,False,DET,17,48,NYJ,DET,-7.0,44,Ford Field,False,72.0,0.0,,indoor
-12159,9/10/2018,2018,1,False,OAK,13,33,LAR,LAR,-6.5,47.5,Oakland Coliseum,False,69.0,10.0,,
+12159,9/10/2018,2018,1,False,LVR,13,33,LAR,LAR,-6.5,47.5,Oakland Coliseum,False,69.0,10.0,,
 12160,9/13/2018,2018,2,False,CIN,34,23,BAL,CIN,-1.0,43,Paul Brown Stadium,False,82.0,3.0,,
 12161,9/16/2018,2018,2,False,ATL,31,24,CAR,ATL,-5.5,44,Mercedes-Benz Stadium,False,72.0,0.0,,indoor
 12162,9/16/2018,2018,2,False,BUF,20,31,LAC,LAC,-7.5,41.5,New Era Field,False,83.0,6.0,,
 12163,9/16/2018,2018,2,False,DAL,20,13,NYG,DAL,-3.0,42,AT&T Stadium,False,72.0,0.0,,indoor
-12164,9/16/2018,2018,2,False,DEN,20,19,OAK,DEN,-5.5,44,Sports Authority Field at Mile High,False,92.0,4.0,,
+12164,9/16/2018,2018,2,False,DEN,20,19,LVR,DEN,-5.5,44,Sports Authority Field at Mile High,False,92.0,4.0,,
 12165,9/16/2018,2018,2,False,GB,29,29,MIN,MIN,-2.0,45,Lambeau Field,False,80.0,5.0,,
 12166,9/16/2018,2018,2,False,JAX,31,20,NE,NE,-2.0,44.5,EverBank Field,False,97.0,15.0,,rain
 12167,9/16/2018,2018,2,False,LAR,34,0,ARI,LAR,-13.5,43.5,Los Angeles Memorial Coliseum,False,86.0,2.0,,
@@ -1376,7 +1376,7 @@
 12183,9/23/2018,2018,3,False,JAX,6,9,TEN,JAX,-10.0,39,TIAA Bank Field,False,89.0,10.0,,
 12184,9/23/2018,2018,3,False,KC,38,27,SF,KC,-5.5,53,Arrowhead Stadium,False,70.0,4.0,,
 12185,9/23/2018,2018,3,False,LAR,35,23,LAC,LAR,-7.5,49,Los Angeles Memorial Coliseum,False,80.0,5.0,,
-12186,9/23/2018,2018,3,False,MIA,28,20,OAK,MIA,-3.0,46,Hard Rock Stadium,False,90.0,7.0,,
+12186,9/23/2018,2018,3,False,MIA,28,20,LVR,MIA,-3.0,46,Hard Rock Stadium,False,90.0,7.0,,
 12187,9/23/2018,2018,3,False,MIN,6,27,BUF,MIN,-16.5,41,U.S. Bank Stadium,False,72.0,0.0,,indoor
 12188,9/23/2018,2018,3,False,PHI,20,16,IND,PHI,-6.5,45.5,Lincoln Financial Field,False,61.0,5.0,,rain
 12189,9/23/2018,2018,3,False,SEA,24,13,DAL,SEA,-1.0,40,CenturyLink Field,False,61.0,4.0,,
@@ -1393,7 +1393,7 @@
 12200,9/30/2018,2018,4,False,LAC,29,27,SF,LAC,-10.5,46,StubHub Center,False,78.0,9.0,,
 12201,9/30/2018,2018,4,False,NE,38,7,MIA,NE,-6.5,50.5,Gillette Stadium,False,65.0,6.0,,
 12202,9/30/2018,2018,4,False,NYG,18,33,NO,NO,-3.5,51.5,MetLife Stadium,False,71.0,7.0,,
-12203,9/30/2018,2018,4,False,OAK,45,42,CLE,LVR,-2.5,44.5,Oakland Coliseum,False,71.0,8.0,,
+12203,9/30/2018,2018,4,False,LVR,45,42,CLE,LVR,-2.5,44.5,Oakland Coliseum,False,71.0,8.0,,
 12204,9/30/2018,2018,4,False,PIT,14,26,BAL,PIT,-3.0,51,Heinz Field,False,69.0,2.0,,
 12205,9/30/2018,2018,4,False,TEN,26,23,PHI,PHI,-3.0,41.5,Nissan Stadium,False,80.0,4.0,,
 12206,10/1/2018,2018,4,False,DEN,23,27,KC,KC,-3.5,53.5,Sports Authority Field at Mile High,False,65.0,5.0,,
@@ -1405,7 +1405,7 @@
 12212,10/7/2018,2018,5,False,DET,31,23,GB,GB,-1.0,50,Ford Field,False,72.0,0.0,,indoor
 12213,10/7/2018,2018,5,False,HOU,19,16,DAL,HOU,-3.5,45.5,NRG Stadium,False,72.0,0.0,,indoor
 12214,10/7/2018,2018,5,False,KC,30,14,JAX,KC,-3.0,48,Arrowhead Stadium,False,58.0,5.0,,rain
-12215,10/7/2018,2018,5,False,LAC,26,10,OAK,LAC,-5.0,52,StubHub Center,False,75.0,10.0,,
+12215,10/7/2018,2018,5,False,LAC,26,10,LVR,LAC,-5.0,52,StubHub Center,False,75.0,10.0,,
 12216,10/7/2018,2018,5,False,NYJ,34,16,DEN,NYJ,-1.0,43,MetLife Stadium,False,77.0,7.0,,
 12217,10/7/2018,2018,5,False,PHI,21,23,MIN,PHI,-3.5,48,Lincoln Financial Field,False,79.0,6.0,,
 12218,10/7/2018,2018,5,False,PIT,41,17,ATL,PIT,-3.5,57,Heinz Field,False,83.0,5.0,,
@@ -1423,7 +1423,7 @@
 12230,10/14/2018,2018,6,False,MIN,27,17,ARI,MIN,-10.0,43.5,U.S. Bank Stadium,False,72.0,0.0,,indoor
 12231,10/14/2018,2018,6,False,NE,43,40,KC,NE,-3.5,59.5,Gillette Stadium,False,45.0,0.0,,
 12232,10/14/2018,2018,6,False,NYJ,42,34,IND,NYJ,-2.5,47.5,MetLife Stadium,False,60.0,7.0,,
-12233,10/14/2018,2018,6,False,OAK,3,27,SEA,SEA,-3.0,48,Tottenham Stadium,True,50.0,12.0,,rain
+12233,10/14/2018,2018,6,False,LVR,3,27,SEA,SEA,-3.0,48,Tottenham Stadium,True,50.0,12.0,,rain
 12234,10/14/2018,2018,6,False,TEN,0,21,BAL,BAL,-2.5,43.5,Nissan Stadium,False,66.0,4.0,,
 12235,10/14/2018,2018,6,False,WAS,23,17,CAR,CAR,-1.0,44.5,FedEx Field,False,52.0,0.0,,
 12236,10/15/2018,2018,6,False,GB,33,30,SF,GB,-9.0,46.5,Lambeau Field,False,37.0,5.0,,
@@ -1452,10 +1452,10 @@
 12259,10/28/2018,2018,8,False,LAR,29,27,GB,LAR,-7.5,57,Los Angeles Memorial Coliseum,False,82.0,1.0,,
 12260,10/28/2018,2018,8,False,MIN,20,30,NO,MIN,-2.5,53.5,U.S. Bank Stadium,False,72.0,0.0,,indoor
 12261,10/28/2018,2018,8,False,NYG,13,20,WAS,WAS,-1.0,44,MetLife Stadium,False,51.0,11.0,,
-12262,10/28/2018,2018,8,False,OAK,28,42,IND,IND,-3.5,51,Oakland Coliseum,False,69.0,8.0,,
+12262,10/28/2018,2018,8,False,LVR,28,42,IND,IND,-3.5,51,Oakland Coliseum,False,69.0,8.0,,
 12263,10/28/2018,2018,8,False,PIT,33,18,CLE,PIT,-8.5,47.5,Heinz Field,False,47.0,11.0,,
 12264,10/29/2018,2018,8,False,BUF,6,25,NE,NE,-13.5,44.5,New Era Field,False,46.0,16.0,,
-12265,11/1/2018,2018,9,False,SF,34,3,OAK,LVR,-1.5,44,Levi's Stadium,False,82.0,8.0,,
+12265,11/1/2018,2018,9,False,SF,34,3,LVR,LVR,-1.5,44,Levi's Stadium,False,82.0,8.0,,
 12266,11/4/2018,2018,9,False,BAL,16,23,PIT,BAL,-1.5,46.5,M&T Bank Stadium,False,55.0,6.0,,
 12267,11/4/2018,2018,9,False,BUF,9,41,CHI,CHI,-10.5,38,New Era Field,False,49.0,12.0,,
 12268,11/4/2018,2018,9,False,CAR,42,28,TB,CAR,-6.0,55.5,Bank of America Stadium,False,62.0,8.0,,
@@ -1477,13 +1477,13 @@
 12284,11/11/2018,2018,10,False,KC,26,14,ARI,KC,-16.5,49.5,Arrowhead Stadium,False,43.0,5.0,,
 12285,11/11/2018,2018,10,False,LAR,36,31,SEA,LAR,-10.0,51,Los Angeles Memorial Coliseum,False,75.0,1.0,,
 12286,11/11/2018,2018,10,False,NYJ,10,41,BUF,NYJ,-7.0,38,MetLife Stadium,False,46.0,10.0,,
-12287,11/11/2018,2018,10,False,OAK,6,20,LAC,LAC,-10.5,50,Oakland Coliseum,False,69.0,16.0,,
+12287,11/11/2018,2018,10,False,LVR,6,20,LAC,LAC,-10.5,50,Oakland Coliseum,False,69.0,16.0,,
 12288,11/11/2018,2018,10,False,PHI,20,27,DAL,PHI,-7.5,45.5,Lincoln Financial Field,False,38.0,5.0,,
 12289,11/11/2018,2018,10,False,TB,3,16,WAS,TB,-3.5,51,Raymond James Stadium,False,82.0,3.0,,
 12290,11/11/2018,2018,10,False,TEN,34,10,NE,NE,-6.5,47,Nissan Stadium,False,46.0,4.0,,
 12291,11/12/2018,2018,10,False,SF,23,27,NYG,SF,-3.0,45,Levi's Stadium,False,62.0,0.0,,
 12292,11/15/2018,2018,11,False,SEA,27,24,GB,SEA,-3.0,49,CenturyLink Field,False,54.0,6.0,,
-12293,11/18/2018,2018,11,False,ARI,21,23,OAK,ARI,-4.5,41,University of Phoenix Stadium,False,72.0,0.0,,indoor
+12293,11/18/2018,2018,11,False,ARI,21,23,LVR,ARI,-4.5,41,University of Phoenix Stadium,False,72.0,0.0,,indoor
 12294,11/18/2018,2018,11,False,ATL,19,22,DAL,ATL,-3.5,50,Mercedes-Benz Stadium,False,72.0,0.0,,indoor
 12295,11/18/2018,2018,11,False,BAL,24,21,CIN,BAL,-6.5,44,M&T Bank Stadium,False,48.0,8.0,,
 12296,11/18/2018,2018,11,False,CHI,25,20,MIN,CHI,-2.5,44,Soldier Field,False,33.0,6.0,,
@@ -1498,7 +1498,7 @@
 12305,11/22/2018,2018,12,False,DAL,31,23,WAS,DAL,-7.0,40,AT&T Stadium,False,72.0,0.0,,indoor
 12306,11/22/2018,2018,12,False,DET,16,23,CHI,CHI,-3.0,43,Ford Field,False,72.0,0.0,,indoor
 12307,11/22/2018,2018,12,False,NO,31,17,ATL,NO,-11.5,61.5,Mercedes-Benz Superdome,False,72.0,0.0,,indoor
-12308,11/25/2018,2018,12,False,BAL,34,17,OAK,BAL,-13.0,42,M&T Bank Stadium,False,60.0,7.0,,
+12308,11/25/2018,2018,12,False,BAL,34,17,LVR,BAL,-13.0,42,M&T Bank Stadium,False,60.0,7.0,,
 12309,11/25/2018,2018,12,False,BUF,24,21,JAX,JAX,-3.0,36.5,New Era Field,False,44.0,12.0,,
 12310,11/25/2018,2018,12,False,CAR,27,30,SEA,CAR,-3.0,46.5,Bank of America Stadium,False,57.0,1.0,,
 12311,11/25/2018,2018,12,False,CIN,20,35,CLE,CLE,-1.0,46.5,Paul Brown Stadium,False,44.0,4.0,,
@@ -1520,7 +1520,7 @@
 12327,12/2/2018,2018,13,False,MIA,21,17,BUF,MIA,-3.5,40,Hard Rock Stadium,False,86.0,15.0,,
 12328,12/2/2018,2018,13,False,NE,24,10,MIN,NE,-6.0,49.5,Gillette Stadium,False,53.0,6.0,,
 12329,12/2/2018,2018,13,False,NYG,30,27,CHI,CHI,-4.0,44,MetLife Stadium,False,52.0,3.0,,fog
-12330,12/2/2018,2018,13,False,OAK,33,40,KC,KC,-14.0,53.5,Oakland Coliseum,False,57.0,6.0,,
+12330,12/2/2018,2018,13,False,LVR,33,40,KC,KC,-14.0,53.5,Oakland Coliseum,False,57.0,6.0,,
 12331,12/2/2018,2018,13,False,PIT,30,33,LAC,PIT,-3.0,52.5,Heinz Field,False,57.0,8.0,,
 12332,12/2/2018,2018,13,False,SEA,43,16,SF,SEA,-10.0,45.5,CenturyLink Field,False,45.0,2.0,,
 12333,12/2/2018,2018,13,False,TB,24,17,CAR,CAR,-3.5,52,Raymond James Stadium,False,81.0,15.0,,
@@ -1537,7 +1537,7 @@
 12344,12/9/2018,2018,14,False,KC,27,24,BAL,KC,-6.5,48.5,Arrowhead Stadium,False,27.0,0.0,,
 12345,12/9/2018,2018,14,False,LAC,26,21,CIN,LAC,-17.0,48.5,StubHub Center,False,70.0,1.0,,
 12346,12/9/2018,2018,14,False,MIA,34,33,NE,NE,-9.5,49.5,Hard Rock Stadium,False,82.0,13.0,,
-12347,12/9/2018,2018,14,False,OAK,24,21,PIT,PIT,-10.5,51,Oakland Coliseum,False,55.0,8.0,,
+12347,12/9/2018,2018,14,False,LVR,24,21,PIT,PIT,-10.5,51,Oakland Coliseum,False,55.0,8.0,,
 12348,12/9/2018,2018,14,False,SF,20,14,DEN,DEN,-3.0,45.5,Levi's Stadium,False,54.0,3.0,,
 12349,12/9/2018,2018,14,False,TB,14,28,NO,NO,-10.0,54,Raymond James Stadium,False,71.0,7.0,,rain
 12350,12/9/2018,2018,14,False,WAS,16,40,NYG,NYG,-3.0,40.5,FedEx Field,False,33.0,6.0,,
@@ -1549,7 +1549,7 @@
 12356,12/16/2018,2018,15,False,BAL,20,12,TB,BAL,-8.5,45,M&T Bank Stadium,False,43.0,10.0,,rain
 12357,12/16/2018,2018,15,False,BUF,14,13,DET,BUF,-2.5,40,New Era Field,False,39.0,7.0,,rain
 12358,12/16/2018,2018,15,False,CHI,24,17,GB,CHI,-5.5,46.5,Soldier Field,False,45.0,10.0,,
-12359,12/16/2018,2018,15,False,CIN,30,16,OAK,CIN,-3.0,46,Paul Brown Stadium,False,43.0,2.0,,
+12359,12/16/2018,2018,15,False,CIN,30,16,LVR,CIN,-3.0,46,Paul Brown Stadium,False,43.0,2.0,,
 12360,12/16/2018,2018,15,False,IND,23,0,DAL,IND,-3.0,46.5,Lucas Oil Stadium,False,72.0,0.0,,indoor
 12361,12/16/2018,2018,15,False,JAX,13,16,WAS,JAX,-7.5,36.5,TIAA Bank Field,False,64.0,12.0,,
 12362,12/16/2018,2018,15,False,LAR,23,30,PHI,LAR,-13.5,52.5,Los Angeles Memorial Coliseum,False,60.0,5.0,,
@@ -1573,13 +1573,13 @@
 12380,12/23/2018,2018,16,False,PHI,32,30,HOU,PHI,-1.0,46.5,Lincoln Financial Field,False,44.0,5.0,,
 12381,12/23/2018,2018,16,False,SF,9,14,CHI,CHI,-4.0,44,Levi's Stadium,False,50.0,5.0,,
 12382,12/23/2018,2018,16,False,SEA,38,31,KC,KC,-1.0,54.5,CenturyLink Field,False,43.0,8.0,,
-12383,12/24/2018,2018,16,False,OAK,27,14,DEN,DEN,-2.5,42.5,Oakland Coliseum,False,58.0,14.0,,rain
+12383,12/24/2018,2018,16,False,LVR,27,14,DEN,DEN,-2.5,42.5,Oakland Coliseum,False,58.0,14.0,,rain
 12384,12/30/2018,2018,17,False,BAL,26,24,CLE,BAL,-7.0,41,M&T Bank Stadium,False,48.0,2.0,,
 12385,12/30/2018,2018,17,False,BUF,42,17,MIA,BUF,-5.5,39.5,New Era Field,False,33.0,9.0,,
 12386,12/30/2018,2018,17,False,DEN,9,23,LAC,LAC,-7.0,43.5,Sports Authority Field at Mile High,False,51.0,6.0,,
 12387,12/30/2018,2018,17,False,GB,0,31,DET,GB,-7.5,44.5,Lambeau Field,False,26.0,15.0,,
 12388,12/30/2018,2018,17,False,HOU,20,3,JAX,HOU,-7.0,39.5,NRG Stadium,False,72.0,0.0,,indoor
-12389,12/30/2018,2018,17,False,KC,35,3,OAK,KC,-14.5,52.5,Arrowhead Stadium,False,45.0,15.0,,
+12389,12/30/2018,2018,17,False,KC,35,3,LVR,KC,-14.5,52.5,Arrowhead Stadium,False,45.0,15.0,,
 12390,12/30/2018,2018,17,False,LAR,48,32,SF,LAR,-10.5,49.5,Los Angeles Memorial Coliseum,False,65.0,3.0,,
 12391,12/30/2018,2018,17,False,MIN,10,24,CHI,MIN,-6.0,40.5,U.S. Bank Stadium,False,72.0,0.0,,indoor
 12392,12/30/2018,2018,17,False,NE,38,3,NYJ,NE,-14.5,46.5,Gillette Stadium,False,33.0,2.0,,
@@ -1616,7 +1616,7 @@
 12423,9/8/2019,2019,1,False,SEA,21,20,CIN,SEA,-9.0,44,CenturyLink Field,False,,,,
 12424,9/8/2019,2019,1,False,TB,17,31,SF,TB,-1.0,51,Raymond James Stadium,False,,,,
 12425,9/9/2019,2019,1,False,NO,30,28,HOU,NO,-6.5,51.5,Mercedes-Benz Superdome,False,72.0,0.0,,indoor
-12426,9/9/2019,2019,1,False,OAK,24,16,DEN,DEN,-3.0,42.5,Oakland Coliseum,False,,,,
+12426,9/9/2019,2019,1,False,LVR,24,16,DEN,DEN,-3.0,42.5,Oakland Coliseum,False,,,,
 12427,9/12/2019,2019,2,False,CAR,14,20,TB,CAR,-6.5,48,Bank of America Stadium,False,,,,
 12428,9/15/2019,2019,2,False,ATL,24,20,PHI,PHI,-1.0,53,Mercedes-Benz Stadium,False,72.0,0.0,,indoor
 12429,9/15/2019,2019,2,False,BAL,23,17,ARI,BAL,-13.0,45.5,M&T Bank Stadium,False,,,,
@@ -1628,7 +1628,7 @@
 12435,9/15/2019,2019,2,False,LAR,27,9,NO,LAR,-2.0,52,Los Angeles Memorial Coliseum,False,,,,
 12436,9/15/2019,2019,2,False,MIA,0,43,NE,NE,-18.0,48.5,Hard Rock Stadium,False,,,,
 12437,9/15/2019,2019,2,False,NYG,14,28,BUF,BUF,-1.0,44.5,MetLife Stadium,False,,,,
-12438,9/15/2019,2019,2,False,OAK,10,28,KC,KC,-7.0,53,Oakland Coliseum,False,,,,
+12438,9/15/2019,2019,2,False,LVR,10,28,KC,KC,-7.0,53,Oakland Coliseum,False,,,,
 12439,9/15/2019,2019,2,False,PIT,26,28,SEA,PIT,-4.0,47,Heinz Field,False,,,,
 12440,9/15/2019,2019,2,False,TEN,17,19,IND,TEN,-3.5,43.5,Nissan Stadium,False,,,,
 12441,9/15/2019,2019,2,False,WAS,21,31,DAL,DAL,-6.0,46,FedEx Field,False,,,,
@@ -1642,7 +1642,7 @@
 12449,9/22/2019,2019,3,False,IND,27,24,ATL,IND,-1.5,48,Lucas Oil Stadium,False,72.0,0.0,,indoor
 12450,9/22/2019,2019,3,False,KC,33,28,BAL,KC,-5.0,52,Arrowhead Stadium,False,,,,
 12451,9/22/2019,2019,3,False,LAC,20,27,HOU,LAC,-3.0,49,Dignity Health Sports Park,False,,,,
-12452,9/22/2019,2019,3,False,MIN,34,14,OAK,MIN,-9.0,43.5,U.S. Bank Stadium,False,72.0,0.0,,indoor
+12452,9/22/2019,2019,3,False,MIN,34,14,LVR,MIN,-9.0,43.5,U.S. Bank Stadium,False,72.0,0.0,,indoor
 12453,9/22/2019,2019,3,False,NE,30,14,NYJ,NE,-21.0,43,Gillette Stadium,False,,,,
 12454,9/22/2019,2019,3,False,PHI,24,27,DET,PHI,-4.0,45,Lincoln Financial Field,False,,,,
 12455,9/22/2019,2019,3,False,SF,24,20,PIT,SF,-6.0,44.5,Levi's Stadium,False,,,,
@@ -1658,7 +1658,7 @@
 12465,9/29/2019,2019,4,False,DEN,24,26,JAX,DEN,-2.5,37.5,Sports Authority Field at Mile High,False,,,,
 12466,9/29/2019,2019,4,False,DET,30,34,KC,KC,-7.0,54.5,Ford Field,False,72.0,0.0,,indoor
 12467,9/29/2019,2019,4,False,HOU,10,16,CAR,HOU,-5.0,47.5,NRG Stadium,False,72.0,0.0,,indoor
-12468,9/29/2019,2019,4,False,IND,24,31,OAK,IND,-6.0,46.5,Lucas Oil Stadium,False,72.0,0.0,,indoor
+12468,9/29/2019,2019,4,False,IND,24,31,LVR,IND,-6.0,46.5,Lucas Oil Stadium,False,72.0,0.0,,indoor
 12469,9/29/2019,2019,4,False,LAR,40,55,TB,LAR,-9.0,48.5,Los Angeles Memorial Coliseum,False,,,,
 12470,9/29/2019,2019,4,False,MIA,10,30,LAC,LAC,-15.0,43.5,Hard Rock Stadium,False,,,,
 12471,9/29/2019,2019,4,False,NO,12,10,DAL,DAL,-2.5,47,Mercedes-Benz Superdome,False,72.0,0.0,,indoor
@@ -1673,7 +1673,7 @@
 12480,10/6/2019,2019,5,False,LAC,13,20,DEN,LAC,-4.5,45.5,Dignity Health Sports Park,False,,,,
 12481,10/6/2019,2019,5,False,NO,31,24,TB,NO,-3.0,46.5,Mercedes-Benz Superdome,False,72.0,0.0,,indoor
 12482,10/6/2019,2019,5,False,NYG,10,28,MIN,MIN,-5.5,43.5,MetLife Stadium,False,,,,
-12483,10/6/2019,2019,5,False,OAK,24,21,CHI,CHI,-6.5,39.5,Tottenham Hotspur Stadium,True,,,,
+12483,10/6/2019,2019,5,False,LVR,24,21,CHI,CHI,-6.5,39.5,Tottenham Hotspur Stadium,True,,,,
 12484,10/6/2019,2019,5,False,PHI,31,6,NYJ,PHI,-14.0,43,Lincoln Financial Field,False,,,,
 12485,10/6/2019,2019,5,False,PIT,23,26,BAL,BAL,-3.0,44,Heinz Field,False,,,,
 12486,10/6/2019,2019,5,False,TEN,7,14,BUF,TEN,-3.0,39.5,Nissan Stadium,False,,,,
@@ -1700,7 +1700,7 @@
 12507,10/20/2019,2019,7,False,CIN,17,27,JAX,JAX,-4.0,44,Paul Brown Stadium,False,,,,
 12508,10/20/2019,2019,7,False,DAL,37,10,PHI,DAL,-3.0,50,AT&T Stadium,False,72.0,0.0,,indoor
 12509,10/20/2019,2019,7,False,DET,30,42,MIN,MIN,-2.5,43.5,Ford Field,False,72.0,0.0,,indoor
-12510,10/20/2019,2019,7,False,GB,42,24,OAK,GB,-5.5,47.5,Lambeau Field,False,,,,
+12510,10/20/2019,2019,7,False,GB,42,24,LVR,GB,-5.5,47.5,Lambeau Field,False,,,,
 12511,10/20/2019,2019,7,False,IND,30,23,HOU,IND,-1.0,46.5,Lucas Oil Stadium,False,72.0,0.0,,indoor
 12512,10/20/2019,2019,7,False,NYG,21,27,ARI,NYG,-3.5,50,MetLife Stadium,False,,,,
 12513,10/20/2019,2019,7,False,SEA,16,30,BAL,SEA,-3.0,48.5,CenturyLink Field,False,,,,
@@ -1712,7 +1712,7 @@
 12519,10/27/2019,2019,8,False,BUF,13,31,PHI,BUF,-1.0,39.5,New Era Field,False,,,,
 12520,10/27/2019,2019,8,False,CHI,16,17,LAC,CHI,-3.5,41,Soldier Field,False,,,,
 12521,10/27/2019,2019,8,False,DET,31,26,NYG,DET,-6.5,49,Ford Field,False,72.0,0.0,,indoor
-12522,10/27/2019,2019,8,False,HOU,27,24,OAK,HOU,-6.0,52,NRG Stadium,False,72.0,0.0,,indoor
+12522,10/27/2019,2019,8,False,HOU,27,24,LVR,HOU,-6.0,52,NRG Stadium,False,72.0,0.0,,indoor
 12523,10/27/2019,2019,8,False,IND,15,13,DEN,IND,-6.0,42,Lucas Oil Stadium,False,72.0,0.0,,indoor
 12524,10/27/2019,2019,8,False,JAX,29,15,NYJ,JAX,-6.5,40,TIAA Bank Field,False,,,,
 12525,10/27/2019,2019,8,False,KC,24,31,GB,GB,-5.0,47.5,Arrowhead Stadium,False,,,,
@@ -1731,12 +1731,12 @@
 12538,11/3/2019,2019,9,False,KC,26,23,MIN,MIN,-5.5,45.5,Arrowhead Stadium,False,,,,
 12539,11/3/2019,2019,9,False,LAC,26,11,GB,GB,-4.0,50,Dignity Health Sports Park,False,,,,
 12540,11/3/2019,2019,9,False,MIA,26,18,NYJ,NYJ,-3.0,42.5,Hard Rock Stadium,False,,,,
-12541,11/3/2019,2019,9,False,OAK,31,24,DET,LVR,-2.5,51,Oakland Coliseum,False,,,,
+12541,11/3/2019,2019,9,False,LVR,31,24,DET,LVR,-2.5,51,Oakland Coliseum,False,,,,
 12542,11/3/2019,2019,9,False,PHI,22,14,CHI,PHI,-5.0,41,Lincoln Financial Field,False,,,,
 12543,11/3/2019,2019,9,False,PIT,26,24,IND,PIT,-1.0,40,Heinz Field,False,,,,
 12544,11/3/2019,2019,9,False,SEA,40,34,TB,SEA,-4.0,51,CenturyLink Field,False,,,,
 12545,11/4/2019,2019,9,False,NYG,18,37,DAL,DAL,-6.5,48.5,MetLife Stadium,False,,,,
-12546,11/7/2019,2019,10,False,OAK,26,24,LAC,LAC,-1.0,49,Oakland Coliseum,False,,,,
+12546,11/7/2019,2019,10,False,LVR,26,24,LAC,LAC,-1.0,49,Oakland Coliseum,False,,,,
 12547,11/10/2019,2019,10,False,CHI,20,13,DET,CHI,-6.0,38,Soldier Field,False,,,,
 12548,11/10/2019,2019,10,False,CIN,13,49,BAL,BAL,-10.5,44,Paul Brown Stadium,False,,,,
 12549,11/10/2019,2019,10,False,CLE,19,16,BUF,CLE,-3.0,42,FirstEnergy Stadium,False,,,,
@@ -1757,7 +1757,7 @@
 12564,11/17/2019,2019,11,False,LAR,17,7,CHI,LAR,-5.5,40,Los Angeles Memorial Coliseum,False,,,,
 12565,11/17/2019,2019,11,False,MIA,20,37,BUF,BUF,-7.0,41,Hard Rock Stadium,False,,,,
 12566,11/17/2019,2019,11,False,MIN,27,23,DEN,MIN,-10.0,40,U.S. Bank Stadium,False,72.0,0.0,,indoor
-12567,11/17/2019,2019,11,False,OAK,17,10,CIN,LVR,-13.0,48,Oakland Coliseum,False,,,,
+12567,11/17/2019,2019,11,False,LVR,17,10,CIN,LVR,-13.0,48,Oakland Coliseum,False,,,,
 12568,11/17/2019,2019,11,False,PHI,10,17,NE,NE,-4.5,45,Lincoln Financial Field,False,,,,
 12569,11/17/2019,2019,11,False,SF,36,26,ARI,SF,-10.0,44,Levi's Stadium,False,,,,
 12570,11/17/2019,2019,11,False,TB,17,34,NO,NO,-5.0,50.5,Raymond James Stadium,False,,,,
@@ -1771,7 +1771,7 @@
 12578,11/24/2019,2019,12,False,CLE,41,24,MIA,CLE,-11.0,46,FirstEnergy Stadium,False,,,,
 12579,11/24/2019,2019,12,False,NE,13,9,DAL,NE,-5.5,44.5,Gillette Stadium,False,,,,
 12580,11/24/2019,2019,12,False,NO,34,31,CAR,NO,-10.0,46.5,Mercedes-Benz Superdome,False,72.0,0.0,,indoor
-12581,11/24/2019,2019,12,False,NYJ,34,3,OAK,LVR,-3.0,44.5,MetLife Stadium,False,,,,
+12581,11/24/2019,2019,12,False,NYJ,34,3,LVR,LVR,-3.0,44.5,MetLife Stadium,False,,,,
 12582,11/24/2019,2019,12,False,PHI,9,17,SEA,SEA,-2.0,45.5,Lincoln Financial Field,False,,,,
 12583,11/24/2019,2019,12,False,SF,37,8,GB,SF,-3.0,48,Levi's Stadium,False,,,,
 12584,11/24/2019,2019,12,False,TEN,42,20,JAX,TEN,-4.0,42.5,Nissan Stadium,False,,,,
@@ -1788,7 +1788,7 @@
 12595,12/1/2019,2019,13,False,HOU,28,22,NE,NE,-3.0,47,NRG Stadium,False,72.0,0.0,,indoor
 12596,12/1/2019,2019,13,False,IND,17,31,TEN,TEN,-1.0,41.5,Lucas Oil Stadium,False,72.0,0.0,,indoor
 12597,12/1/2019,2019,13,False,JAX,11,28,TB,TB,-3.0,46.5,TIAA Bank Field,False,,,,
-12598,12/1/2019,2019,13,False,KC,40,9,OAK,KC,-10.5,49.5,Arrowhead Stadium,False,,,,
+12598,12/1/2019,2019,13,False,KC,40,9,LVR,KC,-10.5,49.5,Arrowhead Stadium,False,,,,
 12599,12/1/2019,2019,13,False,MIA,37,31,PHI,PHI,-10.0,44.5,Hard Rock Stadium,False,,,,
 12600,12/1/2019,2019,13,False,NYG,13,31,GB,GB,-6.5,43.5,MetLife Stadium,False,,,,
 12601,12/1/2019,2019,13,False,PIT,20,13,CLE,CLE,-1.0,40,Heinz Field,False,,,,
@@ -1806,7 +1806,7 @@
 12613,12/8/2019,2019,14,False,NE,16,23,KC,NE,-3.0,48.5,Gillette Stadium,False,,,,
 12614,12/8/2019,2019,14,False,NO,46,48,SF,NO,-1.5,45,Mercedes-Benz Superdome,False,72.0,0.0,,indoor
 12615,12/8/2019,2019,14,False,NYJ,22,21,MIA,NYJ,-5.0,47,MetLife Stadium,False,,,,
-12616,12/8/2019,2019,14,False,OAK,21,42,TEN,TEN,-2.5,47,Oakland Coliseum,False,,,,
+12616,12/8/2019,2019,14,False,LVR,21,42,TEN,TEN,-2.5,47,Oakland Coliseum,False,,,,
 12617,12/8/2019,2019,14,False,TB,38,35,IND,TB,-3.0,46.5,Raymond James Stadium,False,,,,
 12618,12/9/2019,2019,14,False,PHI,23,17,NYG,PHI,-9.5,45,Lincoln Financial Field,False,,,,
 12619,12/12/2019,2019,15,False,BAL,42,21,NYJ,BAL,-17.0,44,M&T Bank Stadium,False,,,,
@@ -1819,7 +1819,7 @@
 12626,12/15/2019,2019,15,False,KC,23,3,DEN,KC,-9.0,43,Arrowhead Stadium,False,,,,
 12627,12/15/2019,2019,15,False,LAC,10,39,MIN,MIN,-1.0,45,Dignity Health Sports Park,False,,,,
 12628,12/15/2019,2019,15,False,NYG,36,20,MIA,NYG,-3.5,46.5,MetLife Stadium,False,,,,
-12629,12/15/2019,2019,15,False,OAK,16,20,JAX,LVR,-6.5,46,Oakland Coliseum,False,,,,
+12629,12/15/2019,2019,15,False,LVR,16,20,JAX,LVR,-6.5,46,Oakland Coliseum,False,,,,
 12630,12/15/2019,2019,15,False,PIT,10,17,BUF,PIT,-1.0,37,Heinz Field,False,,,,
 12631,12/15/2019,2019,15,False,SF,22,29,ATL,SF,-10.0,49.5,Levi's Stadium,False,,,,
 12632,12/15/2019,2019,15,False,TEN,21,24,HOU,TEN,-3.0,50,Nissan Stadium,False,,,,
@@ -1833,7 +1833,7 @@
 12640,12/22/2019,2019,16,False,CLE,15,31,BAL,BAL,-10.0,49,FirstEnergy Stadium,False,,,,
 12641,12/22/2019,2019,16,False,DEN,27,17,DET,DEN,-7.5,40,Sports Authority Field at Mile High,False,,,,
 12642,12/22/2019,2019,16,False,IND,38,6,CAR,IND,-7.0,46.5,Lucas Oil Stadium,False,72.0,0.0,,indoor
-12643,12/22/2019,2019,16,False,LAC,17,24,OAK,LAC,-7.5,45,Dignity Health Sports Park,False,,,,
+12643,12/22/2019,2019,16,False,LAC,17,24,LVR,LAC,-7.5,45,Dignity Health Sports Park,False,,,,
 12644,12/22/2019,2019,16,False,MIA,38,35,CIN,CIN,-1.5,45,Hard Rock Stadium,False,,,,
 12645,12/22/2019,2019,16,False,NYJ,16,10,PIT,PIT,-3.0,36.5,MetLife Stadium,False,,,,
 12646,12/22/2019,2019,16,False,PHI,17,9,DAL,DAL,-2.0,46.5,Lincoln Financial Field,False,,,,
@@ -1846,7 +1846,7 @@
 12653,12/29/2019,2019,17,False,CAR,10,42,NO,NO,-14.0,44.5,Bank of America Stadium,False,,,,
 12654,12/29/2019,2019,17,False,CIN,33,23,CLE,CLE,-2.5,43.5,Paul Brown Stadium,False,,,,
 12655,12/29/2019,2019,17,False,DAL,47,16,WAS,DAL,-12.5,47.5,AT&T Stadium,False,72.0,0.0,,indoor
-12656,12/29/2019,2019,17,False,DEN,16,15,OAK,DEN,-4.5,41,Sports Authority Field at Mile High,False,,,,
+12656,12/29/2019,2019,17,False,DEN,16,15,LVR,DEN,-4.5,41,Sports Authority Field at Mile High,False,,,,
 12657,12/29/2019,2019,17,False,DET,20,23,GB,GB,-13.0,44,Ford Field,False,72.0,0.0,,indoor
 12658,12/29/2019,2019,17,False,HOU,14,35,TEN,TEN,-10.0,43,NRG Stadium,False,72.0,0.0,,indoor
 12659,12/29/2019,2019,17,False,JAX,38,20,IND,IND,-5.5,41.5,TIAA Bank Field,False,,,,
