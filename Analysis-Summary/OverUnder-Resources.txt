@@ -5,6 +5,8 @@ The concept of betting on totals, or better known as over/under, in NFL betting 
 In the event that a game exceeds regular game time play, overtime will be included. If the outcome of the total points for the game falls exactly on the quotted line/pre-determined value, the total is then declared as a "push", in which all wagers are returned to the bettors.
 
 
+
+
 ======================================
 
 Resources found online that were used throughout this assignment:
