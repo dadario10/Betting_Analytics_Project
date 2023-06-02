@@ -12,13 +12,14 @@ In the event that a game exceeds regular game time play, overtime will be includ
 
 =====================================
 
-Over/Under Ratio by Season
+Over/Under by Season
 
 From the original dataframe created, I filtered the data into a new dataframe only consisiting of the columns needed for my analysis. Once I had narrowed down the columns I needed, I then created a column that would calculate the total score of each game that was played. I then was able to determine the status of whether that game was higher or lower than the pre-determined value from the over under line.
-Once that information was filtered, I created a bar chart to showcase the total games that had fallen over or under for each NFL Season from 2013 to 2022.
+Once that information was filtered, I created a bar chart to showcase the total games that had fallen over or under for each NFL Season from 2013 to 2022. Based on this analysis I would bet under the quoted line for any given game, because nearly 60% of all games played were Under.
 
 ====================================
 
-Over/Under Ratio per Team
+Over/Under by Team
 
-There are currently 32 Teams in the NFL. After filtering through the data and creating a bar chart, there were a few NFL Teams that stood out. For example, Kansas City Chiefs
+There are currently 32 Teams in the NFL. After filtering through the data and creating a bar chart, there were a couple NFL Teams that stood out. For example, Kansas City Chiefs was Under the quoted line in a total of 58 games over the last 10 seasons. Whereas the New England Patriots, Philadelphia Eagles and the Las Vegas Raiders(previouslt known as the Oakland Raiders), which changed cities as of 2019, all had a total of 50 games that were all Over the quoted line. Ironically, the Las Vegas Raiders also had the lowest amount of total games that were Under the quoted line, which meant that if they were playing, I would likely bet for Over. 
+
