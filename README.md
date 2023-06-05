@@ -135,16 +135,44 @@ At this point I had the information I needed to answer my question.
  ![weekcount](https://github.com/dadario10/Betting_Analytics_Project/assets/130175420/4854be8c-c241-4390-81d7-203df3947a91)
 ![linevisualization](https://github.com/dadario10/Betting_Analytics_Project/assets/130175420/2d7fe7bf-380c-47b1-b799-87dfc0c88f03)
  The graphs, “Weekly Count By Season” and “Weekly Count by Season Line Graph” show the total number of games played per week. In the bar chart you can see some weeks have the maximum number of games which is 16 and the lowest number of games which is 1. Looking specifically at week 18, you can see a gap in the bar chart from 2013-2020. This is because the NFL added week 18 to their schedule for the first time in 2021. This now gives more opportunity for gamblers to make bets and going forward gives more data to run and see if the moneyline win percentage goes up or down. Looking at the bar chart and line plot you can see and in 2020-2022 the NFL increased the number of ‘Wildcard’ games from 4 to 6. This also going forward will add more data to work with and potentially increase the success rate of betting with the moneyline.
+ 
 ### Conclusion and Limitations: 
  Based on the data we worked with, betting on the moneyline will often give you a winning result on your gambling picks. The only possible limitation to this is the odds. If the odds don’t give a great return, as is explained above, then the favourite losing 34.21% of the time may not cover the amount you have to gamble in order to win in the long run. More data is required based on average odds that can be connected to the findings in the report to come up with more information. 
 
+## Point Spread Analysis
+### by: Rebeca Perez
 
+The most popular type of bet in the NFL is a point spread. A point spread is a bet on the margin or difference of victory in a NFL game.  In a point spread, you must choose the team that you think will win, but this isn’t necessarily based on who has the winning score in the game. Instead, the winner is whoever beats or covers the point spread of the difference in the score. Point spread is expressed as a minus (-) for the favourite team and a plus (+) for the underdog.
 
+Example: 
 
+<img width="449" alt="image" src="https://github.com/dadario10/Betting_Analytics_Project/assets/118138351/70b1e58c-715a-4511-bff2-e88c2aa35da3">
 
+In this example, the Dallas Cowboys are the favourite with a point spread of -4.5. This means they need to win the game by 5 points or more to cover the spread and win the bet. The Washington Commanders are the underdog with a positive point spread of +4.5. This means that they need to win the game or lose by less than 4 points to cover the spread and win the bet. If the Washington Commanders lose by 5 points, then the gamblers get nothing. 
 
+Point spreads are often set at half-point values to avoid ties, since most sports have no half-points. However, in some sports like in American football, point spreads exist with whole numbers, indicating that ties are possible. If so, and a game results in a tie, then the result for the point spread bet is called a “push”. This means that there is neither a win or a loss, and the gamblers get their money back ( also known as breaking even). 
 
+In the example above, a $10.00 bet on the underdog will return $14.50 (including the original bet), if they lose by less than 4 points or win the game outright. 
+A $10.00 bet on the favourite will return $14.50 (including the original bet), if they win by more than 5 points.
+You can see the odds are even, from a betting perspective. Point spread helps keep the matchup competitive and interesting; the underdog team is just as likely to cover the point spread as the favourite is to beat the point spread, and the odds reflect that. This is different from a Moneyline market, where one team either wins or loses outright, and favourites and underdogs are often assigned different odds of winning.
 
+To determine whether the point spread of a game was a win or a loss bet, I created a DataFrame to populate the result in a new “Win/Loss” column.
+From there, I extracted the 3 columns that I needed for a visual bar graph and renamed the columns accordingly. These were the years in question (from 2013 to 2022) or “Season”, the “Win/Loss” column and the “Spread Favourite”. 
+
+Once that information was filtered, I created a bar chart to display the total Win/Loss bets that had fallen over the “Spread Favourite” for each NFL Season covering 2013 to 2022. Based on this analysis, it’s clear that the spread winners stay consistent along the 140-line spread favourite. It’s interesting to note that the spread over loss bets are increasing year over year. Generally speaking, loss bets outdo won bets. 
+
+<img width="1049" alt="image" src="https://github.com/dadario10/Betting_Analytics_Project/assets/118138351/1d00b788-44b3-4ed5-a63f-0753dc3a3fd4">
+
+32 teams comprise the NFL. The bar chart that was created shows all of the home teams in the league. The New England Patriots have the highest wins of all the home teams. On the other hand, the Denver Broncos have the highest losses of all home teams. If I was placing a bet then, I would place my bet on the New England Patriots.
+
+<img width="1049" alt="image" src="https://github.com/dadario10/Betting_Analytics_Project/assets/118138351/e2d712be-788a-4a7c-ad02-5a9063999e30">
+
+Lastly, it’s interesting to see that of the away teams, the Los Angeles Chargers had the most losses, and the San Francisco 49ers had the most wins. Accordingly, I would place my bet on the San Francisco 49ers if I was betting on the away teams.
+
+<img width="1047" alt="image" src="https://github.com/dadario10/Betting_Analytics_Project/assets/118138351/57c43f95-fd0b-4f80-804d-37e2ff7ffcad">
+
+### Conclusion and Limitations: 
+Based on the data collected, betting on the spread favourite will often give you a loss result to gambling picks. The greatest limitation that I experienced was attempting to understand the favourite spread in the first place. As someone who doesn't closely follow the NFL and someone who's not a sports gambler, trying to fully understand this concept was a challenge on its own. Add to that my lack of knowledge on the 32 NFL teams themselves, and it made me conclude that time constraints were a big limitation. I needed more time to collect all of the substantial data outthere. Pair that with my limited experience with data scrapping and coding, it also made me conclude that more data is required to be able to complete a more thorough analysis of the point spread betting system in the NFL. Overall, this was a very interesting and insightful project.
 
 ## Resources
 * 1) Real-time sports data API
@@ -167,4 +195,3 @@ https://tenor.com/search/hungergames-gifs
 https://madeinca.ca/gambling-canada-statistics/
 https://www.forbes.com/sites/greatspeculations/2023/02/13/as-sports-bettings-popularity-rises-in-the-us-keep-in-mind-that-its-not-a-replacement-for-investing/?sh=4abaeda6d09a
 https://variety.com/2023/sports/tech/the-nfl-is-the-most-popular-sport-to-bet-on-2022-1235467587/
-
