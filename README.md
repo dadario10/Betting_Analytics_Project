@@ -8,7 +8,7 @@ Who would you place an online bet on in the NFL?
 With technological advancements throughout the past decade, online sports betting has become extremely accessible and convenient to those who wish to place wagers. As of 2021, the online sports gambling industry had a market value of nearly $75.5 Billion, and a revenue forecast of $205 Billion by 2030. Another main attraction to the concept is variety. Online betting sites offer a wide selection of sports and markets to chose from, but how do you navigate them? For beginners, placing a wager through an online site or app can seem intimidating. This project has been designed to aid in making an informed bet and our group will describe the basics for understanding the terminology and concepts used.
 
 ## Table of Contents
-- [Initial_Process](#initial_process)
+- [Initial Process](#initial_process)
 - [Stadium Type Analysis](#stadium_type_analysis)
 - [Over/Under Analysis](#over_under_analysis)
 - [Resources](#resources)
@@ -19,7 +19,7 @@ We began by researching and collecting existing datasets online to form csv file
 ![image](https://github.com/dadario10/Betting_Analytics_Project/assets/130397259/48f44fbf-1fa7-4662-bd7d-ce6e3b735b27)
 
 ## Over Under Analysis
-###by: Brettney Chau-Dang
+### by: Brettney Chau-Dang
 One of the most common types of over/under bet is placed on the combined score of the two teams playing in the game.
 The concept of betting on totals, or better known as over/under, in the NFL, comprises of wagers being placed on the total amount of points scored within a game. The goal is to choose from two options, where the score will be higher or lower than a pre-determined number set by the corresponding sportsbook being used. 
 If a game exceeds regular game time play, overtime will be included. If the outcome of the total points for the game falls exactly on the quoted line/pre-determined value, the total is then declared as a "push", in which all wagers are returned to the bettors.
@@ -121,18 +121,18 @@ Which produced a nice clean DataFrame:
 
 
 ## Resources
-### 1) Real-time sports data API
+* 1) Real-time sports data API
  As one of the resources, "https://sportsdata.io/developers/api-documentation/nfl#" was used to extract data using an API key. Which provided access to NFL metadata, live odds feeds, predictions, settelements and results, splits, matchups, trends, active sportsbooks and many more that can be sorted and categorized by team, game date, game season (pre,regular&post), market ID, market type, event, player stats, team stats and many more.
-### 2) nflgame v.1.2.20
+* 2) nflgame v.1.2.20
 An API used to retrieve and read NFL Game Center Json data was nflgame "https://pypi.org/project/nflgame/".
 This python extension works by parsing the same JSON data that powers NFL.com's live GameCenter, which means it can be used to report game statistics while a game is being played.
-### 3) NFL Teams
+* 3) NFL Teams
 An exisiting .csv file dataset for NFL Teams was found on "https://www.kaggle.com/datasets/tobycrabtree/nfl-scores-and-betting-data". This dataset consisted of all 32 NFL team names, ID's, conferences and divisions.
-### 4) Game Score History
+* 4) Game Score History
 An existing .csv file dataset was found on www.kaggle.com, owned by SpreadSpoke. This dataset consisted of NFL football games since the 1966 season with game results and descriptive info including if a playoff game, played at a neutral site, and weather information if available. 
-### 5) NFL Stadiums
+* 5) NFL Stadiums
 An exisiting .csv file dataset was found on www.kaggle.com. This dataset consisted of NFL Stadium information, past and present. 
-### 6) Other sources
+* 6) Other sources
 https://github.com/jp-wright/nfl_betting_market_analysis
 https://github.com/peanutshawny/nfl-sports-betting/tree/master
 https://www.fanduel.com/sports-betting-strategy/
