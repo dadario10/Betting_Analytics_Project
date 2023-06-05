@@ -29,7 +29,7 @@ I first had to calculate the total number of games that were played for the last
 
 ![image](https://github.com/dadario10/Betting_Analytics_Project/assets/130397259/87d9c7ac-8afa-4bb8-ad7e-19ccb74bc3c1)
 
-To determine whether the status of a game came in Over or Under the quoted line, I created a formula to populate the result in a new column.
+To determine whether the status of a game came in Over or Under the quoted line, I created a lambda formula to populate the result in a new column.
 
 ![image](https://github.com/dadario10/Betting_Analytics_Project/assets/130397259/7670980a-f517-4a4c-8b4d-af9528abeeeb)
  
@@ -51,7 +51,7 @@ There are currently 32 Teams in the NFL. After filtering through the data and cr
 
 ![image](https://github.com/dadario10/Betting_Analytics_Project/assets/130397259/b815e800-9855-4e22-ab5e-9d71f59d7575)
 
-However, the New England Patriots, Philadelphia Eagles, and the Las Vegas Raiders (previously known as the Oakland Raiders), which changed cities as of 2019, all had a total of 50 games that were all Over the quoted line. Ironically, the Las Vegas Raiders also had the lowest number of total games that were Under the quoted line. If the Las Vegas Raiders were playing In the game, I would likely place a bet in the Over category.
+However, the New England Patriots and the Las Vegas Raiders (previously known as the Oakland Raiders), which changed cities as of 2019, all had a total of 50 games that were all Over the quoted line. Ironically, the Las Vegas Raiders also had the lowest number of total games that were Under the quoted line. If the Las Vegas Raiders were playing In the game, I would likely place a bet in the Over category.
 
 ![image](https://github.com/dadario10/Betting_Analytics_Project/assets/130397259/beeb20f4-4eb4-4ee0-a595-2e5a23ff4483)
 
