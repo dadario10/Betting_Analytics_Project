@@ -1,4 +1,4 @@
-# Betting_Analytics_Project
+# Betting Analytics Project
 To analyze betting data and find trends
 
 ## Objective
@@ -8,9 +8,10 @@ Who would you place an online bet on in the NFL?
 With technological advancements throughout the past decade, online sports betting has become extremely accessible and convenient to those who wish to place wagers. As of 2021, the online sports gambling industry had a market value of nearly $75.5 Billion, and a revenue forecast of $205 Billion by 2030. Another main attraction to the concept is variety. Online betting sites offer a wide selection of sports and markets to chose from, but how do you navigate them? For beginners, placing a wager through an online site or app can seem intimidating. This project has been designed to aid in making an informed bet and our group will describe the basics for understanding the terminology and concepts used.
 
 ## Table of Contents
-- [Initial Process](#initial_process)
-- [Stadium Type Analysis](#stadium_type_analysis)
-- [Over/Under Analysis](#over_under_analysis)
+- [Initial Process](#initial-process)
+- [Stadium Type Analysis](#stadium-type-analysis)
+- [Over/Under Analysis](#over-under-analysis)
+- [Moneyline](#moneyline-betting:-analysis-and-conclusion)
 - [Resources](#resources)
 
 ## Initial Process
