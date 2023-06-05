@@ -2,7 +2,7 @@
 To analyze betting data and find trends
 
 ## Table of Contents
-- [Stadium Type Analysis](#stadium type analysis)
+- [Stadium Type Analysis](#stadium_type_analysis)
 
 ## Stadium Type Analysis
 ### By: Justin Butler
@@ -43,8 +43,8 @@ Which produced a nice clean DataFrame:
 ### CONCLUSION & LIMITATIONS:
    After all this analysis, I believe I can make some modest recommendations towards placing a bet on an NFL game based on the stadium type the game is played in. First,  I would advise betting on the over/under line opposed to placing a bet on one team to win over the other. Based on some positive correlation results towards over/under line based on stadium type. Whereas no real correlation was found on a home field advantage. When making your bet I would look for 2 things based on my findings, expected weather for the game and corresponding stadium type. Based on the extreme variability I uncovered with the weather of outdoor NFL games and the data I found on average over/under lines. I would look for games with poor expected weather that will be played outdoors and bet the games point total to be under the over/under line for example.
     Some limitations to my analysis include:
-•	Overall data limitations, I originally chose to examine growth in the NFL betting industry and was going to try to predict future growth in the market based on my findings. Although I was unable to find any accessible or clean data. 
-•	Data limitations in the data my group found. Several rows in the weather columns possessed Nan values and limited the scope of this section of data. For ex: more data in the “weather_detail” column such as rainy or sunny for example could have allowed for more in-depth analysis. E.g., average score for games labeled as rainy vs. sunny. 
-•	Ability/Time constraints. Due to the need to change project topics, a few days were lost at the beginning of the project timeline. Also, my experience in Data Analytics limited my ability to analyze our csv data, or any data for that matter, at a more detailed level. In the future with more skills such as “data scrapping” more detailed data from multiple sources would likely be available, thus allowing for a more detailed analysis.
+*	Overall data limitations, I originally chose to examine growth in the NFL betting industry and was going to try to predict future growth in the market based on my findings. Although I was unable to find any accessible or clean data. 
+*	Data limitations in the data my group found. Several rows in the weather columns possessed Nan values and limited the scope of this section of data. For ex: more data in the “weather_detail” column such as rainy or sunny for example could have allowed for more in-depth analysis. E.g., average score for games labeled as rainy vs. sunny. 
+*	Ability/Time constraints. Due to the need to change project topics, a few days were lost at the beginning of the project timeline. Also, my experience in Data Analytics limited my ability to analyze our csv data, or any data for that matter, at a more detailed level. In the future with more skills such as “data scrapping” more detailed data from multiple sources would likely be available, thus allowing for a more detailed analysis.
 
 
