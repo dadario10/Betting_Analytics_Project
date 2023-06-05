@@ -12,7 +12,7 @@ With technological advancements throughout the past decade, online sports bettin
 - [Stadium Type Analysis](#stadium-type-analysis)
 - [Over/Under Analysis](#over-under-analysis)
 - [Moneyline Betting](#moneyline-betting)
-- [Pointsspread-by-Rebeca](#pointsspread-by-rebeca)
+- [Point Spread Analysis](#point-spread-analysis)
 - [Resources](#resources)
 
 ## Initial Process
