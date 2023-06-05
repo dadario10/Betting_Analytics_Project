@@ -11,7 +11,7 @@ With technological advancements throughout the past decade, online sports bettin
 - [Initial Process](#initial-process)
 - [Stadium Type Analysis](#stadium-type-analysis)
 - [Over/Under Analysis](#over-under-analysis)
-- [Moneyline](#moneyline-betting:-analysis-and-conclusion)
+- [Moneyline Betting](#moneyline-betting)
 - [Resources](#resources)
 
 ## Initial Process
@@ -97,8 +97,8 @@ Which produced a nice clean DataFrame:
 *	Data limitations in the data my group found. Several rows in the weather columns possessed Nan values and limited the scope of this section of data. For ex: more data in the “weather_detail” column such as rainy or sunny for example could have allowed for more in-depth analysis. E.g., average score for games labeled as rainy vs. sunny. 
 *	Ability/Time constraints. Due to the need to change project topics, a few days were lost at the beginning of the project timeline. Also, my experience in Data Analytics limited my ability to analyze our csv data, or any data for that matter, at a more detailed level. In the future with more skills such as “data scrapping” more detailed data from multiple sources would likely be available, thus allowing for a more detailed analysis.
 
-## Moneyline Betting: Analysis and Conclusion
-### By: Dario Micucci
+## Moneyline Betting
+### Analysis and Conclusion By: Dario Micucci
 
  In football, the Moneyline is the type of sports bet in which you predict the outcome of the game based on the outright winner. You simply select which team you think will win the game. The Moneyline will show 2 teams, the respective odds will have either a ‘-’ or a ‘+’ next to the lines. The negative number indicates the favorite, while the positive number represents the underdog. The negative number shows how much you would need to wager in order to make $100. For example, if the number is -190, you would need to wager $190 to make $100. The positive however shows how much additional money your bet would make if you wager $100. For example, if the line is +160 you stand to make and additional $160 on your $100 wager. The greater the negative number the more favoured that team is while simultaneously the greater positive number shows how great of an underdog the other team is. 
  In order to obtain the data that I required I used the data set one of my collogues provided and cleaned it up. I narrowed our window to the years 2013-2022 first in the “nfl_scores.ipynb” file. Then I changed all the team names so the individual columns matched and would be easier to draw information from. In the “nfl_favorite_win.ipynb” file I then collected the data and created new columns for categories that I would need to answer my question about Moneyline. Once I created the “favorite_win” and “home_win” columns I had all the information I needed. I pulled information from those columns to find averages for favorite win, home win, and underdog win. I used value_counts to find the total wins for each column as well. At this point I had the information I needed to answer my question.
@@ -133,7 +133,7 @@ An exisiting .csv file dataset for NFL Teams was found on "https://www.kaggle.co
 An existing .csv file dataset was found on www.kaggle.com, owned by SpreadSpoke. This dataset consisted of NFL football games since the 1966 season with game results and descriptive info including if a playoff game, played at a neutral site, and weather information if available. 
 * 5) NFL Stadiums
 An exisiting .csv file dataset was found on www.kaggle.com. This dataset consisted of NFL Stadium information, past and present. 
-* 6) Other sources
+* 6) Other sources:
 https://github.com/jp-wright/nfl_betting_market_analysis
 https://github.com/peanutshawny/nfl-sports-betting/tree/master
 https://www.fanduel.com/sports-betting-strategy/
