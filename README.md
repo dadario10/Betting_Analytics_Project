@@ -1,8 +1,57 @@
 # Betting_Analytics_Project
 To analyze betting data and find trends
 
+## Objective
+Who would you place an online bet on in the NFL?
+
+## Project Description
+With technological advancements throughout the past decade, online sports betting has become extremely accessible and convenient to those who wish to place wagers. As of 2021, the online sports gambling industry had a market value of nearly $75.5 Billion, and a revenue forecast of $205 Billion by 2030. Another main attraction to the concept is variety. Online betting sites offer a wide selection of sports and markets to chose from, but how do you navigate them? For beginners, placing a wager through an online site or app can seem intimidating. This project has been designed to aid in making an informed bet and our group will describe the basics for understanding the terminology and concepts used.
+
 ## Table of Contents
+- [Initial_Process](#initial_process)
 - [Stadium Type Analysis](#stadium_type_analysis)
+- [Over/Under Analysis](#over_under_analysis)
+- [Resources](#resources)
+
+## Initial Process
+We began by researching and collecting existing datasets online to form csv files to be able to extract data for NFL Teams, scoring history, stadium locations and betting history. Once the correct files were located, cleaning the data on Python and creating one data frame that would be used for all the categories covered in the assignment. 
+
+![image](https://github.com/dadario10/Betting_Analytics_Project/assets/130397259/48f44fbf-1fa7-4662-bd7d-ce6e3b735b27)
+
+## Over Under Analysis
+###by: Brettney Chau-Dang
+One of the most common types of over/under bet is placed on the combined score of the two teams playing in the game.
+The concept of betting on totals, or better known as over/under, in the NFL, comprises of wagers being placed on the total amount of points scored within a game. The goal is to choose from two options, where the score will be higher or lower than a pre-determined number set by the corresponding sportsbook being used. 
+If a game exceeds regular game time play, overtime will be included. If the outcome of the total points for the game falls exactly on the quoted line/pre-determined value, the total is then declared as a "push", in which all wagers are returned to the bettors.
+I first had to calculate the total number of games that were played for the last 10 NFL seasons.
+
+![image](https://github.com/dadario10/Betting_Analytics_Project/assets/130397259/87d9c7ac-8afa-4bb8-ad7e-19ccb74bc3c1)
+
+To determine whether the status of a game came in Over or Under the quoted line, I created a formula to populate the result in a new column.
+
+![image](https://github.com/dadario10/Betting_Analytics_Project/assets/130397259/7670980a-f517-4a4c-8b4d-af9528abeeeb)
+ 
+From there, I extracted the columns I needed for my bar chart and renamed the columns accordingly.
+Over/Under by Season
+From the original data frame created, I filtered the data into a new data frame only consisting of the columns needed for my analysis. 
+Once I had narrowed down the columns I needed, I then created a column that would calculate the total score of each game that was played. I then was able to determine the status of whether that game was higher or lower than the pre-determined value from the over under line.
+
+![image](https://github.com/dadario10/Betting_Analytics_Project/assets/130397259/bc5dc9bf-bd4f-4e4a-8c97-30a90c9f611b)
+
+Once that information was filtered, I created a bar chart to showcase the total games that had fallen over or under for each NFL Season from 2013 to 2022. Based on this analysis I would bet under the quoted line for any given game, because nearly 60% of all games played were Under.
+ 
+![image](https://github.com/dadario10/Betting_Analytics_Project/assets/130397259/23e6799b-622d-4d8c-bc43-a34098e304a4)
+ 
+Over/Under by Team
+There are currently 32 Teams in the NFL. After filtering through the data and creating a bar chart, there were a couple NFL Teams that stood out. For example, the Kansas City Chiefs fell Under the quoted line in a total of 58 games over the last 10 seasons. If they were playing, I would place my bet in the Under category. 
+
+![image](https://github.com/dadario10/Betting_Analytics_Project/assets/130397259/09d454f6-dd48-40e8-894d-e1c116d2f041)
+
+![image](https://github.com/dadario10/Betting_Analytics_Project/assets/130397259/b815e800-9855-4e22-ab5e-9d71f59d7575)
+
+However, the New England Patriots, Philadelphia Eagles, and the Las Vegas Raiders (previously known as the Oakland Raiders), which changed cities as of 2019, all had a total of 50 games that were all Over the quoted line. Ironically, the Las Vegas Raiders also had the lowest number of total games that were Under the quoted line. If the Las Vegas Raiders were playing In the game, I would likely place a bet in the Over category.
+
+![image](https://github.com/dadario10/Betting_Analytics_Project/assets/130397259/beeb20f4-4eb4-4ee0-a595-2e5a23ff4483)
 
 ## Stadium Type Analysis
 ### By: Justin Butler
@@ -17,9 +66,9 @@ Weather Summary Statistics Table:
 ![image](https://github.com/dadario10/Betting_Analytics_Project/assets/129707393/d001aeb5-9cbf-4e0f-a92d-c506b6a7ca48)
     The table supports the idea that the weather in outdoor stadiums is much harsher and unpredictable than indoor stadiums with such high statistic measurements such as variance and standard deviation. With an outdoor temperature variance 30 times greater than indoor temperatures, a standard deviation almost 6 times greater than indoor, outdoor wind speed variance almost 10 times greater than indoor and standard deviation almost 3 times greater, the analysis clearly shows tremendous variability and value spread across the weather data. Meaning the overall weather at outdoor stadiums can be significantly different than indoor stadiums due to things like changing weather conditions, time of year and geography. 
 
-    To answer Question 1) better I formed the following hypotheses:
-Alternate Hypothesis: If stadium type is factored into how the over/under lines are set. Then the average over/under line for games played indoors should be higher than the games played outdoors. 
-Null Hypothesis: If stadium is NOT factored into how the over/under lines are set. Then the average over/under line for games played indoors will NOT be higher than the games played outdoors.
+   To answer Question 1) better I formed the following hypotheses:
+* Alternative Hypothesis: If stadium type is factored into how the over/under lines are set. Then the average over/under line for games played indoors should be higher than the games played outdoors. 
+* Null Hypothesis: If stadium is NOT factored into how the over/under lines are set. Then the average over/under line for games played indoors will NOT be higher than the games played outdoors.
     To answer these and see how the stadium type affects a betting measure such as over/under through statistical analysis I again used the groupby() and aggregation  functions to analyze the over/under line of each game against the stadium type. To produce the following summary statistics table:
 ![image](https://github.com/dadario10/Betting_Analytics_Project/assets/129707393/41bf6529-d764-4f53-b5da-ba377572c351)
     To visualize the data between these 2 columns and the summary table I chose a box-and-whisker plot for its ability to show mean, quartiles, outliers and overall potential skew of the data. Seen below:
@@ -60,4 +109,33 @@ Analysis and numbers: Our dataset collected NFL games spanning from 2013 to 2022
 ![linevisualization](https://github.com/dadario10/Betting_Analytics_Project/assets/130175420/2d7fe7bf-380c-47b1-b799-87dfc0c88f03)
 The graphs, “Weekly Count By Season” and “Weekly Count by Season Line Graph” show the total number of games played per week. In the bar chart you can see some weeks have the maximum number of games which is 16 and the lowest number of games which is 1. Looking specifically at week 18, you can see a gap in the bar chart from 2013-2020. This is because the NFL added week 18 to their schedule for the first time in 2021. This now gives more opportunity for gamblers to make bets and going forward gives more data to run and see if the moneyline win percentage goes up or down. Looking at the bar chart and line plot you can see and in 2020-2022 the NFL increased the number of ‘Wildcard’ games from 4 to 6. This also going forward will add more data to work with and potentially increase the success rate of betting with the moneyline.
 Conclusion and Limitations: Based on the data we worked with, betting on the moneyline will often give you a winning result on your gambling picks. The only possible limitation to this is the odds. If the odds don’t give a great return, as is explained above, then the favourite losing 34.21% of the time may not cover the amount you have to gamble in order to win in the long run. More data is required based on average odds that can be connected to the findings in the report to come up with more information. 
+
+
+
+
+
+
+
+
+
+## Resources
+### 1) Real-time sports data API
+ As one of the resources, "https://sportsdata.io/developers/api-documentation/nfl#" was used to extract data using an API key. Which provided access to NFL metadata, live odds feeds, predictions, settelements and results, splits, matchups, trends, active sportsbooks and many more that can be sorted and categorized by team, game date, game season (pre,regular&post), market ID, market type, event, player stats, team stats and many more.
+### 2) nflgame v.1.2.20
+An API used to retrieve and read NFL Game Center Json data was nflgame "https://pypi.org/project/nflgame/".
+This python extension works by parsing the same JSON data that powers NFL.com's live GameCenter, which means it can be used to report game statistics while a game is being played.
+### 3) NFL Teams
+An exisiting .csv file dataset for NFL Teams was found on "https://www.kaggle.com/datasets/tobycrabtree/nfl-scores-and-betting-data". This dataset consisted of all 32 NFL team names, ID's, conferences and divisions.
+### 4) Game Score History
+An existing .csv file dataset was found on www.kaggle.com, owned by SpreadSpoke. This dataset consisted of NFL football games since the 1966 season with game results and descriptive info including if a playoff game, played at a neutral site, and weather information if available. 
+### 5) NFL Stadiums
+An exisiting .csv file dataset was found on www.kaggle.com. This dataset consisted of NFL Stadium information, past and present. 
+### 6) Other sources
+https://github.com/jp-wright/nfl_betting_market_analysis
+https://github.com/peanutshawny/nfl-sports-betting/tree/master
+https://www.fanduel.com/sports-betting-strategy/
+https://www.nationalfootballpost.com/how-to-bet/over-under-betting/
+https://tenor.com/search/hungergames-gifs
+https://madeinca.ca/gambling-canada-statistics/
+https://www.forbes.com/sites/greatspeculations/2023/02/13/as-sports-bettings-popularity-rises-in-the-us-keep-in-mind-that-its-not-a-replacement-for-investing/?sh=4abaeda6d09a
 
