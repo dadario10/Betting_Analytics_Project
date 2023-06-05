@@ -98,7 +98,8 @@ Which produced a nice clean DataFrame:
 *	Ability/Time constraints. Due to the need to change project topics, a few days were lost at the beginning of the project timeline. Also, my experience in Data Analytics limited my ability to analyze our csv data, or any data for that matter, at a more detailed level. In the future with more skills such as “data scrapping” more detailed data from multiple sources would likely be available, thus allowing for a more detailed analysis.
 
 ## Moneyline Betting
-### Analysis and Conclusion By: Dario Micucci
+### Analysis and Conclusion 
+### By: Dario Micucci
 
  In football, the Moneyline is the type of sports bet in which you predict the outcome of the game based on the outright winner. You simply select which team you think will win the game. The Moneyline will show 2 teams, the respective odds will have either a ‘-’ or a ‘+’ next to the lines. The negative number indicates the favorite, while the positive number represents the underdog. The negative number shows how much you would need to wager in order to make $100. For example, if the number is -190, you would need to wager $190 to make $100. The positive however shows how much additional money your bet would make if you wager $100. For example, if the line is +160 you stand to make and additional $160 on your $100 wager. The greater the negative number the more favoured that team is while simultaneously the greater positive number shows how great of an underdog the other team is. 
  In order to obtain the data that I required I used the data set one of my collogues provided and cleaned it up. I narrowed our window to the years 2013-2022 first in the “nfl_scores.ipynb” file. 
