@@ -160,11 +160,20 @@ You can see the odds are even, from a betting perspective. Point spread helps ke
 To determine whether the point spread of a game was a win or a loss bet, I created a DataFrame to populate the result in a new “Win/Loss” column.
 From there, I extracted the 3 columns that I needed for a visual bar graph and renamed the columns accordingly. These were the years in question (from 2013 to 2022) or “Season”, the “Win/Loss” column and the “Spread Favourite”. 
 
-Once that information was filtered, I created a bar chart to display the total Win/Loss bets that had fallen over the “Spread Favourite” for each NFL Season covering 2013 to 2022. Based on this analysis, it’s clear that the spread winners stay consistent along the 140-line spread favourite. It’s interesting to note that the spread over loss bets are increasing year over year. Generally speaking, loss bets outdo won bets. 
+Once that information was filtered, I created a bar graph to display the total Win/Loss bets that had fallen over the “Spread Favourite” for each NFL Season covering 2013 to 2022. Based on this analysis, it’s clear that the spread winners stay consistent along the 140-line spread favourite. It’s interesting to note that the spread over loss bets are increasing year over year. Generally speaking, loss bets outdo won bets. 
 
-<img width="1049" alt="image" src="https://github.com/dadario10/Betting_Analytics_Project/assets/118138351/1d00b788-44b3-4ed5-a63f-0753dc3a3fd4">
+Points spread Bets: What is the minimum and maximum amount of points spread a bet is being placed?
+The minimum amount of point spread being placed is 30 and the maximum is 56, as is shown on the following visual:
 
-32 teams comprise the NFL. The bar chart that was created shows all of the home teams in the league. The New England Patriots have the highest wins of all the home teams. On the other hand, the Denver Broncos have the highest losses of all home teams. If I was placing a bet then, I would place my bet on the New England Patriots.
+<img width="302" alt="image" src="https://github.com/dadario10/Betting_Analytics_Project/assets/118138351/d20348f4-61e5-41db-bf10-da1b4eb74139">
+
+Further, the NFL team which has the maximum amount of point spread are the Las Vegas Raiders:
+<img width="140" alt="image" src="https://github.com/dadario10/Betting_Analytics_Project/assets/118138351/1dbb28ee-2331-48b7-be12-bc31eb2ea22f">
+
+And the NFL team that has the minimum amount of point spread are the Baltimore	Ravens:
+<img width="117" alt="image" src="https://github.com/dadario10/Betting_Analytics_Project/assets/118138351/ae1400a7-e876-40c0-b83f-2785ebb042bb">
+
+32 teams comprise the NFL. The bar graph that was created shows all of the home teams in the league. The New England Patriots have the highest wins of all the home teams. On the other hand, the Denver Broncos have the highest losses of all home teams. If I was placing a bet then, I would place my bet on the New England Patriots.
 
 <img width="1049" alt="image" src="https://github.com/dadario10/Betting_Analytics_Project/assets/118138351/e2d712be-788a-4a7c-ad02-5a9063999e30">
 
