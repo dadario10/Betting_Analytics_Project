@@ -162,8 +162,8 @@ From there, I extracted the 3 columns that I needed for a visual bar graph and r
 
 Once that information was filtered, I created a bar graph to display the total Win/Loss bets that had fallen over the “Spread Favourite” for each NFL Season covering 2013 to 2022. Based on this analysis, it’s clear that the spread winners stay consistent along the 140-line spread favourite. It’s interesting to note that the spread over loss bets are increasing year over year. Generally speaking, loss bets outdo won bets. 
 
-Points spread Bets: What is the minimum and maximum amount of points spread a bet is being placed?
-The minimum amount of point spread being placed is 30 and the maximum is 56, as is shown on the following visual:
+Points Spread Bets: What is the minimum and maximum amount of points spread a bet is being placed?
+The minimum amount of point spread being placed is 30 and the maximum is 56, as shown on the following visual:
 
 <img width="302" alt="image" src="https://github.com/dadario10/Betting_Analytics_Project/assets/118138351/d20348f4-61e5-41db-bf10-da1b4eb74139">
 
